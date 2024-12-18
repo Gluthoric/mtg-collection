@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { CardGrid } from '../cards/CardGrid';
 import { CardDetail } from '../cards/CardDetail';
-import { CollectionStats } from '../stats/CollectionStats';
+import CollectionStats from '../stats/CollectionStats';
 import { CollectionAPI } from '../../services/api';
 import type { MagicCard, CollectionStats as Stats } from '../../types/card';
 
