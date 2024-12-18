@@ -1,0 +1,5 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+Memnite,Game Day Promos,1,FALSE,10.28,Special,12,,,,
+Trueheart Duelist,Game Day Promos,1,FALSE,0.25,Uncommon,67,,,,
+Power Word Kill,Game Day Promos,1,FALSE,0.50,Rare,74,36c71043-1c11-4377-ab33-41d19927143a,1,gdy,rare
+Shivan Devastator,Game Day Promos,1,TRUE,17.83,Mythic Rare,79,beadc5fe-1c55-4707-a3c8-2ba318cc8846,6,gdy,mythic

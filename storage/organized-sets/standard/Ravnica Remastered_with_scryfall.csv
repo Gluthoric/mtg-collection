@@ -1,0 +1,311 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+"Karn, the Great Creator",Ravnica Remastered,1,TRUE,4.93,Mythic Rare,1,deb3721d-fba1-444f-8b31-1cd10c94c4a0,1,rvr,mythic
+Armory Guard,Ravnica Remastered,1,TRUE,0.04,Common,3,322fdd11-7874-46f6-adc5-051119a6c978,3,rvr,common
+Arrester's Zeal,Ravnica Remastered,1,TRUE,0.06,Common,4,f501024b-79e8-48f8-8102-38d3e439dc64,4,rvr,common
+Azorius Arrester,Ravnica Remastered,1,TRUE,0.03,Common,5,c737cd7a-e1ef-4a74-9e85-b56ea06b05d7,54,clu,common
+Basilica Guards,Ravnica Remastered,1,TRUE,0.04,Common,7,5ba068ef-7f08-474f-beea-575568dd6963,7,rvr,common
+Boros Elite,Ravnica Remastered,1,TRUE,0.14,Common,10,c39f6916-e89d-4185-84b9-c6c02e348ad8,10,rvr,common
+Bulwark Giant,Ravnica Remastered,1,TRUE,0.05,Common,11,ebf3a622-6aad-4d74-8098-ffbf21555956,11,rvr,common
+Conclave Equenaut,Ravnica Remastered,1,TRUE,0.05,Common,13,672fc96f-114c-49d8-ad99-f627110f8cc1,13,rvr,common
+Divine Visitation,Ravnica Remastered,1,TRUE,6.12,Mythic Rare,16,0b0c12dc-3978-4c3e-a3a2-a81db878f4ad,16,rvr,mythic
+Eyes in the Skies,Ravnica Remastered,1,TRUE,0.03,Common,17,077aafc3-d94c-4ac0-8b7e-aadbb114e4c7,17,rvr,common
+Faith's Fetters,Ravnica Remastered,1,TRUE,0.04,Common,18,08b62f4c-cc20-40b6-a504-407d53bdf2aa,18,rvr,common
+Ghostway,Ravnica Remastered,1,TRUE,3.60,Rare,19,02842e77-7475-4fe5-9d2e-f3c8ba56bc88,19,rvr,rare
+Gideon Blackblade,Ravnica Remastered,1,FALSE,0.97,Mythic Rare,20,41326ca6-f815-4af7-b022-67db127bc125,20,rvr,mythic
+Keening Apparition,Ravnica Remastered,1,TRUE,0.05,Common,21,af8f86ba-4795-4d0f-aa99-f1ca109f0f5c,21,rvr,common
+Ministrant of Obligation,Ravnica Remastered,1,TRUE,0.06,Uncommon,23,a37658ab-2dda-4412-9cc2-3b2df32c7581,23,rvr,uncommon
+Mistral Charger,Ravnica Remastered,1,TRUE,0.07,Uncommon,24,97b4c2d1-ba84-4051-a2e2-5b9710a3823e,24,rvr,uncommon
+Rootborn Defenses,Ravnica Remastered,1,TRUE,1.90,Common,26,eb3ef4da-27c0-4364-a198-f70bea869d9b,71,clu,common
+Summary Judgment,Ravnica Remastered,1,TRUE,0.05,Common,27,84628a1e-17d4-4037-9b53-6ac123746ed7,27,rvr,common
+Sunhome Stalwart,Ravnica Remastered,1,TRUE,0.04,Uncommon,28,3eb6a3ab-29eb-4c9a-995b-04de1c0dd4c9,73,clu,uncommon
+Syndicate Messenger,Ravnica Remastered,1,TRUE,0.04,Common,29,672b88fa-250b-4f8f-878e-ce3446c92ea9,75,clu,common
+"Tomik, Distinguished Advokist",Ravnica Remastered,1,TRUE,0.19,Rare,31,0eea32dc-dbac-47a9-97b2-311413f1de9d,31,rvr,rare
+Unbreakable Formation,Ravnica Remastered,1,TRUE,1.80,Rare,32,06e1cc7b-9319-4f6f-88ee-2e6b6d2efbc6,32,rvr,rare
+Bruvac the Grandiloquent,Ravnica Remastered,1,TRUE,28.73,Mythic Rare,35,2ce2d73f-3f64-44db-a2bc-a8f4a37dc487,35,rvr,mythic
+Cerulean Sphinx,Ravnica Remastered,1,TRUE,0.02,Uncommon,36,4ccc3647-4cbc-4fec-91f5-5bc064530174,36,rvr,uncommon
+Compulsive Research,Ravnica Remastered,1,TRUE,0.07,Common,38,fd162ca2-3f27-4747-8f5c-8e66e9ceb7f2,38,rvr,common
+Copy Enchantment,Ravnica Remastered,1,TRUE,0.62,Rare,39,ce82b316-8982-41bf-a990-6b776a9e83ac,39,rvr,rare
+Downsize,Ravnica Remastered,1,TRUE,0.02,Common,41,6e90fd71-25f1-4142-adb2-decbb5ccbc16,41,rvr,common
+Eyes Everywhere,Ravnica Remastered,1,TRUE,0.09,Uncommon,43,cf5aa4a2-f5fb-4771-9dd8-f41d8c65e687,43,rvr,uncommon
+Helium Squirter,Ravnica Remastered,1,TRUE,0.03,Common,45,54eb659a-f087-41b3-8e66-a895b70a9060,87,clu,common
+Keymaster Rogue,Ravnica Remastered,1,TRUE,0.02,Common,47,6045f2a8-01f1-496d-9498-dff3c1654761,47,rvr,common
+Kiora's Dambreaker,Ravnica Remastered,1,TRUE,0.06,Common,48,02754f2f-03f3-4064-9d0f-6d2a3784af95,48,rvr,common
+Leapfrog,Ravnica Remastered,1,TRUE,0.10,Common,49,0eefa088-cc53-41a4-b5ad-88483915cd8f,89,clu,common
+Murmuring Mystic,Ravnica Remastered,1,TRUE,0.50,Uncommon,51,9e68dcc2-bba4-4efa-97bb-3ed892037595,102,otc,common
+Nightveil Sprite,Ravnica Remastered,1,TRUE,0.10,Uncommon,52,82f806fe-3970-4ae2-b232-d99002d46062,113,mkc,uncommon
+Radical Idea,Ravnica Remastered,1,TRUE,0.07,Common,58,aa32ec44-d29b-4ebe-82f5-4fe67bca07eb,110,otc,common
+Repeal,Ravnica Remastered,1,TRUE,0.06,Common,60,265b80cd-2e9c-4e4b-a065-eafb29b3e07a,94,clu,common
+Spark Double,Ravnica Remastered,1,TRUE,4.76,Rare,62,c41b9ba2-0006-4d8e-b600-efe81ff5e0cc,62,rvr,rare
+Vedalken Mesmerist,Ravnica Remastered,1,TRUE,0.04,Common,65,45fb53b4-9fff-43dd-ae5d-f3ec83e49076,65,rvr,common
+Balustrade Spy,Ravnica Remastered,1,TRUE,0.07,Common,66,24c852a5-4f38-464b-89b6-2100cf405ff5,66,rvr,common
+Bladebrand,Ravnica Remastered,1,TRUE,0.15,Common,68,ae6f6255-865a-45fa-811d-ce477df730f2,68,rvr,common
+Burglar Rat,Ravnica Remastered,1,TRUE,0.23,Common,69,de1c8758-ce3d-49cf-8173-c0eb46f5e7bc,170,fdn,common
+Dimir House Guard,Ravnica Remastered,1,TRUE,0.15,Common,73,a1974bac-4763-4f95-ae60-061e34d0283d,73,rvr,common
+Ill-Gotten Inheritance,Ravnica Remastered,1,TRUE,0.13,Common,77,abf2a55e-3112-452c-ac6a-6a3b9986ca99,77,rvr,common
+"Liliana, Dreadhorde General",Ravnica Remastered,1,TRUE,12.83,Mythic Rare,80,cb28d217-795e-4320-a032-cd713f7ecc8a,176,fdn,mythic
+Mausoleum Turnkey,Ravnica Remastered,1,TRUE,0.03,Uncommon,84,bb0f0260-b737-43aa-a6fc-9e0b55b24369,116,clu,uncommon
+Mephitic Vapors,Ravnica Remastered,1,TRUE,0.06,Common,85,20770a2a-0138-430b-a45d-96bd2e3e5b6b,85,rvr,common
+Midnight Reaper,Ravnica Remastered,1,TRUE,0.38,Rare,86,f229b0e6-1ffd-410e-b04b-a0afc179c58c,609,fdn,rare
+Orzhov Enforcer,Ravnica Remastered,1,TRUE,0.16,Uncommon,87,aff4247a-c4b0-4a1a-a9b1-c948db21ec10,87,rvr,uncommon
+Orzhov Euthanist,Ravnica Remastered,1,TRUE,0.04,Common,88,cbed250a-3065-40ee-beaf-be1895cc4fa8,88,rvr,common
+Plaguecrafter,Ravnica Remastered,1,TRUE,0.41,Uncommon,89,97505837-e0e2-4f7b-8581-01942e886bb8,89,rvr,uncommon
+Priest of Forgotten Gods,Ravnica Remastered,1,TRUE,1.87,Rare,90,b8ccb220-0f7c-4275-b1bf-fe8e28410e42,90,rvr,rare
+Sewer Shambler,Ravnica Remastered,1,TRUE,0.06,Common,91,450f741d-837e-4993-ad28-7ef23b1ac8a4,91,rvr,common
+Stab Wound,Ravnica Remastered,1,TRUE,0.06,Uncommon,93,cbe656e7-ae71-45c2-a263-588b73f70d73,93,rvr,uncommon
+Thrill-Kill Assassin,Ravnica Remastered,1,TRUE,0.09,Common,94,d1ca07c8-28f2-4f59-a370-e5c11712fc40,94,rvr,common
+Ultimate Price,Ravnica Remastered,1,TRUE,0.08,Uncommon,95,253c6342-fec3-459c-8376-8ccf8aea2905,95,rvr,uncommon
+Undercity's Embrace,Ravnica Remastered,1,TRUE,0.05,Common,96,fd88d48b-0de4-410a-984b-11d49a00c4c6,96,rvr,common
+Vindictive Vampire,Ravnica Remastered,1,TRUE,0.25,Uncommon,97,335cf2ae-90c3-407e-9e4a-5e18aab74744,126,clu,uncommon
+Act of Treason,Ravnica Remastered,1,TRUE,0.09,Common,99,a1a9d323-fb40-411b-a0e7-64024bc6ba58,99,rvr,common
+Bomber Corps,Ravnica Remastered,1,TRUE,0.04,Common,102,65078778-8291-43d0-adf0-05e0e7b671d2,102,rvr,common
+Burn Bright,Ravnica Remastered,1,TRUE,0.07,Common,103,d10a0f92-c42d-4257-8f64-89fe26687fba,103,rvr,common
+Burning-Tree Vandal,Ravnica Remastered,1,TRUE,0.04,Common,105,f61d0a8a-8c2b-4870-83d3-8286a63637b8,105,rvr,common
+Demolish,Ravnica Remastered,1,TRUE,0.08,Common,106,3abaf8fe-5fab-442c-b219-45137f9ae112,106,rvr,common
+Dogpile,Ravnica Remastered,1,TRUE,0.09,Common,108,9624ed7b-9f45-483c-a2cc-6089605f988f,108,rvr,common
+Greater Forgeling,Ravnica Remastered,1,TRUE,0.02,Common,109,8e4bd21c-f7f1-4a18-894a-80d7b498b57c,109,rvr,common
+Guttersnipe,Ravnica Remastered,1,TRUE,0.21,Uncommon,110,dde674d6-f4e7-410b-acf0-34021290576d,716,fdn,uncommon
+Krenko's Command,Ravnica Remastered,1,TRUE,0.25,Common,115,b07d96a1-87a0-45ff-ae6e-230deaf44dca,139,clu,common
+Mizzix's Mastery,Ravnica Remastered,1,TRUE,1.27,Rare,118,4fa2d7f2-05b3-468f-9f2c-a61b46bad88e,175,otc,rare
+Mugging,Ravnica Remastered,1,TRUE,0.05,Common,119,0cce62f3-4a04-4f03-aafe-ccb18eda60c1,119,rvr,common
+Scorched Rusalka,Ravnica Remastered,1,TRUE,0.16,Common,122,15fecad6-5f0f-4d40-98ba-7849cda9ec4d,122,rvr,common
+Skullcrack,Ravnica Remastered,1,TRUE,0.14,Uncommon,125,7f399983-d70a-4cf3-b76e-bb0c472e7c69,125,rvr,uncommon
+Stalking Vengeance,Ravnica Remastered,1,TRUE,0.18,Uncommon,126,22ab5c53-932e-465d-84b7-2c8263c835e9,126,rvr,uncommon
+Taste for Mayhem,Ravnica Remastered,1,TRUE,0.06,Common,127,e3426d58-ff4d-482d-bc78-99b67c55c6d1,127,rvr,common
+Wojek Bodyguard,Ravnica Remastered,1,TRUE,0.04,Common,130,08e3015b-9c76-484e-9d28-0fbdeb982605,154,clu,common
+Arboreal Grazer,Ravnica Remastered,1,TRUE,0.20,Common,131,6d00ced6-7ba3-4d78-a680-9d3211704ca2,131,rvr,common
+Chord of Calling,Ravnica Remastered,1,TRUE,4.49,Rare,134,b18fe7e0-8344-40cc-b242-83f01c6be7a6,134,rvr,rare
+Crocanura,Ravnica Remastered,1,TRUE,0.09,Common,135,9de9515a-8845-4eba-922f-438dea46a22a,135,rvr,common
+Fists of Ironwood,Ravnica Remastered,1,TRUE,0.09,Common,139,862a2871-57be-42f5-9097-d821013d3b58,139,rvr,common
+Forced Adaptation,Ravnica Remastered,1,TRUE,0.09,Common,140,246c6f63-59df-41a5-8c28-f43e1e89c25f,140,rvr,common
+Forced Landing,Ravnica Remastered,1,TRUE,0.03,Common,141,619b97c7-f297-4c25-be94-27dfae4d39b3,141,rvr,common
+Fungal Rebirth,Ravnica Remastered,1,TRUE,0.11,Uncommon,142,52abf994-78d6-40dd-9d43-19ae8176e3bd,163,clu,uncommon
+Gather Courage,Ravnica Remastered,1,TRUE,0.02,Common,143,bf059c8d-6e61-41ca-ac79-3bf82fa2d4b3,143,rvr,common
+Greater Mossdog,Ravnica Remastered,1,TRUE,0.03,Common,145,0e7ed627-6ce3-4629-bcd9-e449642b8d34,145,rvr,common
+Horncaller's Chant,Ravnica Remastered,1,TRUE,0.03,Common,147,e344b19e-6965-43d9-8d0b-09d6422ffebd,147,rvr,common
+Loaming Shaman,Ravnica Remastered,1,TRUE,0.08,Uncommon,149,f5226787-e2c0-4ce2-903c-6c0797420f99,149,rvr,uncommon
+Moldervine Cloak,Ravnica Remastered,1,TRUE,0.05,Uncommon,150,2250c307-f9b3-4e4e-9e34-84ede712ec99,150,rvr,uncommon
+Overwhelm,Ravnica Remastered,1,TRUE,0.03,Uncommon,152,19384be7-d746-4927-adb4-ad521e8a8dd5,152,rvr,uncommon
+Silhana Ledgewalker,Ravnica Remastered,1,TRUE,0.12,Common,156,21a2d11e-48b7-4e9a-a574-838cc26c2b17,206,otc,common
+Sprouting Renewal,Ravnica Remastered,1,TRUE,0.11,Common,157,e0b32db8-1c8c-4109-a051-0b61eda1da35,157,rvr,common
+Titanic Brawl,Ravnica Remastered,1,TRUE,0.18,Common,158,e58e5661-cfc8-4266-a0ce-38af9a698773,158,rvr,common
+Utopia Sprawl,Ravnica Remastered,1,TRUE,1.38,Uncommon,159,5ea568df-04a1-4012-98ec-ba75e189e0ca,159,rvr,uncommon
+Wurmweaver Coil,Ravnica Remastered,1,TRUE,0.09,Uncommon,161,37a71160-aa29-4662-8d7b-590771b42635,161,rvr,uncommon
+"Yeva, Nature's Herald",Ravnica Remastered,1,TRUE,1.37,Rare,162,67ff9ba3-cd2b-4970-b4da-22104b10a4a4,162,rvr,rare
+Assemble the Legion,Ravnica Remastered,1,TRUE,0.35,Rare,163,10ce686a-eecd-4b32-a882-9a6ca3274ae6,163,rvr,rare
+Blind Hunter,Ravnica Remastered,1,TRUE,0.06,Common,166,814a5348-988d-480f-806d-9c958f1a10b9,166,rvr,common
+Borborygmos Enraged,Ravnica Remastered,1,TRUE,0.25,Rare,167,02df18c5-07b9-4e85-9c4b-58b63fa59437,167,rvr,rare
+Boros Guildmage,Ravnica Remastered,1,TRUE,0.12,Uncommon,168,4355130c-bfaa-4799-9d70-dbfd32e39f7e,168,rvr,uncommon
+Cartel Aristocrat,Ravnica Remastered,1,TRUE,0.09,Uncommon,170,e2dec477-5764-4c0c-bb10-42d64ad2103e,170,rvr,uncommon
+Cindervines,Ravnica Remastered,1,TRUE,0.53,Rare,171,a18da49b-fa47-4014-a8d8-aeccec17d8eb,171,rvr,rare
+Coiling Oracle,Ravnica Remastered,1,TRUE,0.13,Common,172,559ff1b1-018c-4e08-9531-8af20af47d05,172,rvr,common
+Conclave Cavalier,Ravnica Remastered,1,TRUE,0.03,Uncommon,173,084d80d4-c675-4f2a-97ce-ec0b401ecadf,173,rvr,uncommon
+Deathrite Shaman,Ravnica Remastered,1,TRUE,4.23,Rare,175,cfdb1c47-14be-491f-88b3-bed03489dbc5,175,rvr,rare
+Dimir Guildmage,Ravnica Remastered,1,TRUE,0.04,Uncommon,178,0b963389-6231-4095-a1f4-33457ce51ff2,186,clu,uncommon
+Footlight Fiend,Ravnica Remastered,1,TRUE,0.06,Common,181,73083658-5e25-4d06-acba-ce8f771b5e52,191,clu,common
+Fresh-Faced Recruit,Ravnica Remastered,1,TRUE,0.03,Common,182,276d127a-2685-4de2-b4df-dd37f7682cd7,192,clu,common
+Frilled Mystic,Ravnica Remastered,1,TRUE,0.13,Uncommon,183,5bf655ce-c841-42b2-9578-56ab401bf4de,183,rvr,uncommon
+Glowspore Shaman,Ravnica Remastered,1,TRUE,0.05,Common,184,a7978a10-795a-414a-a824-b65f7ba543bc,184,rvr,common
+Gobhobbler Rats,Ravnica Remastered,1,TRUE,0.09,Common,185,649bd603-5686-42e8-bb31-8578d6a245fe,185,rvr,common
+Goblin Electromancer,Ravnica Remastered,1,TRUE,0.23,Common,186,71808155-db49-4027-a2fc-76f53475ac05,228,otc,common
+Golgari Findbroker,Ravnica Remastered,1,TRUE,0.11,Uncommon,187,eb6104f6-127f-4ab8-94bb-d98783ecb377,187,rvr,uncommon
+Gruul Guildmage,Ravnica Remastered,1,TRUE,0.04,Uncommon,189,80c29287-d32e-4f7d-8602-240921314804,189,rvr,uncommon
+Izzet Charm,Ravnica Remastered,1,TRUE,0.21,Uncommon,190,15af0592-a1cb-4b1e-b051-dde978939706,190,rvr,uncommon
+Judge's Familiar,Ravnica Remastered,1,TRUE,0.15,Common,192,ed363208-cf66-4205-8512-b999b67227d3,192,rvr,common
+Master of Cruelties,Ravnica Remastered,1,TRUE,4.62,Mythic Rare,198,ffd68fe1-5cfc-44cf-8dfe-3488278cdcef,198,rvr,mythic
+Mayhem Devil,Ravnica Remastered,1,TRUE,0.82,Uncommon,199,087ff277-902f-4285-93b6-dc18e6d4fe15,225,dsc,uncommon
+Merfolk of the Depths,Ravnica Remastered,1,TRUE,0.02,Common,200,387e51db-89b7-44a9-9fc8-4e59479c75d2,200,rvr,common
+Mindleech Mass,Ravnica Remastered,1,TRUE,0.48,Rare,201,88df246f-708b-4fbb-94e4-6df9471e626e,201,rvr,rare
+Moroii,Ravnica Remastered,1,TRUE,0.05,Uncommon,202,3f01c66d-042a-497c-bc86-cad414fa4d60,202,rvr,uncommon
+Mortus Strider,Ravnica Remastered,1,TRUE,0.05,Common,203,67280eed-e4ed-4bbe-9829-24785ebe2ad0,203,rvr,common
+"Nicol Bolas, Dragon-God",Ravnica Remastered,1,TRUE,3.46,Mythic Rare,205,c5408607-af8f-48fe-bc40-32828d1976de,205,rvr,mythic
+Orzhov Guildmage,Ravnica Remastered,1,TRUE,0.08,Uncommon,208,5eb5c82b-71aa-4c94-bda0-3e5abe10ea67,201,clu,uncommon
+Petrahydrox,Ravnica Remastered,1,TRUE,0.05,Common,209,d84084a3-c230-487f-b8d7-d2ba7ad96670,209,rvr,common
+Phytohydra,Ravnica Remastered,1,TRUE,0.24,Rare,210,a5928146-27c6-47f6-8f09-43fe80359309,210,rvr,rare
+Prime Speaker Zegana,Ravnica Remastered,1,TRUE,0.44,Rare,211,d2f007b0-b578-44f8-be65-cd9e2ac56e09,664,fdn,rare
+Putrefy,Ravnica Remastered,1,TRUE,0.19,Uncommon,212,7ddfa0e2-3d26-4f61-ba6f-16bb83c8a58e,90,dsc,uncommon
+Rakdos Firewheeler,Ravnica Remastered,1,TRUE,0.06,Uncommon,213,c413daa1-5996-488a-ad97-0964336618e3,213,rvr,uncommon
+Rakdos Guildmage,Ravnica Remastered,1,TRUE,0.06,Uncommon,214,fb3271d0-4788-4ecc-abf7-95a1e8106d0c,214,rvr,uncommon
+"Rakdos, Lord of Riots",Ravnica Remastered,1,TRUE,2.09,Rare,215,3d0d5a41-8251-437c-a4a0-3b712281ebb0,230,dsc,mythic
+Rhythm of the Wild,Ravnica Remastered,1,TRUE,2.89,Uncommon,217,c2a6453e-a373-44ec-807a-15c0c8b1af57,217,rvr,uncommon
+"Savra, Queen of the Golgari",Ravnica Remastered,1,TRUE,2.51,Rare,218,e189f09e-d637-4631-bae3-a5a583ada429,218,rvr,rare
+Scab-Clan Mauler,Ravnica Remastered,1,TRUE,0.04,Common,219,3463609d-58ca-4747-a450-05cf3e3bbf9b,219,rvr,common
+Simic Guildmage,Ravnica Remastered,1,TRUE,0.09,Uncommon,223,6f0656a7-ec7c-4fc2-983b-efd902752690,223,rvr,uncommon
+Sky Hussar,Ravnica Remastered,1,TRUE,0.10,Uncommon,224,cccfd565-99db-4c24-a16d-665b0823a159,224,rvr,uncommon
+Skyknight Legionnaire,Ravnica Remastered,1,TRUE,0.08,Common,225,e22b3239-0f4f-4628-b8fb-0bdeb9b744b1,225,rvr,common
+Slitherhead,Ravnica Remastered,1,TRUE,0.07,Common,226,4703f1d0-088e-4036-b50c-ce9f7c053ec7,226,rvr,common
+Stitch in Time,Ravnica Remastered,1,TRUE,1.11,Rare,229,da3a311a-d2c2-4bd1-aa39-9e6f4eb51960,229,rvr,rare
+Truefire Captain,Ravnica Remastered,1,TRUE,0.07,Uncommon,235,eddcf0fd-bcbb-4ce9-ab94-9d4b81c0222d,235,rvr,uncommon
+Vernadi Shieldmate,Ravnica Remastered,1,TRUE,0.05,Common,236,9c6742b5-f951-47c2-b836-360626b80ab0,216,clu,common
+Wild Cantor,Ravnica Remastered,1,TRUE,0.16,Common,239,e6b56946-a368-4cd7-9d35-be14afca935b,239,rvr,common
+Revival // Revenge,Ravnica Remastered,1,TRUE,0.51,Rare,241,e33b265d-1956-48d0-91d5-036f06dd816a,241,rvr,rare
+Connive // Concoct,Ravnica Remastered,1,TRUE,0.11,Rare,242,d7481287-fce9-4ef0-a3a8-7801c9eb3fa8,203,mkc,rare
+Bedeck // Bedazzle,Ravnica Remastered,1,TRUE,0.09,Rare,244,6073e8f5-16bd-4a4f-a9d7-462a343c6772,244,rvr,rare
+Thrash // Threat,Ravnica Remastered,1,TRUE,0.14,Rare,246,9715dce0-dcb5-4614-8404-97f72f06342e,246,rvr,rare
+Response // Resurgence,Ravnica Remastered,1,TRUE,0.38,Rare,247,2502d3bf-1956-4294-b4d5-38eee79eeda1,247,rvr,rare
+Assure // Assemble,Ravnica Remastered,1,TRUE,0.06,Rare,248,57bf73d8-635a-4249-a658-d60722cda823,248,rvr,rare
+Boros Signet,Ravnica Remastered,1,TRUE,1.20,Uncommon,251,df8388ee-5d1d-4144-a8b1-e555da72ad6b,220,clu,common
+Chromatic Lantern,Ravnica Remastered,1,TRUE,2.88,Rare,253,8f6448b1-ffc7-43f0-b713-881016ce9485,255,otc,rare
+Dimir Signet,Ravnica Remastered,1,TRUE,1.17,Uncommon,256,c3af24ce-b1ab-4137-9222-a4080acae928,221,clu,common
+Gate Colossus,Ravnica Remastered,1,TRUE,0.05,Uncommon,257,bc49d9cb-8c7a-4a8f-96ea-bbe6ade8ae00,675,fdn,uncommon
+Golgari Signet,Ravnica Remastered,1,TRUE,0.45,Uncommon,258,95103b4c-d0c0-40fa-9ddd-c7416455ca0c,246,dsc,uncommon
+Gruul Signet,Ravnica Remastered,1,TRUE,0.50,Uncommon,259,ed1adca8-9386-42b0-ac6b-699394ac7969,223,clu,common
+Illusionist's Bracers,Ravnica Remastered,1,FALSE,5.12,Rare,260,9dd8d940-a973-4469-bf78-90318d98f3ab,260,rvr,rare
+Izzet Signet,Ravnica Remastered,1,TRUE,2.40,Uncommon,261,1a9f7c61-11e8-493f-98a8-50573a41c46a,259,otc,common
+Junktroller,Ravnica Remastered,1,TRUE,0.05,Uncommon,262,14dcae36-a1a7-4fe2-a1ef-974ca1558a7f,262,rvr,uncommon
+Orzhov Signet,Ravnica Remastered,1,TRUE,0.59,Uncommon,263,4930d5ea-a6a9-4a87-9083-d5cd337cd7fa,249,dsc,uncommon
+Pariah's Shield,Ravnica Remastered,1,FALSE,1.00,Rare,264,d794e94e-5ba4-4caa-bd3d-737301056da1,264,rvr,rare
+Rakdos Signet,Ravnica Remastered,1,TRUE,2.15,Uncommon,265,01cc9536-f710-4c47-9e3f-d7e83cc888f2,250,dsc,uncommon
+Seal of the Guildpact,Ravnica Remastered,1,TRUE,0.25,Rare,266,2707d84f-5ab1-46c6-8932-ec51cae14111,266,rvr,rare
+Silent Dart,Ravnica Remastered,1,FALSE,0.15,Uncommon,268,f59521a1-07c4-47a6-8b2f-8a2d8338a58c,268,rvr,uncommon
+Azorius Guildgate,Ravnica Remastered,1,TRUE,0.13,Common,272,f98a7264-0a83-42c8-a94d-05ad4c234242,683,fdn,common
+Boros Guildgate,Ravnica Remastered,1,TRUE,0.15,Common,274,3e3c74ea-40e9-4ad9-a491-c208403b68ad,684,fdn,common
+Dimir Guildgate,Ravnica Remastered,1,TRUE,0.15,Common,276,f9b8a159-5e58-4432-8ecd-62f39afa96da,688,fdn,common
+Golgari Guildgate,Ravnica Remastered,1,TRUE,0.21,Common,278,92d4646c-a375-4835-aa58-8bb77d1a5abf,689,fdn,common
+Gruul Guildgate,Ravnica Remastered,1,TRUE,0.14,Common,279,3ab6c240-c97d-4a5c-bc39-860c2d9901c2,690,fdn,common
+Izzet Guildgate,Ravnica Remastered,1,TRUE,0.16,Common,281,db9e6fc9-813d-4a71-8a68-8e0f83fa945d,691,fdn,common
+Orzhov Guildgate,Ravnica Remastered,1,TRUE,0.18,Common,282,a917be03-0c17-4454-b044-c4375e5c8085,692,fdn,common
+Rakdos Guildgate,Ravnica Remastered,1,TRUE,0.12,Common,284,e1f01964-c610-4d0f-a2b4-f52e46dc50d2,693,fdn,common
+Sacred Foundry,Ravnica Remastered,1,TRUE,17.69,Rare,285,8076a8c3-7c6c-4636-b5d8-9b09ee95f92c,285,rvr,rare
+Selesnya Guildgate,Ravnica Remastered,1,TRUE,0.14,Common,286,6718d4e7-768e-473f-8064-a68422e977f6,694,fdn,common
+Simic Guildgate,Ravnica Remastered,1,TRUE,0.10,Common,287,96590855-1ee5-4d69-9070-776e23f71976,695,fdn,common
+Temple Garden,Ravnica Remastered,1,TRUE,11.67,Rare,290,18d2e383-d380-4d18-8aad-bd8ea093a16c,290,rvr,rare
+Blood Crypt (Borderless),Ravnica Remastered Variants,1,TRUE,21.78,Rare,292,,,,
+Breeding Pool (Borderless),Ravnica Remastered Variants,1,FALSE,20.63,Rare,293,,,,
+Godless Shrine (Borderless),Ravnica Remastered Variants,1,FALSE,15.65,Rare,294,,,,
+Hallowed Fountain (Borderless),Ravnica Remastered Variants,1,TRUE,19.13,Rare,295,,,,
+Overgrown Tomb (Borderless),Ravnica Remastered Variants,1,TRUE,23.38,Rare,296,,,,
+Steam Vents (Borderless),Ravnica Remastered Variants,1,FALSE,17.83,Rare,298,,,,
+Temple Garden (Borderless),Ravnica Remastered Variants,1,TRUE,27.68,Rare,300,,,,
+Watery Grave (Borderless),Ravnica Remastered Variants,1,FALSE,21.03,Rare,301,,,,
+Blazing Archon (Showcase),Ravnica Remastered Variants,1,TRUE,0.21,Rare,302,,,,
+Blind Obedience (Showcase),Ravnica Remastered Variants,1,FALSE,1.58,Rare,303,,,,
+Condemn (Showcase),Ravnica Remastered Variants,1,FALSE,0.25,Uncommon,304,,,,
+Devouring Light (Showcase),Ravnica Remastered Variants,1,FALSE,0.20,Uncommon,305,,,,
+Divine Visitation (Showcase),Ravnica Remastered Variants,1,TRUE,5.44,Mythic Rare,306,,,,
+Faith's Fetters (Showcase),Ravnica Remastered Variants,1,TRUE,0.11,Common,307,,,,
+Ghostway (Showcase),Ravnica Remastered Variants,1,TRUE,1.49,Rare,308,,,,
+Cloudfin Raptor (Showcase),Ravnica Remastered Variants,1,FALSE,0.19,Common,310,,,,
+Compulsive Research (Showcase),Ravnica Remastered Variants,1,TRUE,0.11,Common,311,,,,
+Copy Enchantment (Showcase),Ravnica Remastered Variants,1,TRUE,0.47,Rare,312,,,,
+Cyclonic Rift (Showcase),Ravnica Remastered Variants,1,FALSE,40.48,Mythic Rare,313,,,,
+Drift of Phantasms (Showcase),Ravnica Remastered Variants,1,TRUE,0.21,Common,314,,,,
+Muddle the Mixture (Showcase),Ravnica Remastered Variants,1,FALSE,1.19,Uncommon,315,,,,
+Persistent Petitioners (Showcase),Ravnica Remastered Variants,1,TRUE,1.76,Common,316,,,,
+Pteramander (Showcase),Ravnica Remastered Variants,1,TRUE,0.20,Uncommon,317,,,,
+Quicken (Showcase),Ravnica Remastered Variants,1,TRUE,0.25,Uncommon,318,,,,
+Tidespout Tyrant (Showcase),Ravnica Remastered Variants,1,FALSE,0.61,Rare,320,,,,
+Totally Lost (Showcase),Ravnica Remastered Variants,1,TRUE,0.05,Common,321,,,,
+Crypt Ghast (Showcase),Ravnica Remastered Variants,1,TRUE,8.11,Rare,322,,,,
+Dimir House Guard (Showcase),Ravnica Remastered Variants,1,FALSE,0.20,Common,324,,,,
+Golgari Thug (Showcase),Ravnica Remastered Variants,1,FALSE,0.39,Uncommon,325,,,,
+Massacre Girl (Showcase),Ravnica Remastered Variants,1,FALSE,0.50,Rare,328,,,,
+Ultimate Price (Showcase),Ravnica Remastered Variants,1,TRUE,0.19,Uncommon,329,,,,
+Vindictive Vampire (Showcase),Ravnica Remastered Variants,1,FALSE,0.25,Uncommon,330,,,,
+Guttersnipe (Showcase),Ravnica Remastered Variants,1,FALSE,0.29,Uncommon,332,,,,
+Hellkite Tyrant (Showcase),Ravnica Remastered Variants,1,TRUE,3.81,Rare,333,,,,
+Krenko's Command (Showcase),Ravnica Remastered Variants,1,FALSE,0.22,Common,336,,,,
+Legion Warboss (Showcase),Ravnica Remastered Variants,1,FALSE,0.50,Rare,337,,,,
+Light Up the Stage (Showcase),Ravnica Remastered Variants,1,TRUE,0.63,Uncommon,338,,,,
+Mizzix's Mastery (Showcase),Ravnica Remastered Variants,1,TRUE,0.81,Rare,339,,,,
+Skewer the Critics (Showcase),Ravnica Remastered Variants,1,TRUE,0.77,Common,340,,,,
+Skullcrack (Showcase),Ravnica Remastered Variants,1,FALSE,0.34,Uncommon,341,,,,
+Utvara Hellkite (Showcase),Ravnica Remastered Variants,1,FALSE,5.65,Mythic Rare,342,,,,
+Arboreal Grazer (Showcase),Ravnica Remastered Variants,1,TRUE,2.81,Common,343,,,,
+Birds of Paradise (Showcase),Ravnica Remastered Variants,1,TRUE,6.92,Rare,344,,,,
+Chord of Calling (Showcase),Ravnica Remastered Variants,1,FALSE,3.94,Rare,345,,,,
+Experiment One (Showcase),Ravnica Remastered Variants,1,FALSE,0.25,Uncommon,346,,,,
+Golgari Grave-Troll (Showcase),Ravnica Remastered Variants,1,FALSE,1.16,Rare,348,,,,
+Loaming Shaman (Showcase),Ravnica Remastered Variants,1,FALSE,0.24,Uncommon,351,,,,
+Moldervine Cloak (Showcase),Ravnica Remastered Variants,1,TRUE,0.13,Uncommon,352,,,,
+Silhana Ledgewalker (Showcase),Ravnica Remastered Variants,1,TRUE,0.25,Common,354,,,,
+Utopia Sprawl (Showcase),Ravnica Remastered Variants,1,FALSE,1.29,Uncommon,355,,,,
+Call of the Conclave (Showcase),Ravnica Remastered Variants,1,TRUE,0.07,Common,358,,,,
+Cindervines (Showcase),Ravnica Remastered Variants,1,TRUE,0.26,Rare,360,,,,
+Coiling Oracle (Showcase),Ravnica Remastered Variants,1,TRUE,0.15,Common,361,,,,
+Crackling Drake (Showcase),Ravnica Remastered Variants,1,TRUE,0.64,Uncommon,362,,,,
+Deathrite Shaman (Showcase),Ravnica Remastered Variants,1,TRUE,6.19,Rare,363,,,,
+Debt to the Deathless (Showcase),Ravnica Remastered Variants,1,TRUE,0.37,Uncommon,364,,,,
+Dreadbore (Showcase),Ravnica Remastered Variants,1,TRUE,0.34,Rare,365,,,,
+Frilled Mystic (Showcase),Ravnica Remastered Variants,1,FALSE,0.23,Uncommon,366,,,,
+Goblin Electromancer (Showcase),Ravnica Remastered Variants,1,FALSE,0.25,Common,367,,,,
+Izzet Charm (Showcase),Ravnica Remastered Variants,1,FALSE,0.25,Uncommon,368,,,,
+"Lavinia, Azorius Renegade (Showcase)",Ravnica Remastered Variants,1,TRUE,0.40,Rare,370,,,,
+"Lazav, the Multifarious (Showcase)",Ravnica Remastered Variants,1,FALSE,0.26,Rare,371,,,,
+Mayhem Devil (Showcase),Ravnica Remastered Variants,1,TRUE,2.52,Uncommon,374,,,,
+Mindleech Mass (Showcase),Ravnica Remastered Variants,1,FALSE,0.25,Rare,375,,,,
+Prime Speaker Zegana (Showcase),Ravnica Remastered Variants,1,TRUE,0.35,Rare,377,,,,
+Putrefy (Showcase),Ravnica Remastered Variants,1,TRUE,0.21,Uncommon,378,,,,
+"Rakdos, Lord of Riots (Showcase)",Ravnica Remastered Variants,1,TRUE,0.36,Rare,379,,,,
+Rhythm of the Wild (Showcase),Ravnica Remastered Variants,1,TRUE,3.74,Uncommon,380,,,,
+"Savra, Queen of the Golgari (Showcase)",Ravnica Remastered Variants,1,FALSE,0.40,Rare,381,,,,
+Sky Hussar (Showcase),Ravnica Remastered Variants,1,FALSE,0.20,Uncommon,382,,,,
+Sphinx's Revelation (Showcase),Ravnica Remastered Variants,1,FALSE,0.35,Rare,383,,,,
+Stitch in Time (Showcase),Ravnica Remastered Variants,1,TRUE,0.28,Rare,384,,,,
+"Tajic, Legion's Edge (Showcase)",Ravnica Remastered Variants,1,TRUE,0.15,Rare,385,,,,
+"Teysa, Orzhov Scion (Showcase)",Ravnica Remastered Variants,1,TRUE,0.77,Rare,386,,,,
+Tolsimir Wolfblood (Showcase),Ravnica Remastered Variants,1,FALSE,0.30,Rare,387,,,,
+Voidslime (Showcase),Ravnica Remastered Variants,1,FALSE,0.40,Rare,388,,,,
+Bottled Cloister (Showcase),Ravnica Remastered Variants,1,FALSE,0.25,Rare,389,,,,
+Chromatic Lantern (Showcase),Ravnica Remastered Variants,1,TRUE,2.49,Rare,390,,,,
+Seal of the Guildpact (Showcase),Ravnica Remastered Variants,1,TRUE,0.18,Rare,394,,,,
+Sword of the Paruns (Showcase),Ravnica Remastered Variants,1,TRUE,0.28,Rare,395,,,,
+Azorius Guildgate (Showcase),Ravnica Remastered Variants,1,TRUE,0.48,Common,396,,,,
+Blood Crypt (Showcase),Ravnica Remastered Variants,1,FALSE,16.99,Rare,397,,,,
+Boros Guildgate (Showcase),Ravnica Remastered Variants,1,TRUE,0.28,Common,398,,,,
+Breeding Pool (Showcase),Ravnica Remastered Variants,1,FALSE,16.50,Rare,399,,,,
+Dimir Guildgate (Showcase),Ravnica Remastered Variants,1,TRUE,0.32,Common,400,,,,
+Godless Shrine (Showcase),Ravnica Remastered Variants,1,FALSE,12.76,Rare,401,,,,
+Golgari Guildgate (Showcase),Ravnica Remastered Variants,1,TRUE,0.35,Common,402,,,,
+Gruul Guildgate (Showcase),Ravnica Remastered Variants,1,TRUE,0.24,Common,403,,,,
+Izzet Guildgate (Showcase),Ravnica Remastered Variants,1,TRUE,0.31,Common,405,,,,
+Orzhov Guildgate (Showcase),Ravnica Remastered Variants,1,TRUE,0.24,Common,406,,,,
+Rakdos Guildgate (Showcase),Ravnica Remastered Variants,1,TRUE,0.39,Common,408,,,,
+Sacred Foundry (Showcase),Ravnica Remastered Variants,1,TRUE,39.19,Rare,409,,,,
+Selesnya Guildgate (Showcase),Ravnica Remastered Variants,1,TRUE,0.30,Common,410,,,,
+Simic Guildgate (Showcase),Ravnica Remastered Variants,1,FALSE,0.25,Common,411,,,,
+Steam Vents (Showcase),Ravnica Remastered Variants,1,TRUE,37.26,Rare,412,,,,
+Stomping Ground (Showcase),Ravnica Remastered Variants,1,FALSE,12.52,Rare,413,,,,
+Temple Garden (Showcase),Ravnica Remastered Variants,1,TRUE,24.22,Rare,414,,,,
+Watery Grave (Showcase),Ravnica Remastered Variants,1,FALSE,18.97,Rare,415,,,,
+Divine Visitation (Borderless),Ravnica Remastered Variants,1,FALSE,13.20,Mythic Rare,416,,,,
+"Tomik, Distinguished Advokist (Borderless)",Ravnica Remastered Variants,1,TRUE,0.37,Rare,417,,,,
+Cyclonic Rift (Borderless),Ravnica Remastered Variants,1,FALSE,50.96,Mythic Rare,419,,,,
+"Fblthp, the Lost (Borderless)",Ravnica Remastered Variants,1,FALSE,0.48,Rare,420,,,,
+Spark Double (Borderless),Ravnica Remastered Variants,1,TRUE,16.09,Rare,421,,,,
+Tidespout Tyrant (Borderless),Ravnica Remastered Variants,1,FALSE,0.84,Rare,422,,,,
+Crypt Ghast (Borderless),Ravnica Remastered Variants,1,FALSE,8.37,Rare,423,,,,
+Lord of the Void (Borderless),Ravnica Remastered Variants,1,FALSE,11.07,Mythic Rare,424,,,,
+Massacre Girl (Borderless),Ravnica Remastered Variants,1,FALSE,5.26,Rare,425,,,,
+Pack Rat (Borderless),Ravnica Remastered Variants,1,FALSE,3.13,Rare,426,,,,
+Arclight Phoenix (Borderless),Ravnica Remastered Variants,1,FALSE,1.60,Rare,427,,,,
+"Ilharg, the Raze-Boar (Borderless)",Ravnica Remastered Variants,1,TRUE,5.42,Mythic Rare,429,,,,
+"Krenko, Mob Boss (Borderless)",Ravnica Remastered Variants,1,FALSE,3.66,Rare,430,,,,
+Utvara Hellkite (Borderless),Ravnica Remastered Variants,1,FALSE,12.40,Mythic Rare,431,,,,
+Birds of Paradise (Borderless),Ravnica Remastered Variants,1,FALSE,7.49,Rare,432,,,,
+Guardian Project (Borderless),Ravnica Remastered Variants,1,TRUE,28.76,Mythic Rare,433,,,,
+Life from the Loam (Borderless),Ravnica Remastered Variants,1,FALSE,7.50,Rare,434,,,,
+Protean Hulk (Borderless),Ravnica Remastered Variants,1,FALSE,5.64,Mythic Rare,435,,,,
+"Aurelia, Exemplar of Justice (Borderless)",Ravnica Remastered Variants,1,FALSE,10.48,Mythic Rare,436,,,,
+"Niv-Mizzet, Parun (Borderless)",Ravnica Remastered Variants,1,TRUE,22.45,Rare,438,,,,
+Prime Speaker Zegana (Borderless),Ravnica Remastered Variants,1,FALSE,1.23,Rare,439,,,,
+"Savra, Queen of the Golgari (Borderless)",Ravnica Remastered Variants,1,FALSE,3.18,Rare,440,,,,
+"Teysa, Orzhov Scion (Borderless)",Ravnica Remastered Variants,1,TRUE,9.87,Rare,441,,,,
+Chromatic Lantern (Borderless),Ravnica Remastered Variants,1,FALSE,6.57,Rare,442,,,,
+Cloudstone Curio (Borderless),Ravnica Remastered Variants,1,FALSE,8.59,Mythic Rare,443,,,,
+Domri Rade (Borderless),Ravnica Remastered Variants,1,FALSE,1.02,Mythic Rare,444,,,,
+Ral Zarek (Borderless),Ravnica Remastered Variants,1,FALSE,1.00,Mythic Rare,445,,,,
+Sphere of Safety (Retro Frame),Ravnica Remastered Variants,1,FALSE,3.00,Uncommon,447,,,,
+Narcomoeba (Retro Frame),Ravnica Remastered Variants,1,FALSE,1.33,Uncommon,451,,,,
+Turnabout (Retro Frame),Ravnica Remastered Variants,1,TRUE,0.30,Uncommon,452,,,,
+Darkblast (Retro Frame),Ravnica Remastered Variants,1,TRUE,0.73,Uncommon,454,,,,
+Pack Rat (Retro Frame),Ravnica Remastered Variants,1,FALSE,2.56,Rare,455,,,,
+Shattering Spree (Retro Frame),Ravnica Remastered Variants,1,FALSE,0.92,Uncommon,456,,,,
+Perilous Forays (Retro Frame),Ravnica Remastered Variants,1,FALSE,0.96,Uncommon,457,,,,
+Wilderness Reclamation (Retro Frame),Ravnica Remastered Variants,1,TRUE,3.09,Uncommon,458,,,,
+Shambling Shell (Retro Frame),Ravnica Remastered Variants,1,FALSE,0.25,Common,460,,,,
+Supreme Verdict (Retro Frame),Ravnica Remastered Variants,1,TRUE,2.77,Rare,461,,,,
+Magewright's Stone (Retro Frame),Ravnica Remastered Variants,1,TRUE,7.59,Uncommon,462,,,,
+Pithing Needle (Retro Frame),Ravnica Remastered Variants,1,TRUE,1.16,Rare,463,,,,
+Karn's Bastion (Retro Frame),Ravnica Remastered Variants,1,TRUE,2.29,Rare,464,,,,
+Maze's End (Retro Frame),Ravnica Remastered Variants,1,TRUE,6.10,Mythic Rare,465,,,,
+Thespian's Stage (Retro Frame),Ravnica Remastered Variants,1,FALSE,2.61,Rare,466,,,,

@@ -1,0 +1,311 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+Axgard Braggart,Kaldheim,1,TRUE,0.16,Common,1,4de5ff64-6fe7-4fc5-be27-cdbaa14545ab,1,khm,common
+Battershield Warrior,Kaldheim,1,FALSE,0.17,Uncommon,2,fb79dc85-f85a-4846-9ac3-c75c64ea9c0a,2,khm,uncommon
+Battlefield Raptor,Kaldheim,1,FALSE,0.20,Common,3,389f0045-218d-41cd-bdca-8a9a0ab1b31b,3,khm,common
+Beskir Shieldmate,Kaldheim,1,FALSE,0.15,Common,4,dfc1df84-9c47-444b-9d58-d9c7bed51c66,4,khm,common
+Bound in Gold,Kaldheim,1,FALSE,0.15,Common,5,074d526a-1eef-4045-bd38-f6d68c4bc4b9,5,khm,common
+Codespell Cleric,Kaldheim,1,TRUE,0.04,Common,7,1316a74e-da55-4668-87f2-98389a90a2a4,7,khm,common
+Divine Gambit,Kaldheim,1,FALSE,0.18,Uncommon,8,696a8c12-4a1f-4b96-a921-538fa1a2de43,8,khm,uncommon
+Doomskar Oracle,Kaldheim,1,FALSE,0.15,Common,10,6dae01c8-15bb-44ad-a2c6-9bcf7a9e8c17,10,khm,common
+Giant Ox,Kaldheim,1,FALSE,0.18,Common,11,fc71d8ca-c613-4534-bc9d-bc1e13202a2c,11,khm,common
+Glorious Protector,Kaldheim,1,TRUE,0.33,Rare,12,d9f08552-7f1a-4fdb-9a70-d99cdbf75910,12,khm,rare
+Gods' Hall Guardian,Kaldheim,1,FALSE,0.14,Common,13,e8e645c8-90ac-4865-b441-e64251d6c9a8,13,khm,common
+Goldmaw Champion,Kaldheim,1,TRUE,0.05,Common,14,44d4cd64-8560-48f5-b0bc-f75286c1c91c,14,khm,common
+Invoke the Divine,Kaldheim,1,TRUE,0.17,Common,16,7213d9e1-e9c6-45d8-bb7f-336c41e7b6f7,16,khm,common
+Iron Verdict,Kaldheim,1,FALSE,0.15,Common,17,2fb38f5b-a2c2-4b06-8c9c-9615475a43e7,17,khm,common
+Kaya's Onslaught,Kaldheim,1,FALSE,0.20,Uncommon,18,f28e151f-b61b-486f-b7f8-7abde207c442,18,khm,uncommon
+Master Skald,Kaldheim,1,FALSE,0.15,Common,19,6b269e27-8e17-4bf2-b28a-a83ecc7d22c0,19,khm,common
+Rally the Ranks,Kaldheim,1,FALSE,0.50,Rare,20,03595195-3be2-4d18-b5c0-43b2dcc1c0f5,20,khm,rare
+Resplendent Marshal,Kaldheim,1,FALSE,0.78,Mythic Rare,22,5e849bec-2ee6-4c83-83e6-bf9f5543e414,22,khm,mythic
+Revitalize,Kaldheim,1,FALSE,0.15,Common,23,3a9fb75e-c8e5-417b-83d4-5105af9c66c1,23,khm,common
+Righteous Valkyrie,Kaldheim,1,FALSE,4.36,Rare,24,02fb5f9f-8750-4eb5-a03a-6dacc60e0b90,24,khm,rare
+Rune of Sustenance,Kaldheim,1,FALSE,0.30,Uncommon,25,0e31b716-f325-445a-9098-9ca75d7b35a4,25,khm,uncommon
+Search for Glory,Kaldheim,1,FALSE,0.79,Rare,27,b65c215d-562d-4c7c-bc9f-b1d741050158,27,khm,rare
+"Sigrid, God-Favored",Kaldheim,1,TRUE,0.27,Rare,29,aeec3c1e-e612-4700-888e-300912932552,29,khm,rare
+Spectral Steel,Kaldheim,1,FALSE,0.20,Uncommon,30,cf036489-ef9e-40ee-a1bb-24ee37c554f1,30,khm,uncommon
+Stalwart Valkyrie,Kaldheim,1,TRUE,0.14,Common,31,89ecb530-e429-4b50-a24c-8437614cf224,31,khm,common
+Starnheim Courser,Kaldheim,1,TRUE,0.32,Common,32,5c5373dd-4aec-4e93-97fb-a639aa096764,32,khm,common
+Story Seeker,Kaldheim,1,TRUE,0.02,Common,34,e3dae817-3db1-4edf-86ba-c2c2b238fcf5,34,khm,common
+Usher of the Fallen,Kaldheim,1,FALSE,0.19,Uncommon,35,24e58478-c6a8-4f86-854a-a489c99bd777,35,khm,uncommon
+Valor of the Worthy,Kaldheim,1,FALSE,0.15,Common,37,83632e73-be3f-43fc-932f-45cb1af4f8fb,37,khm,common
+Warhorn Blast,Kaldheim,1,TRUE,0.05,Common,38,3fc98aff-edc0-4f78-ae4f-e08735c9e512,38,khm,common
+Wings of the Cosmos,Kaldheim,1,FALSE,0.15,Common,39,d6b26c95-f90d-43fb-8c99-2a3aa13ac2c6,39,khm,common
+"Alrund, God of the Cosmos // Hakka, Whispering Raven",Kaldheim,1,FALSE,0.50,Mythic Rare,40,5d131784-c1a3-463e-a37b-b720af67ab62,40,khm,mythic
+Annul,Kaldheim,1,TRUE,0.24,Common,42,4b1d4a59-11a0-4a55-8ac0-07377a9e6dc8,42,khm,common
+Ascendant Spirit,Kaldheim,1,TRUE,0.28,Rare,43,ea56de43-c0fd-4627-846d-41a962b95f17,43,khm,rare
+Augury Raven,Kaldheim,1,TRUE,0.07,Common,44,a9947cfd-91d6-479e-a7f6-2a2050f020f3,44,khm,common
+Avalanche Caller,Kaldheim,1,FALSE,0.19,Uncommon,45,89cef049-6a47-4264-b2bc-b9d291a09c4c,45,khm,uncommon
+Behold the Multiverse,Kaldheim,1,FALSE,0.25,Common,46,27855a38-a682-4f97-ad22-ac625e86faec,46,khm,common
+Berg Strider,Kaldheim,1,FALSE,0.15,Common,47,f3567bdc-450e-4481-9349-a80fe52fe431,47,khm,common
+Bind the Monster,Kaldheim,1,FALSE,0.15,Common,48,080be8d1-e453-4250-b917-f0eb26644895,48,khm,common
+Brinebarrow Intruder,Kaldheim,1,FALSE,0.18,Common,49,89960a74-9e17-4e30-874a-4286dd4c917d,49,khm,common
+"Cosima, God of the Voyage // The Omenkeel",Kaldheim,1,FALSE,0.69,Rare,50,fab2fca4-a99f-4ffe-9c02-edb6e0be2358,50,khm,rare
+Cosmos Charger,Kaldheim,1,FALSE,0.29,Rare,51,4ec318c6-b718-436f-b9e8-e0c6154e5010,51,khm,rare
+Cyclone Summoner,Kaldheim,1,FALSE,0.30,Rare,52,b2d40071-cadf-48de-a8ed-d55adbfab632,52,khm,rare
+Depart the Realm,Kaldheim,1,FALSE,0.20,Common,53,2ce0403d-76ed-4eb0-abdd-74ed28f96137,53,khm,common
+Disdainful Stroke,Kaldheim,1,FALSE,0.18,Common,54,7691ac89-f8ba-493e-aa11-5674a783dffb,54,khm,common
+Draugr Thought-Thief,Kaldheim,1,FALSE,0.15,Common,55,31da60a2-d4d3-4954-be59-c7ff61fa2905,55,khm,common
+Frost Augur,Kaldheim,1,FALSE,0.19,Uncommon,56,a2ae592f-caf6-445a-970b-f8101998e657,56,khm,uncommon
+Frostpeak Yeti,Kaldheim,1,FALSE,0.15,Common,57,3f406ce3-dce1-42d3-b76c-8e8c4b2770cb,57,khm,common
+Frostpyre Arcanist,Kaldheim,1,FALSE,0.16,Uncommon,58,276f8abd-4d39-4b50-876f-9c6713bc4ab5,58,khm,uncommon
+Giant's Amulet,Kaldheim,1,FALSE,0.24,Uncommon,59,ab8b1ec2-9303-4722-8644-b3bc1a5c387f,59,khm,uncommon
+Glimpse the Cosmos,Kaldheim,1,FALSE,0.20,Uncommon,60,dc96ebe8-f4b3-4788-a6f5-2a50b6c0d935,60,khm,uncommon
+Graven Lore,Kaldheim,1,FALSE,0.27,Rare,61,e4386e5c-32b1-4096-a93f-fedd1a4801fc,61,khm,rare
+Icebind Pillar,Kaldheim,1,FALSE,0.20,Uncommon,62,a3152f1f-5d3f-4bc4-9b6f-f2983ab3f691,62,khm,uncommon
+Icebreaker Kraken,Kaldheim,1,FALSE,0.39,Rare,63,f1fdb9bb-09a2-4ff7-bcd4-35ea33c1b752,63,khm,rare
+Inga Rune-Eyes,Kaldheim,1,FALSE,0.17,Uncommon,64,62a6f095-5beb-42a8-af8f-d40eef27150e,64,khm,uncommon
+Karfell Harbinger,Kaldheim,1,FALSE,0.15,Common,65,4911016c-b92a-47cc-9553-b424d7be196a,65,khm,common
+Littjara Kinseekers,Kaldheim,1,FALSE,0.15,Common,66,c119f836-0707-49e2-b6d4-25f849d054a4,66,khm,common
+Mists of Littjara,Kaldheim,1,FALSE,0.14,Common,67,6cfd4944-790f-4835-a8a1-c23ef7047648,67,khm,common
+Mistwalker,Kaldheim,1,FALSE,0.15,Common,68,92f64b49-327c-473b-a492-f020a322aed7,68,khm,common
+Mystic Reflection,Kaldheim,1,FALSE,0.99,Rare,69,f7b877e2-60eb-46cd-acd7-8555b9e7e993,69,khm,rare
+"Orvar, the All-Form",Kaldheim,1,FALSE,3.31,Mythic Rare,70,7f36775e-9e48-49cc-a771-d58481712edc,70,khm,mythic
+Pilfering Hawk,Kaldheim,1,FALSE,0.15,Common,71,76ee3829-8dec-4c0f-a6c2-ad47a1c94cfc,71,khm,common
+Ravenform,Kaldheim,1,FALSE,0.25,Common,72,2c2cfcd7-b43a-4dad-a033-e661f55ceecd,72,khm,common
+Reflections of Littjara,Kaldheim,1,FALSE,3.00,Rare,73,eadee447-ce9a-4dea-a074-bfd04197548e,73,khm,rare
+Run Ashore,Kaldheim,1,FALSE,0.14,Common,74,7eed5a2d-d7a4-4f64-a96b-04c5d4206c5a,74,khm,common
+Rune of Flight,Kaldheim,1,FALSE,0.20,Uncommon,75,d5c1a271-2107-462a-9d4a-9c7fbcfa8d77,75,khm,uncommon
+Saw It Coming,Kaldheim,1,FALSE,0.27,Uncommon,76,877a1bb9-5eae-453a-bec0-a9de20ea6815,76,khm,uncommon
+Strategic Planning,Kaldheim,1,FALSE,0.15,Common,77,29306305-cb71-4fef-bf86-f5deb4e7e561,77,khm,common
+Undersea Invader,Kaldheim,1,FALSE,0.15,Common,78,550c745b-64e8-4d20-9cf0-024248ddbd57,78,khm,common
+Blood on the Snow,Kaldheim,1,FALSE,0.27,Rare,79,d8606f40-0af4-443b-a413-a88dc3e8f32e,79,khm,rare
+Burning-Rune Demon,Kaldheim,1,TRUE,5.05,Mythic Rare,81,f358a52b-8044-404e-8d04-2ec5903386cc,81,khm,mythic
+Crippling Fear,Kaldheim,1,FALSE,0.55,Rare,82,7d9bd181-b99f-477e-bcfb-9b78cbf51224,82,khm,rare
+Deathknell Berserker,Kaldheim,1,FALSE,0.14,Common,83,f9f2029f-ffda-4374-9a78-79866ac23fca,83,khm,common
+Demonic Gifts,Kaldheim,1,FALSE,0.19,Common,84,3f23c487-ac4a-475b-ad5e-ec6f8678e668,84,khm,common
+Dogged Pursuit,Kaldheim,1,FALSE,0.19,Common,85,60f6a159-b969-4767-802e-409f8bf286fe,85,khm,common
+Draugr Necromancer,Kaldheim,1,FALSE,0.34,Rare,86,76d8e0ff-e720-41ca-af69-35585a2d7ae2,86,khm,rare
+Draugr Recruiter,Kaldheim,1,FALSE,0.15,Common,87,6b0fe66b-0067-4e5c-9b3a-b014b2f0daf2,87,khm,common
+Draugr's Helm,Kaldheim,1,FALSE,0.18,Uncommon,88,fd4aade3-b1e3-43d1-b4a8-6b55ecdb4327,88,khm,uncommon
+Dread Rider,Kaldheim,1,FALSE,0.15,Common,89,205eb029-68a0-4895-b142-2eb09987b5cb,89,khm,common
+Duskwielder,Kaldheim,1,FALSE,0.15,Common,91,5b5490b8-5652-40f5-8678-e1263ef69b5a,91,khm,common
+"Egon, God of Death // Throne of Death",Kaldheim,1,FALSE,0.40,Rare,92,9dfdb73d-b001-4a59-b79e-8c8c1baea116,92,khm,rare
+Elderfang Disciple,Kaldheim,1,FALSE,0.25,Common,93,7f3a6148-d005-49c1-a7fc-867c4e8251cd,93,khm,common
+Feed the Serpent,Kaldheim,1,FALSE,0.15,Common,95,99a1a75b-20cf-4db9-a244-cc54411446c4,95,khm,common
+Grim Draugr,Kaldheim,1,FALSE,0.13,Common,96,54340c59-03a9-4d9d-bd27-9aed337ce75a,96,khm,common
+Hailstorm Valkyrie,Kaldheim,1,FALSE,0.18,Uncommon,97,a5a272b3-aaab-4c98-86a8-85c67a5f3d4d,97,khm,uncommon
+Infernal Pet,Kaldheim,1,FALSE,0.15,Common,99,80340582-655b-4bf1-88fb-14bcbe17aa04,99,khm,common
+Jarl of the Forsaken,Kaldheim,1,FALSE,0.15,Common,100,f5b12c6c-c3d6-4b8a-bed4-d61f67f565b9,100,khm,common
+Karfell Kennel-Master,Kaldheim,1,FALSE,0.12,Common,101,f670c380-6faa-42ec-ab41-6be8137169b2,101,khm,common
+Koma's Faithful,Kaldheim,1,FALSE,0.15,Common,102,af0f1a90-af64-4122-9c1a-954edf8fa240,102,khm,common
+Priest of the Haunted Edge,Kaldheim,1,FALSE,0.15,Common,104,0cde0f4d-5acc-4a25-a3d6-c6b9b734360c,104,khm,common
+Raise the Draugr,Kaldheim,1,FALSE,0.20,Common,105,1a67c196-632c-4c7b-a132-de07d894e634,105,khm,common
+Rune of Mortality,Kaldheim,1,FALSE,0.25,Uncommon,108,6f75a5e5-70df-49c3-abe1-8cc6975f5171,108,khm,uncommon
+Skemfar Avenger,Kaldheim,1,FALSE,0.39,Rare,109,fad2c6d4-03dd-4dab-861c-77c55bda0db7,109,khm,rare
+Skemfar Shadowsage,Kaldheim,1,FALSE,0.25,Uncommon,110,c204130f-0483-49ed-8512-03a74894702e,110,khm,uncommon
+Skull Raid,Kaldheim,1,FALSE,0.15,Common,111,4589c520-4db3-47bf-bfb2-5d7e02ede4bf,111,khm,common
+"Valki, God of Lies // Tibalt, Cosmic Impostor",Kaldheim,1,TRUE,6.47,Mythic Rare,114,ea7e4c65-b4c4-4795-9475-3cba71c50ea5,114,khm,mythic
+Village Rites,Kaldheim,1,TRUE,0.34,Common,117,0fab9ee8-776a-48e5-b309-bcd381e67bf7,117,khm,common
+Weigh Down,Kaldheim,1,FALSE,0.14,Common,118,6ffa795d-2211-49b0-a6df-812599758f7b,118,khm,common
+Withercrown,Kaldheim,1,FALSE,0.15,Common,119,597fe119-64a7-4499-8b69-738af5a71a20,119,khm,common
+Arni Brokenbrow,Kaldheim,1,FALSE,0.25,Rare,120,ff334bba-0805-4d5d-86c4-99185fe9a77a,120,khm,rare
+Axgard Cavalry,Kaldheim,1,FALSE,0.15,Common,121,2411c341-a470-4484-9248-7c1d3ca12978,121,khm,common
+Basalt Ravager,Kaldheim,1,FALSE,0.20,Uncommon,122,b32aea04-04f7-48a8-a8ab-8b38fa53da3b,122,khm,uncommon
+Breakneck Berserker,Kaldheim,1,FALSE,0.15,Common,124,d6eb23c9-6061-4ad1-a8f3-2c791c49f352,124,khm,common
+Calamity Bearer,Kaldheim,1,FALSE,0.26,Rare,125,a15edad1-ff68-4f20-95f6-99fe549bea98,125,khm,rare
+Cinderheart Giant,Kaldheim,1,FALSE,0.15,Common,126,e4802e6c-6921-4dac-bf44-7e09d6942b71,126,khm,common
+Craven Hulk,Kaldheim,1,FALSE,0.15,Common,127,2be804ab-1024-4eee-b339-48ed8b84d363,127,khm,common
+Crush the Weak,Kaldheim,1,FALSE,0.19,Uncommon,128,875a20c2-1d17-46ea-b4d2-3e70bc05aae3,128,khm,uncommon
+Demon Bolt,Kaldheim,1,FALSE,0.15,Common,129,5f856b0e-b413-49b0-9aa7-d935ad40ae53,129,khm,common
+Dragonkin Berserker,Kaldheim,1,FALSE,0.29,Rare,131,e7f22fe4-2390-4c3d-8b5e-0cf398d97f6a,131,khm,rare
+Dual Strike,Kaldheim,1,FALSE,0.25,Uncommon,132,6ef580f8-efec-4d31-8dc3-2018dd48b6f4,132,khm,uncommon
+Dwarven Hammer,Kaldheim,1,FALSE,0.16,Uncommon,133,f9cc132f-d4c1-4bc4-9c9e-f63ab5e7d094,133,khm,uncommon
+Dwarven Reinforcements,Kaldheim,1,FALSE,0.15,Common,134,40bcc7cb-65dd-4bc6-8606-a162fa6c65f7,134,khm,common
+Fearless Liberator,Kaldheim,1,FALSE,0.20,Uncommon,135,212462b7-e23e-4c87-93aa-9cadefbf1ac8,135,khm,uncommon
+Fearless Pup,Kaldheim,1,FALSE,0.15,Common,136,0eba2250-0e9b-46fd-a4b5-23f30329e063,136,khm,common
+Frenzied Raider,Kaldheim,1,FALSE,0.15,Uncommon,137,22c59e0b-5b78-4cf5-9c2a-92ccf833778f,137,khm,uncommon
+Frost Bite,Kaldheim,1,FALSE,0.15,Common,138,9423318a-c5a8-48d2-92f5-280d15a050a6,138,khm,common
+Goldspan Dragon,Kaldheim,1,FALSE,8.00,Mythic Rare,139,9d914868-9000-4df2-a818-0ef8a7f636ae,139,khm,mythic
+Hagi Mob,Kaldheim,1,FALSE,0.15,Common,140,d3b18cdb-bc17-42ae-bfb7-4eafce01cd39,140,khm,common
+Immersturm Raider,Kaldheim,1,FALSE,0.15,Common,141,77da4de2-4d34-40e5-8fc0-850aef05356b,141,khm,common
+Open the Omenpaths,Kaldheim,1,FALSE,0.15,Common,143,4e4023c8-8e7f-42b9-99e5-87e80fc3d6c8,143,khm,common
+Provoke the Trolls,Kaldheim,1,FALSE,0.16,Uncommon,144,2727b05a-0c86-4c59-b7b4-425bdd8e775d,144,khm,uncommon
+Quakebringer,Kaldheim,1,FALSE,2.00,Mythic Rare,145,c5bbffb9-1f1c-40e5-97f4-29bf1fc68625,145,khm,mythic
+Reckless Crew,Kaldheim,1,FALSE,0.27,Rare,146,bdd68d9d-b0b9-4915-8a12-658eb0e3dd4a,146,khm,rare
+Run Amok,Kaldheim,1,FALSE,0.15,Common,147,44c8136f-2826-476c-a103-7094670506a6,147,khm,common
+Rune of Speed,Kaldheim,1,FALSE,0.23,Uncommon,148,47faee66-b274-466a-890e-bb396dda943d,148,khm,uncommon
+Seize the Spoils,Kaldheim,1,FALSE,0.39,Common,149,b3b7a69c-75d2-49a6-ab56-ef608d0b0208,149,khm,common
+Shackles of Treachery,Kaldheim,1,FALSE,0.15,Common,150,db743c6e-1385-468e-921a-7a525b88a1b6,150,khm,common
+Smashing Success,Kaldheim,1,FALSE,0.15,Common,151,c22c7383-ba4d-4b3c-91d6-2d6528e19825,151,khm,common
+Squash,Kaldheim,1,FALSE,0.15,Common,152,e0b99299-bf84-4654-a331-e4406768b33c,152,khm,common
+Tibalt's Trickery,Kaldheim,1,FALSE,7.67,Rare,153,dd921e27-3e08-438c-bec2-723226d35175,153,khm,rare
+"Toralf, God of Fury // Toralf's Hammer",Kaldheim,1,FALSE,3.00,Mythic Rare,154,22a6a5f1-1405-4efb-af3e-e1f58d664e99,154,khm,mythic
+Tormentor's Helm,Kaldheim,1,FALSE,0.15,Common,155,2318d4f8-309e-4645-b6d1-46572edd6996,155,khm,common
+Tundra Fumarole,Kaldheim,1,FALSE,0.25,Rare,156,b251aa7c-d011-4b52-ab92-415d536c0182,156,khm,rare
+Tuskeri Firewalker,Kaldheim,1,FALSE,0.15,Common,157,a54d0170-a375-4e65-b98d-3e94a3aeef90,157,khm,common
+Vault Robber,Kaldheim,1,FALSE,0.18,Common,158,74f68014-489d-4f51-a959-0f335541cb4e,158,khm,common
+Arachnoform,Kaldheim,1,FALSE,0.15,Common,159,acbe560b-f7b5-4614-91f1-b669a39abc16,159,khm,common
+Blessing of Frost,Kaldheim,1,FALSE,0.28,Rare,161,42f01f4d-491e-4f25-a017-a0d9c437ac8c,161,khm,rare
+Blizzard Brawl,Kaldheim,1,FALSE,0.25,Uncommon,162,6318918f-34e4-4bbf-9816-8e88f21ae324,162,khm,uncommon
+Boreal Outrider,Kaldheim,1,FALSE,0.19,Uncommon,163,455ae615-20d7-4251-828d-72a3345d06f1,163,khm,uncommon
+Broken Wings,Kaldheim,1,FALSE,0.14,Common,164,6201f78e-ff45-4c59-ac85-c8447c14a496,164,khm,common
+Elderleaf Mentor,Kaldheim,1,FALSE,0.15,Common,165,5e8bded3-46c3-474f-9d09-978df8705ad1,165,khm,common
+Elven Bow,Kaldheim,1,FALSE,0.20,Uncommon,166,34c599c7-bcc1-4005-b830-1fa4811af66e,166,khm,uncommon
+Elvish Warmaster,Kaldheim,1,TRUE,1.59,Rare,167,58da074a-a776-4e3f-be04-9e7f18320ae1,167,khm,rare
+"Esika, God of the Tree // The Prismatic Bridge",Kaldheim,1,TRUE,15.18,Mythic Rare,168,f6cd7465-9dd0-473c-ac5e-dd9e2f22f5f6,168,khm,mythic
+Esika's Chariot,Kaldheim,1,TRUE,2.27,Rare,169,a87606cc-fbf0-4e2c-9798-f1c935d0573d,169,khm,rare
+"Fynn, the Fangbearer",Kaldheim,1,FALSE,0.25,Uncommon,170,7d7a8a90-13c1-4b0c-ab2e-fc8d91ccefd9,170,khm,uncommon
+Glittering Frost,Kaldheim,1,TRUE,0.27,Common,171,c60fbc33-6198-4661-967e-cc94f2788e4a,171,khm,common
+Gnottvold Recluse,Kaldheim,1,FALSE,0.15,Common,172,af46c8c8-5dfa-4ebb-b0b9-cd25d01dd432,172,khm,common
+Grizzled Outrider,Kaldheim,1,FALSE,0.15,Common,173,4a1d4473-5317-4bdd-9cb9-93670acf52e9,173,khm,common
+Guardian Gladewalker,Kaldheim,1,FALSE,0.20,Common,174,587eed42-5111-4161-9af5-bf76556c542a,174,khm,common
+Horizon Seeker,Kaldheim,1,FALSE,0.14,Common,175,a17f4b21-6478-407d-b567-2888349f3b66,175,khm,common
+Icehide Troll,Kaldheim,1,FALSE,0.15,Common,176,02f3aaed-a01f-4c6a-b9bb-cd70b0f6ceb1,176,khm,common
+In Search of Greatness,Kaldheim,1,FALSE,0.50,Rare,177,ac0e50fa-5114-4f96-89f4-000906da7c76,177,khm,rare
+Jaspera Sentinel,Kaldheim,1,FALSE,0.20,Common,178,1a68615d-9808-479d-aa80-50651246954e,178,khm,common
+King Harald's Revenge,Kaldheim,1,FALSE,0.15,Common,180,71a659b6-c4a8-4c0a-8b2a-07b6c9e27dfc,180,khm,common
+"Kolvori, God of Kinship // The Ringhart Crest",Kaldheim,1,FALSE,0.44,Rare,181,b76bed98-30b1-4572-b36c-684ada06826c,181,khm,rare
+Littjara Glade-Warden,Kaldheim,1,FALSE,0.20,Uncommon,182,a92dde51-310e-4f28-bd3b-d43b639785ec,182,khm,uncommon
+Mammoth Growth,Kaldheim,1,FALSE,0.15,Common,183,0e55041f-69a5-4bcf-899f-a4b44c208b4d,183,khm,common
+Masked Vandal,Kaldheim,1,FALSE,0.89,Common,184,f0a9c72a-e450-41e3-80e5-06f2f1171245,184,khm,common
+Old-Growth Troll,Kaldheim,1,FALSE,0.66,Rare,185,b759b0f6-342c-4bba-89f1-8451835d8c45,185,khm,rare
+Path to the World Tree,Kaldheim,1,FALSE,0.19,Uncommon,186,606da75d-382a-47a8-9739-644438594700,186,khm,uncommon
+Ravenous Lindwurm,Kaldheim,1,FALSE,0.15,Common,187,9961e3fc-167e-4043-8510-cc5cf08d473e,187,khm,common
+Realmwalker,Kaldheim,1,FALSE,3.90,Rare,188,c8212667-7e18-42a5-9f36-4f8a6ad12f83,188,khm,rare
+Rootless Yew,Kaldheim,1,FALSE,0.20,Uncommon,189,992aba3f-e1cb-4f5a-8b6f-328a069102a4,189,khm,uncommon
+Roots of Wisdom,Kaldheim,1,FALSE,0.15,Common,190,734afb5b-3163-47fa-856f-8a85b9da22d3,190,khm,common
+Rune of Might,Kaldheim,1,FALSE,0.25,Uncommon,191,5c0d507b-fc08-46cb-b092-484fa4adeef6,191,khm,uncommon
+Sarulf's Packmate,Kaldheim,1,FALSE,0.18,Common,192,6061113e-7dd8-4739-b4dd-55bb7f9e39a2,192,khm,common
+Sculptor of Winter,Kaldheim,1,FALSE,0.15,Common,193,9dab2ca2-0039-4eac-a7dc-68756362737d,193,khm,common
+Snakeskin Veil,Kaldheim,1,FALSE,0.20,Common,194,e692c208-c171-4964-9207-43c2cbc62845,194,khm,common
+Spirit of the Aldergard,Kaldheim,1,FALSE,0.20,Uncommon,195,220df551-3820-4910-a206-14501ba02e69,195,khm,uncommon
+Struggle for Skemfar,Kaldheim,1,FALSE,0.15,Common,196,a67747a9-3299-4b4a-a4e0-e8a269c4f927,196,khm,common
+"Toski, Bearer of Secrets",Kaldheim,1,FALSE,3.99,Rare,197,f9e79b59-94c8-4697-bf88-f0a0433170f5,197,khm,rare
+"Vorinclex, Monstrous Raider",Kaldheim,1,FALSE,51.13,Mythic Rare,199,92613468-205e-488b-930d-11908477e9f8,199,khm,mythic
+"Aegar, the Freezing Flame",Kaldheim,1,FALSE,0.19,Uncommon,200,68011f60-6202-48f4-8255-fb94764e2951,200,khm,uncommon
+Arni Slays the Troll,Kaldheim,1,FALSE,0.25,Uncommon,201,d18396f9-ae20-4471-84ab-a2148319bc39,201,khm,uncommon
+Battle for Bretagard,Kaldheim,1,FALSE,0.35,Rare,203,cd31ec15-2fe0-40ab-b320-bc4333db4787,203,khm,rare
+Battle of Frost and Fire,Kaldheim,1,FALSE,0.25,Rare,204,620ed5b7-8874-40d0-9245-98876bdec153,204,khm,rare
+The Bears of Littjara,Kaldheim,1,FALSE,0.30,Rare,205,be43a643-6cb7-4bb6-a28d-8ad30b7fbb6d,205,khm,rare
+Binding the Old Gods,Kaldheim,1,FALSE,0.35,Uncommon,206,d93ee644-d7d7-48d8-a04b-fb479b74edb0,206,khm,uncommon
+The Bloodsky Massacre,Kaldheim,1,FALSE,0.25,Rare,207,669975ed-0501-4b48-988d-29c1215179a4,207,khm,rare
+Fall of the Impostor,Kaldheim,1,FALSE,0.20,Uncommon,208,d7de696a-49c2-421d-a86c-bcffd68870c6,208,khm,uncommon
+Firja's Retribution,Kaldheim,1,FALSE,0.40,Rare,210,03dff23e-d7e3-4d75-a9dc-fdf4a42f31e0,210,khm,rare
+Forging the Tyrite Sword,Kaldheim,1,FALSE,0.25,Uncommon,211,3ce46100-461d-424e-afa4-7a0bb7d0a822,211,khm,uncommon
+"Harald, King of Skemfar",Kaldheim,1,FALSE,0.24,Uncommon,212,9eac78a2-599f-4dba-aec7-982c5ae3f75a,212,khm,uncommon
+Harald Unites the Elves,Kaldheim,1,FALSE,0.30,Rare,213,e7c5f681-0145-45e9-b943-ca9784cfdea0,213,khm,rare
+Immersturm Predator,Kaldheim,1,FALSE,0.35,Rare,214,0d83d2d9-b9d0-47f5-989b-f2c726401ade,214,khm,rare
+Invasion of the Giants,Kaldheim,1,FALSE,0.20,Uncommon,215,7f5075a0-c72a-474c-937c-95dc9205d14f,215,khm,uncommon
+Kardur's Vicious Return,Kaldheim,1,FALSE,0.19,Uncommon,217,233e4774-e701-42d9-aa25-e7e06c14e43d,217,khm,uncommon
+Kaya the Inexorable,Kaldheim,1,FALSE,2.62,Mythic Rare,218,166c0bd1-b59d-4644-832f-888a4ca3a0aa,218,khm,mythic
+"Koll, the Forgemaster",Kaldheim,1,FALSE,0.25,Uncommon,220,22f68b53-0cf7-434d-9da5-1d18c0828a46,220,khm,uncommon
+"Koma, Cosmos Serpent",Kaldheim,1,TRUE,6.60,Mythic Rare,221,2de25ea4-284a-4c16-b823-048ff00c6a03,221,khm,mythic
+"Maja, Bretagard Protector",Kaldheim,1,FALSE,0.31,Uncommon,222,cc3707f1-ed9d-412e-a7be-b6d8b554bd6c,222,khm,uncommon
+Moritte of the Frost,Kaldheim,1,FALSE,0.25,Uncommon,223,22fdbe71-abca-4e48-99b2-1cb6b35d930b,223,khm,uncommon
+"Narfi, Betrayer King",Kaldheim,1,FALSE,0.20,Uncommon,224,421376e4-a4ad-427c-bc9c-d315308dcf68,224,khm,uncommon
+Niko Aris,Kaldheim,1,FALSE,0.90,Mythic Rare,225,6c4e9cfe-e72e-46a1-a8d8-9fda5f2bae73,225,khm,mythic
+Niko Defies Destiny,Kaldheim,1,FALSE,0.18,Uncommon,226,19312f53-5b9d-4e76-91e8-65f444bb68c9,226,khm,uncommon
+The Raven's Warning,Kaldheim,1,FALSE,0.25,Rare,227,d00bd457-e1cc-45e1-8b2e-58f886bd6df8,227,khm,rare
+"Sarulf, Realm Eater",Kaldheim,1,FALSE,0.39,Rare,228,bcecf9ba-36da-490a-9460-99ff87d99fbd,228,khm,rare
+Showdown of the Skalds,Kaldheim,1,FALSE,0.75,Rare,229,3d9d840e-1f13-44e3-a4de-903cfa58a346,229,khm,rare
+"Svella, Ice Shaper",Kaldheim,1,FALSE,0.25,Uncommon,230,a7054d48-5ed3-43a1-85e5-9f306b081b4f,230,khm,uncommon
+The Three Seasons,Kaldheim,1,FALSE,0.20,Uncommon,231,48ce03b3-ec7c-46df-b89a-55405f3b5245,231,khm,uncommon
+The Trickster-God's Heist,Kaldheim,1,FALSE,0.25,Uncommon,232,4aa19a68-0d71-4123-a64d-8cb76f93cd74,232,khm,uncommon
+"Vega, the Watcher",Kaldheim,1,FALSE,0.25,Uncommon,233,28fced7f-3078-4a54-8f76-0ef14c732e97,233,khm,uncommon
+Waking the Trolls,Kaldheim,1,FALSE,0.26,Rare,234,36016324-384c-4c68-8f73-8f39a244c879,234,khm,rare
+Bloodline Pretender,Kaldheim,1,FALSE,1.50,Uncommon,235,eb8a16f6-55c1-40eb-998f-592bf31916b1,235,khm,uncommon
+Colossal Plow,Kaldheim,1,FALSE,0.20,Uncommon,236,fba3fe29-067f-4c7e-8b3b-779f3b37712a,236,khm,uncommon
+Cosmos Elixir,Kaldheim,1,FALSE,1.86,Rare,237,6bf084fe-7762-49c5-974a-cdecc10666b3,237,khm,rare
+Funeral Longboat,Kaldheim,1,FALSE,0.15,Common,238,45c48042-178f-432e-9eee-10bfa1e0795f,238,khm,common
+Goldvein Pick,Kaldheim,1,FALSE,0.25,Common,239,9bf5e4ad-a6e9-4b7c-a1ec-8246d3a3b6ca,239,khm,common
+Maskwood Nexus,Kaldheim,1,FALSE,3.77,Rare,240,471d2aef-cfd4-4131-bbc7-62eeed9f3343,240,khm,rare
+Pyre of Heroes,Kaldheim,1,FALSE,1.05,Rare,241,ae9a8e44-f5de-497d-be48-adf1bcbaec97,241,khm,rare
+Raiders' Karve,Kaldheim,1,FALSE,0.15,Common,242,f572cbb1-49ee-4c95-90a3-82704cf92454,242,khm,common
+Raven Wings,Kaldheim,1,FALSE,0.15,Common,243,60916ebe-6d84-4873-bd91-351bbe219c57,243,khm,common
+Replicating Ring,Kaldheim,1,FALSE,0.66,Uncommon,244,b079e285-8431-46aa-bb04-70cac586ed0b,244,khm,uncommon
+Runed Crown,Kaldheim,1,FALSE,0.18,Uncommon,245,1ef89770-2dbb-4a57-99f7-191591bb8e38,245,khm,uncommon
+Scorn Effigy,Kaldheim,1,FALSE,0.15,Common,246,4fa13084-3e68-49f4-8cc9-6d02286fd150,246,khm,common
+Weathered Runestone,Kaldheim,1,FALSE,0.30,Uncommon,247,0fc2478f-e624-46fb-85af-1254564cd4d2,247,khm,uncommon
+Alpine Meadow,Kaldheim,1,FALSE,0.40,Common,248,8702d6b9-bb01-4841-a76d-4a576066c772,248,khm,common
+Arctic Treeline,Kaldheim,1,FALSE,0.47,Common,249,b20e3117-f1e4-4449-ae9d-0b66abfc717d,249,khm,common
+Axgard Armory,Kaldheim,1,FALSE,0.49,Uncommon,250,f9c77d35-8418-48fb-b7d7-7cfa763545c5,250,khm,uncommon
+Barkchannel Pathway // Tidechannel Pathway,Kaldheim,1,TRUE,4.03,Rare,251,b6de14ae-0132-4261-af00-630bf15918cd,251,khm,rare
+Bretagard Stronghold,Kaldheim,1,FALSE,0.23,Uncommon,253,24a0f2e2-cfd7-4374-a172-4357d5de47bb,253,khm,uncommon
+Faceless Haven,Kaldheim,1,FALSE,0.40,Rare,255,e3cd82e5-6072-4334-a493-01ca4ad6b4eb,255,khm,rare
+Gates of Istfell,Kaldheim,1,FALSE,0.20,Uncommon,256,2627acb7-57d9-4429-9bc5-e7dd444d8d48,256,khm,uncommon
+Glacial Floodplain,Kaldheim,1,FALSE,0.40,Common,257,9de5fadd-4559-479f-b45d-abe792f0f6e5,257,khm,common
+Gnottvold Slumbermound,Kaldheim,1,FALSE,0.20,Uncommon,258,735470df-65d8-43e9-837e-4869c8e4f052,258,khm,uncommon
+Hengegate Pathway // Mistgate Pathway,Kaldheim,1,FALSE,5.20,Rare,260,7ef37cb3-d803-47d7-8a01-9c803aa2eadc,260,khm,rare
+Highland Forest,Kaldheim,1,FALSE,0.49,Common,261,682eee5f-7986-45d3-910f-407303fdbcc4,261,khm,common
+Ice Tunnel,Kaldheim,1,FALSE,0.39,Common,262,8cff3ef0-4dfb-472e-aa1e-77613dd0f6d8,262,khm,common
+Immersturm Skullcairn,Kaldheim,1,FALSE,0.20,Uncommon,263,12ed97de-736d-43d8-977b-308ac54f88f4,263,khm,uncommon
+Littjara Mirrorlake,Kaldheim,1,FALSE,0.22,Uncommon,264,6bf2bb3e-828f-4d53-9d0a-26bbc5e7f3cc,264,khm,uncommon
+Port of Karfell,Kaldheim,1,FALSE,0.23,Uncommon,265,bb9465a6-d009-4ecd-9fd1-d046547de902,265,khm,uncommon
+Rimewood Falls,Kaldheim,1,FALSE,0.84,Common,266,da1db084-f235-4e26-8867-5f0835a0d283,266,khm,common
+Shimmerdrift Vale,Kaldheim,1,FALSE,0.23,Common,267,f09d98db-0176-41a7-b99b-ead29876cdab,267,khm,common
+Skemfar Elderhall,Kaldheim,1,FALSE,0.24,Uncommon,268,82c2a0f7-0f53-4627-8be8-227fde331a69,268,khm,uncommon
+Snowfield Sinkhole,Kaldheim,1,FALSE,0.30,Common,269,6611dc5e-6acc-48df-b8c4-4b327314578b,269,khm,common
+Sulfurous Mire,Kaldheim,1,FALSE,0.37,Common,270,35ebe245-ebb5-493c-b9c1-56fbfda9bd66,270,khm,common
+Tyrite Sanctum,Kaldheim,1,FALSE,2.20,Rare,272,309ff3bf-acd3-4bea-b518-6e25f6cfce61,272,khm,rare
+Woodland Chasm,Kaldheim,1,FALSE,0.80,Common,274,b2dd0b71-5a60-418c-82fc-f13d1b5075d0,274,khm,common
+The World Tree,Kaldheim,1,FALSE,4.86,Rare,275,a70cb6d9-3955-4064-917b-11dec26440c5,275,khm,rare
+Snow-Covered Plains,Kaldheim,1,FALSE,0.31,Basic Land,276,afd2730f-878e-47ee-ad2a-73f8fa4e0794,276,khm,common
+Snow-Covered Plains,Kaldheim,1,FALSE,0.35,Basic Land,277,afd2730f-878e-47ee-ad2a-73f8fa4e0794,276,khm,common
+Snow-Covered Island,Kaldheim,1,FALSE,0.93,Basic Land,278,3bfa5ebc-5623-4eec-89ea-dc187489ee4a,278,khm,common
+Snow-Covered Island,Kaldheim,1,FALSE,1.00,Basic Land,279,3bfa5ebc-5623-4eec-89ea-dc187489ee4a,278,khm,common
+Snow-Covered Swamp,Kaldheim,1,TRUE,0.56,Basic Land,280,6aa85af8-15f5-4620-8aea-0b45c28372ed,280,khm,common
+Snow-Covered Swamp,Kaldheim,1,FALSE,0.49,Basic Land,281,6aa85af8-15f5-4620-8aea-0b45c28372ed,280,khm,common
+Snow-Covered Mountain,Kaldheim,1,FALSE,0.49,Basic Land,282,5474e67c-628f-41b0-aa31-3d85a267265a,282,khm,common
+Snow-Covered Mountain,Kaldheim,1,FALSE,0.49,Basic Land,283,5474e67c-628f-41b0-aa31-3d85a267265a,282,khm,common
+Snow-Covered Forest,Kaldheim,1,FALSE,0.79,Basic Land,284,ca17acea-f079-4e53-8176-a2f5c5c408a1,284,khm,common
+Snow-Covered Forest,Kaldheim,1,TRUE,0.97,Basic Land,285,ca17acea-f079-4e53-8176-a2f5c5c408a1,284,khm,common
+"Valki, God of Lies // Tibalt, Cosmic Impostor (Borderless)",Kaldheim Variants,1,FALSE,5.35,Mythic Rare,286,,,,
+Tyvar Kell (Borderless),Kaldheim Variants,1,TRUE,3.91,Mythic Rare,287,,,,
+Kaya the Inexorable (Borderless),Kaldheim Variants,1,TRUE,2.85,Mythic Rare,288,,,,
+Niko Aris (Borderless),Kaldheim Variants,1,FALSE,0.85,Mythic Rare,289,,,,
+Barkchannel Pathway // Tidechannel Pathway (Borderless),Kaldheim Variants,1,FALSE,4.22,Rare,290,,,,
+Blightstep Pathway // Searstep Pathway (Borderless),Kaldheim Variants,1,TRUE,6.00,Rare,291,,,,
+Darkbore Pathway // Slitherbore Pathway (Borderless),Kaldheim Variants,1,TRUE,6.45,Rare,292,,,,
+Hengegate Pathway // Mistgate Pathway (Borderless),Kaldheim Variants,1,FALSE,5.11,Rare,293,,,,
+Hengegate Pathway // Mistgate Pathway (Borderless),Kaldheim Variants,1,TRUE,4.99,Rare,293,,,,
+Starnheim Unleashed (Borderless),Kaldheim Variants,1,FALSE,1.25,Mythic Rare,294,,,,
+Alrund's Epiphany (Borderless),Kaldheim Variants,1,FALSE,2.99,Mythic Rare,295,,,,
+Battle Mammoth (Borderless),Kaldheim Variants,1,TRUE,0.55,Mythic Rare,298,,,,
+"Reidane, God of the Worthy // Valkmira, Protector's Shield (Showcase)",Kaldheim Variants,1,FALSE,0.50,Rare,300,,,,
+"Sigrid, God-Favored (Showcase)",Kaldheim Variants,1,FALSE,0.35,Rare,301,,,,
+"Cosima, God of the Voyage // The Omenkeel (Showcase)",Kaldheim Variants,1,FALSE,0.54,Rare,303,,,,
+Inga Rune-Eyes (Showcase),Kaldheim Variants,1,TRUE,0.10,Uncommon,304,,,,
+"Egon, God of Death // Throne of Death (Showcase)",Kaldheim Variants,1,TRUE,0.40,Rare,306,,,,
+"Tergrid, God of Fright // Tergrid's Lantern (Showcase)",Kaldheim Variants,1,FALSE,6.14,Rare,307,,,,
+"Valki, God of Lies // Tibalt, Cosmic Impostor (Showcase)",Kaldheim Variants,1,TRUE,12.25,Mythic Rare,308,,,,
+Arni Brokenbrow (Showcase),Kaldheim Variants,1,TRUE,0.20,Rare,310,,,,
+"Magda, Brazen Outlaw (Showcase)",Kaldheim Variants,1,FALSE,1.07,Rare,312,,,,
+Esika's Chariot (Showcase),Kaldheim Variants,1,FALSE,1.11,Rare,315,,,,
+"Fynn, the Fangbearer (Showcase)",Kaldheim Variants,1,TRUE,0.11,Uncommon,316,,,,
+"Jorn, God of Winter // Kaldring, the Rimestaff (Showcase)",Kaldheim Variants,1,TRUE,0.52,Rare,317,,,,
+"Toski, Bearer of Secrets (Showcase)",Kaldheim Variants,1,FALSE,4.55,Rare,319,,,,
+"Aegar, the Freezing Flame (Showcase)",Kaldheim Variants,1,TRUE,0.14,Uncommon,321,,,,
+"Firja, Judge of Valor (Showcase)",Kaldheim Variants,1,TRUE,0.16,Uncommon,322,,,,
+"Harald, King of Skemfar (Showcase)",Kaldheim Variants,1,TRUE,0.19,Uncommon,323,,,,
+"Kardur, Doomscourge (Showcase)",Kaldheim Variants,1,TRUE,0.33,Uncommon,324,,,,
+"Koll, the Forgemaster (Showcase)",Kaldheim Variants,1,TRUE,0.19,Uncommon,325,,,,
+"Maja, Bretagard Protector (Showcase)",Kaldheim Variants,1,TRUE,0.25,Uncommon,327,,,,
+Moritte of the Frost (Showcase),Kaldheim Variants,1,TRUE,0.33,Uncommon,328,,,,
+"Narfi, Betrayer King (Showcase)",Kaldheim Variants,1,FALSE,0.25,Uncommon,329,,,,
+"Sarulf, Realm Eater (Showcase)",Kaldheim Variants,1,TRUE,0.47,Rare,330,,,,
+"Svella, Ice Shaper (Showcase)",Kaldheim Variants,1,TRUE,0.25,Uncommon,331,,,,
+"Vega, the Watcher (Showcase)",Kaldheim Variants,1,TRUE,0.33,Uncommon,332,,,,
+Doomskar (Extended Art),Kaldheim Variants,1,FALSE,1.28,Rare,334,,,,
+Rally the Ranks (Extended Art),Kaldheim Variants,1,TRUE,0.60,Rare,336,,,,
+Resplendent Marshal (Extended Art),Kaldheim Variants,1,FALSE,0.86,Mythic Rare,337,,,,
+Righteous Valkyrie (Extended Art),Kaldheim Variants,1,FALSE,5.59,Rare,338,,,,
+Runeforge Champion (Extended Art),Kaldheim Variants,1,FALSE,0.35,Rare,339,,,,
+Search for Glory (Extended Art),Kaldheim Variants,1,TRUE,2.84,Rare,340,,,,
+Ascendant Spirit (Extended Art),Kaldheim Variants,1,FALSE,0.50,Rare,341,,,,
+Cyclone Summoner (Extended Art),Kaldheim Variants,1,TRUE,0.39,Rare,343,,,,
+Graven Lore (Extended Art),Kaldheim Variants,1,TRUE,0.28,Rare,344,,,,
+Mystic Reflection (Extended Art),Kaldheim Variants,1,TRUE,1.53,Rare,346,,,,
+Blood on the Snow (Extended Art),Kaldheim Variants,1,TRUE,0.38,Rare,348,,,,
+Crippling Fear (Extended Art),Kaldheim Variants,1,TRUE,1.27,Rare,350,,,,
+Eradicator Valkyrie (Extended Art),Kaldheim Variants,1,FALSE,2.34,Mythic Rare,353,,,,
+Rise of the Dread Marn (Extended Art),Kaldheim Variants,1,TRUE,0.86,Rare,354,,,,
+Dragonkin Berserker (Extended Art),Kaldheim Variants,1,FALSE,0.40,Rare,357,,,,
+Tundra Fumarole (Extended Art),Kaldheim Variants,1,TRUE,0.13,Rare,361,,,,
+Elvish Warmaster (Extended Art),Kaldheim Variants,1,TRUE,3.61,Rare,363,,,,
+Old-Growth Troll (Extended Art),Kaldheim Variants,1,TRUE,1.42,Rare,365,,,,
+Immersturm Predator (Extended Art),Kaldheim Variants,1,TRUE,0.65,Rare,367,,,,
+Cosmos Elixir (Extended Art),Kaldheim Variants,1,TRUE,2.89,Rare,368,,,,
+Pyre of Heroes (Extended Art),Kaldheim Variants,1,FALSE,1.18,Rare,370,,,,
+Cleaving Reaper,Kaldheim Variants,1,FALSE,0.25,Rare,376,b59dadef-74e5-47c7-a3e0-51075ddb82b1,376,khm,rare
+Canopy Tactician,Kaldheim Variants,1,FALSE,3.12,Rare,378,3eaf48c9-09bc-4d81-a3a5-432219a71754,378,khm,rare
+Elven Ambush,Kaldheim Variants,1,FALSE,3.60,Uncommon,391,70479c44-da7c-48c7-8c6a-47210dc03277,391,khm,uncommon

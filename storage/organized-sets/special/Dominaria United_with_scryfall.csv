@@ -1,0 +1,289 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+"Karn, Living Legacy",Dominaria United,1,FALSE,1.20,Mythic Rare,1,e83b1b87-01d5-4624-8a2b-4b771e13e59c,1,dmu,mythic
+"Karn, Living Legacy",Dominaria United,1,TRUE,1.41,Mythic Rare,1,e83b1b87-01d5-4624-8a2b-4b771e13e59c,1,dmu,mythic
+Anointed Peacekeeper,Dominaria United,1,FALSE,0.40,Rare,2,5b8127b5-3a65-411a-84bc-54e5c1be1477,2,dmu,rare
+Anointed Peacekeeper,Dominaria United,1,TRUE,0.54,Rare,2,5b8127b5-3a65-411a-84bc-54e5c1be1477,2,dmu,rare
+Archangel of Wrath,Dominaria United,1,FALSE,0.49,Rare,3,2d00bab2-e95d-4296-a805-2a05e7640efb,3,dmu,rare
+Archangel of Wrath,Dominaria United,1,TRUE,0.35,Rare,3,2d00bab2-e95d-4296-a805-2a05e7640efb,3,dmu,rare
+Argivian Cavalier,Dominaria United,1,FALSE,0.15,Common,4,57746e72-ba9f-4717-a4a2-6c6a039080c3,4,dmu,common
+Argivian Phalanx,Dominaria United,1,FALSE,0.14,Common,5,afbadc37-1b4f-4237-a3c0-772bafb18aa0,5,dmu,common
+Argivian Phalanx,Dominaria United,1,TRUE,0.05,Common,5,afbadc37-1b4f-4237-a3c0-772bafb18aa0,5,dmu,common
+Artillery Blast,Dominaria United,1,FALSE,0.14,Common,6,0d4d7293-657f-48ac-931b-fb6a44128e6d,6,dmu,common
+Artillery Blast,Dominaria United,1,TRUE,0.02,Common,6,0d4d7293-657f-48ac-931b-fb6a44128e6d,6,dmu,common
+Benalish Faithbonder,Dominaria United,1,FALSE,0.11,Common,7,084d77df-a899-406f-9d79-e3fa3abeaebc,7,dmu,common
+Benalish Sleeper,Dominaria United,1,FALSE,0.15,Common,8,f96089ea-20cf-496d-84a6-9b660c2ef672,8,dmu,common
+Benalish Sleeper,Dominaria United,1,TRUE,0.15,Common,8,f96089ea-20cf-496d-84a6-9b660c2ef672,8,dmu,common
+Captain's Call,Dominaria United,1,FALSE,0.15,Common,9,0c7ed7e0-0e80-44d3-a7af-b4c321239df8,9,dmu,common
+Charismatic Vanguard,Dominaria United,1,FALSE,0.13,Common,10,a51764fe-0d75-4cfa-a699-0d9e7ffb7843,10,dmu,common
+Charismatic Vanguard,Dominaria United,1,TRUE,0.02,Common,10,a51764fe-0d75-4cfa-a699-0d9e7ffb7843,10,dmu,common
+Citizen's Arrest,Dominaria United,1,FALSE,0.14,Common,11,9806370b-51e3-4144-a847-6b367fb937ef,11,dmu,common
+Citizen's Arrest,Dominaria United,1,TRUE,0.14,Common,11,9806370b-51e3-4144-a847-6b367fb937ef,11,dmu,common
+Cleaving Skyrider,Dominaria United,1,FALSE,0.15,Uncommon,12,6544a289-3b27-4980-8ed7-22f50ae92c1a,12,dmu,uncommon
+Clockwork Drawbridge,Dominaria United,1,FALSE,0.15,Common,13,037cb79c-163d-4b36-bd93-954eca8fe26e,13,dmu,common
+Coalition Skyknight,Dominaria United,1,FALSE,0.15,Uncommon,14,8b12da45-aff4-406d-83a3-39ecaff6ff56,14,dmu,uncommon
+"Danitha, Benalia's Hope",Dominaria United,1,FALSE,0.99,Rare,15,845e5663-2959-44ae-b4c6-d6ea41f01d6e,15,dmu,rare
+Defiler of Faith,Dominaria United,1,FALSE,0.47,Rare,16,2cfe404d-1a27-4627-9284-56188d92d5d5,16,dmu,rare
+Destroy Evil,Dominaria United,1,FALSE,1.20,Common,17,4f7862ef-2c8d-4d28-9e50-7cc41861f245,17,dmu,common
+Griffin Protector,Dominaria United,1,FALSE,0.11,Common,18,10d1d701-841c-4bf3-9122-b01842a22ac6,18,dmu,common
+Guardian of New Benalia,Dominaria United,1,FALSE,0.25,Rare,19,43da76ee-fec3-4b2e-915d-10cf8d518d2c,19,dmu,rare
+Heroic Charge,Dominaria United,1,FALSE,0.11,Common,20,4aab611c-64e0-4b38-97b9-b29a1c6a79b7,20,dmu,common
+Join Forces,Dominaria United,1,FALSE,0.15,Uncommon,21,e4dce5e7-c864-4239-bab7-af6a3adcb731,21,dmu,uncommon
+Juniper Order Rootweaver,Dominaria United,1,FALSE,0.14,Common,22,c56cf82f-8bbb-49ae-ad93-291cbec9126e,22,dmu,common
+Knight of Dawn's Light,Dominaria United,1,FALSE,0.19,Uncommon,23,b7c7a54e-4df6-4745-8bae-aeefda934d82,23,dmu,uncommon
+Leyline Binding,Dominaria United,1,FALSE,2.39,Rare,24,3c3ac3dd-35db-447f-8674-37b4680a1ef7,24,dmu,rare
+Love Song of Night and Day,Dominaria United,1,FALSE,0.15,Uncommon,25,1e08d288-2f09-4856-a9ed-cc8aa8d953d7,25,dmu,uncommon
+Mesa Cavalier,Dominaria United,1,FALSE,0.12,Common,26,feeec740-7ffc-4f57-b52c-92209da91d69,26,dmu,common
+Phyrexian Missionary,Dominaria United,1,FALSE,0.20,Uncommon,27,7f22fcfa-a5f0-4fae-b578-cdfd7d46a4c8,27,dmu,uncommon
+Prayer of Binding,Dominaria United,1,FALSE,0.15,Uncommon,28,322f90b6-6b49-458d-9d5b-b601bfdd0af8,28,dmu,uncommon
+Resolute Reinforcements,Dominaria United,1,FALSE,0.32,Uncommon,29,3e11ad33-b9d7-43ef-840a-61955683b599,29,dmu,uncommon
+Runic Shot,Dominaria United,1,FALSE,0.15,Uncommon,30,f54413be-7d73-478d-a25a-8fe06f6491a5,30,dmu,uncommon
+Samite Herbalist,Dominaria United,1,FALSE,0.13,Common,31,409189da-53c9-4daf-b6b2-d155fc14f91a,31,dmu,common
+Serra Paragon,Dominaria United,1,FALSE,4.40,Mythic Rare,32,ce295f1e-fb31-4275-a5d3-8c6f29afff40,32,dmu,mythic
+Shalai's Acolyte,Dominaria United,1,FALSE,0.15,Uncommon,33,39996722-e7f2-41e4-aa1e-2b6778d7b535,33,dmu,uncommon
+Stall for Time,Dominaria United,1,FALSE,0.13,Common,34,f346defa-ee4a-404e-8154-0e33ebe9102c,34,dmu,common
+Take Up the Shield,Dominaria United,1,FALSE,0.18,Common,35,851e842e-a497-4c36-90ee-8d64f806c378,35,dmu,common
+Temporary Lockdown,Dominaria United,1,FALSE,4.99,Rare,36,82b3088f-7b49-45e9-b447-129a597ceb75,36,dmu,rare
+Urza Assembles the Titans,Dominaria United,1,FALSE,0.29,Rare,37,10a544d7-ead7-42fd-a35a-c1b672771d5b,37,dmu,rare
+Valiant Veteran,Dominaria United,1,FALSE,0.45,Rare,38,18b1a4ee-437f-4a08-b176-8342d526143f,38,dmu,rare
+Wingmantle Chaplain,Dominaria United,1,FALSE,0.23,Uncommon,39,f5800f3d-b2e0-4c74-94bf-f29b27f82130,39,dmu,uncommon
+Academy Loremaster,Dominaria United,1,FALSE,0.25,Rare,40,9fca4c4f-a77b-483e-9da4-574ba2e3d179,40,dmu,rare
+Academy Wall,Dominaria United,1,FALSE,0.15,Common,41,d2028115-f0de-4e8b-99bc-7369352e1e07,41,dmu,common
+Aether Channeler,Dominaria United,1,FALSE,0.45,Rare,42,60afeb75-2c1e-4634-8c83-88b1dddb77c2,42,dmu,rare
+Battlewing Mystic,Dominaria United,1,FALSE,0.15,Uncommon,43,000376ef-8b6c-490d-98cb-d6de15b2e585,43,dmu,uncommon
+Combat Research,Dominaria United,1,FALSE,0.39,Uncommon,44,6c44738c-706f-40b2-a09d-b21cd0889049,44,dmu,uncommon
+Coral Colony,Dominaria United,1,FALSE,0.17,Uncommon,45,9c0e3882-1f97-48eb-b9e3-2f9683ff5897,45,dmu,uncommon
+Defiler of Dreams,Dominaria United,1,FALSE,0.40,Rare,46,881cc4a3-252b-4155-a34f-63d4b4f44442,46,dmu,rare
+Djinn of the Fountain,Dominaria United,1,FALSE,0.15,Uncommon,47,f55606da-de3e-4375-925b-cc16b03b6365,47,dmu,uncommon
+Ertai's Scorn,Dominaria United,1,FALSE,0.18,Uncommon,48,6129b0d3-b50a-4a4b-9111-39f8fc6718dd,48,dmu,uncommon
+Essence Scatter,Dominaria United,1,FALSE,0.15,Common,49,b7ad4441-e300-4267-bedb-4ae6a64f59cd,49,dmu,common
+Founding the Third Path,Dominaria United,1,FALSE,0.27,Uncommon,50,2d841faa-9e0b-45ff-9dfd-f8a169d9af76,50,dmu,uncommon
+Frostfist Strider,Dominaria United,1,FALSE,0.15,Uncommon,51,40141353-c0d6-4529-b26a-34dfccbcf231,51,dmu,uncommon
+Haughty Djinn,Dominaria United,1,FALSE,3.20,Rare,52,35095a68-b7c0-4805-b0b6-6ca15a338692,52,dmu,rare
+Haunting Figment,Dominaria United,1,FALSE,0.11,Common,53,d14b07ea-18e4-41fb-8136-759d5349e88a,53,dmu,common
+Impede Momentum,Dominaria United,1,FALSE,0.14,Common,54,259c04f7-86f2-4584-97fb-8278dca9a213,54,dmu,common
+Impulse,Dominaria United,1,FALSE,0.20,Common,55,5aec2b2c-0764-4869-814d-aad921122af9,55,dmu,common
+Joint Exploration,Dominaria United,1,FALSE,0.42,Uncommon,56,b25ab334-1060-457e-b212-3d7a697c545e,56,dmu,uncommon
+Micromancer,Dominaria United,1,FALSE,0.19,Uncommon,57,b21203c8-a935-4ce0-a742-148587e32145,57,dmu,uncommon
+Negate,Dominaria United,1,FALSE,0.80,Common,58,4016c6f7-7cb4-46c2-af73-3bd6d682ea5e,58,dmu,common
+The Phasing of Zhalfir,Dominaria United,1,FALSE,0.33,Rare,59,0770eb6a-4f01-4677-a401-14c1b30692c9,59,dmu,rare
+Phyrexian Espionage,Dominaria United,1,FALSE,0.13,Common,60,0b983366-385f-41a3-aa46-20151e68d140,60,dmu,common
+Pixie Illusionist,Dominaria United,1,FALSE,0.15,Common,61,171bfcb2-dd43-4d63-b2e2-6ca594c2ec40,61,dmu,common
+Protect the Negotiators,Dominaria United,1,FALSE,0.25,Uncommon,62,bb6db604-8bbe-4719-88bd-f3cad8c4725d,62,dmu,uncommon
+Rona's Vortex,Dominaria United,1,FALSE,0.20,Uncommon,63,bdf96533-f28a-4465-893b-0c9394d5b8d7,63,dmu,uncommon
+Shore Up,Dominaria United,1,FALSE,0.24,Common,64,9d933bf1-14f0-4150-a0d2-6b845b9624cf,64,dmu,common
+Silver Scrutiny,Dominaria United,1,FALSE,0.34,Rare,65,8b650ab6-9c22-424f-99e5-8ef5235a18a3,65,dmu,rare
+Soaring Drake,Dominaria United,1,FALSE,0.12,Common,66,0b0979f9-aae3-4fc7-beae-c8c6637ae596,66,dmu,common
+Sphinx of Clear Skies,Dominaria United,1,FALSE,0.46,Mythic Rare,67,974c9e0c-07b2-4535-a3d0-bb827b651075,67,dmu,mythic
+Talas Lookout,Dominaria United,1,FALSE,0.14,Common,68,0a4b9afe-aeb7-4c56-8a22-96e19a7a938c,68,dmu,common
+Tidepool Turtle,Dominaria United,1,FALSE,0.14,Common,69,d397fb84-8573-4b2c-be2c-f8fd820342f0,69,dmu,common
+Timely Interference,Dominaria United,1,FALSE,0.12,Common,70,017a3c6b-9a1e-403a-9c20-2360090d39ee,70,dmu,common
+Tolarian Geyser,Dominaria United,1,FALSE,0.13,Common,71,5dd5f389-fea2-4aed-a218-eca162902775,71,dmu,common
+Tolarian Terror,Dominaria United,1,FALSE,0.50,Common,72,42f01cba-43d4-46ad-b7a5-d7631b0e1347,72,dmu,common
+Vesuvan Duplimancy,Dominaria United,1,FALSE,3.22,Mythic Rare,73,9a2119bc-a377-4156-89d4-56e7b5b494a8,73,dmu,mythic
+Voda Sea Scavenger,Dominaria United,1,FALSE,0.12,Common,74,2a3cc789-cbb8-4dae-a749-af169832dd7b,74,dmu,common
+Vodalian Hexcatcher,Dominaria United,1,FALSE,2.40,Rare,75,4ec464dc-b1dd-4e45-b093-c3ad65a74050,75,dmu,rare
+Vodalian Mindsinger,Dominaria United,1,FALSE,0.25,Rare,76,211a9db2-8b5f-419d-8032-ac2a571dbb53,76,dmu,rare
+Volshe Tideturner,Dominaria United,1,FALSE,0.15,Common,77,ea61871b-9295-4ea0-86ef-e7a11e23bda8,77,dmu,common
+Aggressive Sabotage,Dominaria United,1,FALSE,0.12,Common,78,ac809fca-664a-4e7d-a39f-2bc1dea0fbd8,78,dmu,common
+Balduvian Atrocity,Dominaria United,1,FALSE,0.15,Uncommon,79,365333c4-59a0-4365-b242-a67b6224c1b8,79,dmu,uncommon
+Battle-Rage Blessing,Dominaria United,1,FALSE,0.15,Common,80,7cfc631b-49d1-4f1c-adac-5b07a2ccd06f,80,dmu,common
+Battlefly Swarm,Dominaria United,1,FALSE,0.15,Common,81,3c6b4a2d-0bc0-4a54-9c78-712b48ad6be1,81,dmu,common
+Blight Pile,Dominaria United,1,FALSE,0.15,Uncommon,82,0dcc2699-03e6-47d1-b976-1453fe9d27b7,82,dmu,uncommon
+Bone Splinters,Dominaria United,1,FALSE,0.15,Common,83,106b5c96-d1bd-433d-955e-ace0b60d3bc3,83,dmu,common
+"Braids, Arisen Nightmare",Dominaria United,1,FALSE,4.10,Rare,84,4ff97c69-6a6b-401c-b0a1-55fa81045d19,84,dmu,rare
+Braids's Frightful Return,Dominaria United,1,FALSE,0.17,Uncommon,85,49aa8d4c-04e9-4f38-9786-2c9ad735dd72,85,dmu,uncommon
+Choking Miasma,Dominaria United,1,FALSE,0.23,Uncommon,86,ba537452-3dab-4ecd-b65f-9e311a130d31,86,dmu,uncommon
+The Cruelty of Gix,Dominaria United,1,FALSE,1.49,Rare,87,3d6e5eb3-25ab-4e9e-96e8-655e0ce74675,87,dmu,rare
+Cult Conscript,Dominaria United,1,FALSE,0.22,Uncommon,88,fed77513-94ab-44e2-b9a1-30ba927cd6ee,88,dmu,uncommon
+Cut Down,Dominaria United,1,FALSE,5.67,Uncommon,89,753db072-5d6a-4f37-8f7d-255572ecd3bd,89,dmu,uncommon
+Defiler of Flesh,Dominaria United,1,FALSE,0.43,Rare,90,61a4dd11-6166-4a54-95c0-728c623d0fbc,90,dmu,rare
+Drag to the Bottom,Dominaria United,1,FALSE,0.25,Rare,91,9d243099-94b1-4571-96af-4c5a34241911,91,dmu,rare
+Eerie Soultender,Dominaria United,1,FALSE,0.14,Common,92,335f3146-743c-4a25-86b5-c45e9c66eb15,92,dmu,common
+Evolved Sleeper,Dominaria United,1,FALSE,0.30,Rare,93,ebeafbc2-0399-4335-8f63-76a3e085e8c6,93,dmu,rare
+Extinguish the Light,Dominaria United,1,FALSE,0.10,Common,94,01a51d08-f90e-4b72-8dce-fb2a6c72f181,94,dmu,common
+Gibbering Barricade,Dominaria United,1,FALSE,0.14,Common,95,0674b340-420d-4864-92fe-7b268fe0874c,95,dmu,common
+Knight of Dusk's Shadow,Dominaria United,1,FALSE,0.25,Uncommon,96,33dfd2fe-e0e0-465c-b730-a30e6f5c271c,96,dmu,uncommon
+Liliana of the Veil,Dominaria United,1,FALSE,16.70,Mythic Rare,97,d12c8c97-6491-452c-811d-943441a7ef9f,97,dmu,mythic
+Monstrous War-Leech,Dominaria United,1,FALSE,0.15,Uncommon,98,660d7983-b335-48b4-898d-f182effcf2de,98,dmu,uncommon
+Phyrexian Rager,Dominaria United,1,FALSE,0.15,Common,99,6fd574e7-705f-4a65-aad0-68ff6d63bf0f,99,dmu,common
+Phyrexian Vivisector,Dominaria United,1,FALSE,0.14,Common,100,65617a8f-4bd8-4edb-b5ec-e20b4482390b,100,dmu,common
+Phyrexian Warhorse,Dominaria United,1,FALSE,0.14,Common,101,f42167ef-7858-4c66-b1bc-41c3288a8ee8,101,dmu,common
+Pilfer,Dominaria United,1,FALSE,0.18,Uncommon,102,6d872c10-4126-4130-a74a-1331ed418ca8,102,dmu,uncommon
+The Raven Man,Dominaria United,1,FALSE,0.44,Rare,103,6e761fb2-ae4f-4d72-a142-f7e9bd681303,103,dmu,rare
+Sengir Connoisseur,Dominaria United,1,FALSE,0.15,Uncommon,104,7c9231f0-7733-46d9-b9c6-c6c5b7fe65dd,104,dmu,uncommon
+Shadow Prophecy,Dominaria United,1,FALSE,0.15,Common,105,bb078448-9e9f-4994-8aff-7e7c4fb62efc,105,dmu,common
+Shadow-Rite Priest,Dominaria United,1,FALSE,0.30,Rare,106,c9e43116-a489-4557-a47f-623d915a2b79,106,dmu,rare
+"Sheoldred, the Apocalypse",Dominaria United,1,FALSE,92.87,Mythic Rare,107,d67be074-cdd4-41d9-ac89-0a0456c4e4b2,107,dmu,mythic
+Sheoldred's Restoration,Dominaria United,1,FALSE,0.15,Uncommon,108,ed719f25-1aab-4a1e-8c9f-dd574db5de0c,108,dmu,uncommon
+Splatter Goblin,Dominaria United,1,FALSE,0.13,Common,109,5045027d-0ff4-484c-b4cb-e0b61885d428,109,dmu,common
+Stronghold Arena,Dominaria United,1,FALSE,0.25,Rare,110,fb64b0a7-3e9a-490f-bf02-c62fc8cf750d,110,dmu,rare
+Tattered Apparition,Dominaria United,1,FALSE,0.14,Common,111,0368e91c-31ee-4b81-a361-30a4555b1a42,111,dmu,common
+Toxic Abomination,Dominaria United,1,FALSE,0.14,Common,112,f435329e-6de7-4b05-ba70-cb63d121116e,112,dmu,common
+Tribute to Urborg,Dominaria United,1,FALSE,0.14,Common,113,31274707-3e16-4f46-8450-6927d936064b,113,dmu,common
+Urborg Repossession,Dominaria United,1,FALSE,0.20,Common,114,ecb8dab0-ecce-4321-b382-c58b296c2fd3,114,dmu,common
+Writhing Necromass,Dominaria United,1,FALSE,0.15,Common,115,a166abef-f068-47e9-8a65-43ebf4b015bd,115,dmu,common
+Balduvian Berserker,Dominaria United,1,FALSE,0.15,Uncommon,116,c35bab2f-8464-4968-8c50-8807638d687b,116,dmu,uncommon
+Chaotic Transformation,Dominaria United,1,FALSE,0.25,Rare,117,bdfb44f1-e366-437a-bde3-59bfdb362864,117,dmu,rare
+Coalition Warbrute,Dominaria United,1,FALSE,0.12,Common,118,554c422f-2a1b-47c0-9358-42b85cdbb84e,118,dmu,common
+Defiler of Instinct,Dominaria United,1,FALSE,0.41,Rare,119,0e76e0cc-caff-4b15-b550-39e2324c8c95,119,dmu,rare
+Dragon Whelp,Dominaria United,1,FALSE,0.15,Uncommon,120,d13d40b9-319b-4630-a5cd-228ff2f24367,120,dmu,uncommon
+The Elder Dragon War,Dominaria United,1,FALSE,0.47,Rare,121,0c52c7d4-a350-4518-8c9a-72cf7b14603d,121,dmu,rare
+Electrostatic Infantry,Dominaria United,1,FALSE,0.25,Uncommon,122,5ed2d72f-f1cf-45a7-adf7-969f531721ce,122,dmu,uncommon
+Fires of Victory,Dominaria United,1,FALSE,0.18,Uncommon,123,c58096e5-3cd4-4edd-b71a-3bdb47ab2536,123,dmu,uncommon
+Flowstone Infusion,Dominaria United,1,FALSE,0.13,Common,124,b57c3674-9a31-4418-b306-e6b0a2514d8f,124,dmu,common
+Flowstone Kavu,Dominaria United,1,FALSE,0.10,Common,125,73e40916-3502-448a-a509-f6a6ff3cd73d,125,dmu,common
+Furious Bellow,Dominaria United,1,FALSE,0.13,Common,126,63d05659-bfff-4b73-80f7-a9f31a7ef957,126,dmu,common
+Ghitu Amplifier,Dominaria United,1,FALSE,0.14,Common,127,b1845806-7585-40d5-9d3a-f13667e6a9d2,127,dmu,common
+Goblin Picker,Dominaria United,1,FALSE,0.14,Common,128,6d8f1f06-dde5-41f2-923c-67d1d4d13fab,128,dmu,common
+Hammerhand,Dominaria United,1,FALSE,0.12,Common,129,8d858e9e-452b-4281-9379-641ef6ebef39,129,dmu,common
+Hurler Cyclops,Dominaria United,1,FALSE,0.15,Uncommon,130,b16f2cf2-5908-4f49-9c5c-6c9e22a65a4d,130,dmu,uncommon
+Hurloon Battle Hymn,Dominaria United,1,FALSE,0.15,Uncommon,131,ff252e80-c155-467b-8df3-9bddc5cc45c3,131,dmu,uncommon
+In Thrall to the Pit,Dominaria United,1,FALSE,0.13,Common,132,0f33284f-bdb1-4982-8636-8f2e12896053,132,dmu,common
+"Jaya, Fiery Negotiator",Dominaria United,1,FALSE,0.80,Mythic Rare,133,3b9f54f0-4368-4d28-aa21-3f1e7be1b23a,133,dmu,mythic
+Jaya's Firenado,Dominaria United,1,FALSE,0.11,Common,134,4b78eaab-819c-4f06-b3b1-a25c17ab2235,134,dmu,common
+Keldon Flamesage,Dominaria United,1,FALSE,0.25,Rare,135,710d2a3c-63a7-4e33-9ae3-21fb6b3d8326,135,dmu,rare
+Keldon Strike Team,Dominaria United,1,FALSE,0.14,Common,136,4af4031e-b14e-4568-b047-b3d470d9b18e,136,dmu,common
+Lightning Strike,Dominaria United,1,FALSE,0.23,Common,137,7d541125-bfb8-4f88-8bf3-ad7b6af7ad1d,137,dmu,common
+Meria's Outrider,Dominaria United,1,FALSE,0.12,Common,138,48aa964f-99b5-4b6b-b158-42f39514c910,138,dmu,common
+Molten Monstrosity,Dominaria United,1,FALSE,0.14,Common,139,240957e5-ab0a-443f-92de-ae999b08c44f,139,dmu,common
+Phoenix Chick,Dominaria United,1,FALSE,0.25,Uncommon,140,76bdc912-61da-428d-b0d7-3a38676a402a,140,dmu,uncommon
+Radha's Firebrand,Dominaria United,1,FALSE,0.25,Rare,141,ae8a90c4-4a79-49e7-9fab-076b35d28adb,141,dmu,rare
+Rundvelt Hordemaster,Dominaria United,1,FALSE,2.16,Rare,142,ffee9dbe-af90-4e19-844d-4df1180f24c4,142,dmu,rare
+Shivan Devastator,Dominaria United,1,FALSE,4.17,Mythic Rare,143,1f5d274c-3a03-4f0d-97e8-7eef6508105d,143,dmu,mythic
+Smash to Dust,Dominaria United,1,FALSE,0.25,Common,144,747881c7-3788-4dd6-b78d-b2a5ded20e14,144,dmu,common
+Sprouting Goblin,Dominaria United,1,FALSE,0.20,Uncommon,145,602f5370-d096-4765-b612-16bcec3aafa7,145,dmu,uncommon
+"Squee, Dubious Monarch",Dominaria United,1,FALSE,0.73,Rare,146,3cd907ed-9c68-4bd6-af92-6244909fdf8b,146,dmu,rare
+Temporal Firestorm,Dominaria United,1,FALSE,0.25,Rare,147,9d690340-75f1-4733-bde5-2d60fd02f060,147,dmu,rare
+Thrill of Possibility,Dominaria United,1,FALSE,0.20,Common,148,25e5dc88-9573-4eaa-bd37-eb0dee4add03,148,dmu,common
+Twinferno,Dominaria United,1,FALSE,0.25,Uncommon,149,bc531409-26cb-4c58-ba69-f39dd8aee3d1,149,dmu,uncommon
+Viashino Branchrider,Dominaria United,1,FALSE,0.14,Common,150,1f08749e-05e0-4fb4-a4ae-35e7187584ab,150,dmu,common
+Warhost's Frenzy,Dominaria United,1,FALSE,0.15,Uncommon,151,a83d571b-ad91-43f5-8498-115cede4867d,151,dmu,uncommon
+Yavimaya Steelcrusher,Dominaria United,1,FALSE,0.15,Common,152,25175622-7b68-4916-adf2-3bf2d82e8356,152,dmu,common
+Yotia Declares War,Dominaria United,1,FALSE,0.15,Uncommon,153,3bd9e99a-ae8c-4323-aa86-b19288c877d4,153,dmu,uncommon
+Barkweave Crusher,Dominaria United,1,FALSE,0.11,Common,154,41c62c55-7b04-4987-9047-1322c842bb59,154,dmu,common
+Bite Down,Dominaria United,1,FALSE,0.20,Common,155,0eacd3de-b803-4322-8d88-d533761aa748,155,dmu,common
+Bog Badger,Dominaria United,1,FALSE,0.11,Common,156,3d31d878-9114-4205-b7a9-bb13ce6aedd2,156,dmu,common
+Broken Wings,Dominaria United,1,FALSE,0.12,Common,157,0ced8d87-ac22-41b0-a632-298159cbb316,157,dmu,common
+Colossal Growth,Dominaria United,1,FALSE,0.15,Common,158,d9142f35-75f4-44c7-b03c-79c4a2d43c88,158,dmu,common
+Deathbloom Gardener,Dominaria United,1,FALSE,0.18,Common,159,88dee3d1-0496-40ea-b208-7362a932f531,159,dmu,common
+Defiler of Vigor,Dominaria United,1,FALSE,2.59,Rare,160,0896860c-d028-4193-89a5-97e05c12a1e7,160,dmu,rare
+Elfhame Wurm,Dominaria United,1,FALSE,0.14,Common,161,ef2dc99b-083d-473e-b352-e8264353e85b,161,dmu,common
+Elvish Hydromancer,Dominaria United,1,FALSE,0.15,Uncommon,162,90dc4122-4f7a-4d9f-8427-de36e3e8a913,162,dmu,uncommon
+Floriferous Vinewall,Dominaria United,1,FALSE,0.15,Common,163,8382b7c7-762e-43f6-b285-e0cebe749fab,163,dmu,common
+Gaea's Might,Dominaria United,1,FALSE,0.14,Common,164,89c46e9c-ae7c-466c-bb11-4f4d01ea7a63,164,dmu,common
+Herd Migration,Dominaria United,1,FALSE,0.32,Rare,165,b0244a1f-e696-4223-9c14-22c2ca3cb738,165,dmu,rare
+Hexbane Tortoise,Dominaria United,1,FALSE,0.14,Common,166,acd5a635-bcf5-4a05-b00b-bf40322823fe,166,dmu,common
+Leaf-Crowned Visionary,Dominaria United,1,FALSE,5.50,Rare,167,aa7bd814-9f88-4e01-932d-07ac1abc060e,167,dmu,rare
+Linebreaker Baloth,Dominaria United,1,FALSE,0.15,Uncommon,168,15cc59c7-6478-4f84-898a-7e0fed10f004,168,dmu,uncommon
+Llanowar Greenwidow,Dominaria United,1,FALSE,0.25,Rare,169,81f90e4d-f60f-4175-830f-c2ce04c5a945,169,dmu,rare
+Llanowar Loamspeaker,Dominaria United,1,FALSE,0.37,Rare,170,bd5611db-82dd-464d-8b03-70d7619dcefe,170,dmu,rare
+Llanowar Stalker,Dominaria United,1,FALSE,0.15,Common,171,e2d714d8-0e9b-4761-a0ef-3429b4e2f5b7,171,dmu,common
+Magnigoth Sentry,Dominaria United,1,FALSE,0.12,Common,172,d939d4bc-b7e8-4ee8-b904-68f0bff0fde1,172,dmu,common
+Mossbeard Ancient,Dominaria United,1,FALSE,0.15,Uncommon,173,7e528d36-cea6-4013-83d5-ba837d570713,173,dmu,uncommon
+Nishoba Brawler,Dominaria United,1,FALSE,0.20,Uncommon,174,2ef6cb5f-0ab3-4652-9b39-c2cbf6d693d5,174,dmu,uncommon
+Quirion Beastcaller,Dominaria United,1,FALSE,0.37,Rare,175,2a501319-59a7-45d4-a6ca-666276095f87,175,dmu,rare
+Scout the Wilderness,Dominaria United,1,FALSE,0.13,Common,176,5ccd67d4-1a22-4378-804d-6e2c93dc4938,176,dmu,common
+Silverback Elder,Dominaria United,1,FALSE,5.82,Mythic Rare,177,b987664f-0b74-4c0a-b306-14767a55559a,177,dmu,mythic
+Slimefoot's Survey,Dominaria United,1,FALSE,0.15,Uncommon,178,622f96fc-179a-4ff6-95a5-de721492f7eb,178,dmu,uncommon
+Snarespinner,Dominaria United,1,FALSE,0.15,Common,179,0b51c3b5-db70-4976-986d-ed3fc8584d1a,179,dmu,common
+Strength of the Coalition,Dominaria United,1,FALSE,0.15,Uncommon,180,8418c504-24fe-470f-8102-dcad68ba1520,180,dmu,uncommon
+Sunbathing Rootwalla,Dominaria United,1,FALSE,0.13,Common,181,7ae6f015-2ad6-4b8e-8590-c2c2d01b6d98,181,dmu,common
+Tail Swipe,Dominaria United,1,FALSE,0.63,Uncommon,182,95a39b26-8c83-40ea-b492-036251366d73,182,dmu,uncommon
+Tear Asunder,Dominaria United,1,FALSE,2.50,Uncommon,183,629aa907-9533-4681-9bf2-9e56450a4cc2,183,dmu,uncommon
+Territorial Maro,Dominaria United,1,FALSE,0.15,Uncommon,184,853ddf31-826b-411e-9b6d-75d53cdd1b84,184,dmu,uncommon
+Threats Undetected,Dominaria United,1,FALSE,0.34,Rare,185,99545c3e-0710-48d3-8558-046bd66f225c,185,dmu,rare
+Urborg Lhurgoyf,Dominaria United,1,FALSE,0.42,Rare,186,a6f97236-1497-4811-8189-0545707451da,186,dmu,rare
+Vineshaper Prodigy,Dominaria United,1,FALSE,0.15,Common,187,545cddde-8018-4fdd-874d-b5193b73b414,187,dmu,common
+The Weatherseed Treaty,Dominaria United,1,FALSE,0.25,Uncommon,188,e2a54461-1f75-4304-b6d7-635171419456,188,dmu,uncommon
+The World Spell,Dominaria United,1,FALSE,0.66,Mythic Rare,189,f3a9112a-6a1d-4d89-9866-189b55cd326d,189,dmu,mythic
+Yavimaya Iconoclast,Dominaria United,1,FALSE,0.19,Uncommon,190,1b1af9be-7f5e-48e9-a6e7-9261e199812e,190,dmu,uncommon
+Yavimaya Sojourner,Dominaria United,1,FALSE,0.15,Common,191,c7fdb424-4d2c-437e-b2a2-8bc56c028338,191,dmu,common
+"Ajani, Sleeper Agent",Dominaria United,1,FALSE,2.13,Mythic Rare,192,7641f4d9-4614-41c8-87f5-4845bd78e9b3,192,dmu,mythic
+"Aron, Benalia's Ruin",Dominaria United,1,FALSE,0.20,Uncommon,193,f1f8bf98-8911-4c86-978a-427377700544,193,dmu,uncommon
+"Astor, Bearer of Blades",Dominaria United,1,FALSE,0.49,Rare,194,40f3a0ba-b917-488b-adbf-60a0d3c58a56,194,dmu,rare
+"Baird, Argivian Recruiter",Dominaria United,1,FALSE,0.20,Uncommon,195,1f643d78-d8d8-4645-9357-a68ebd0d3517,195,dmu,uncommon
+"Balmor, Battlemage Captain",Dominaria United,1,FALSE,0.25,Uncommon,196,959ba62e-bb3a-49ad-8b1b-e787e413e5d4,196,dmu,uncommon
+Bortuk Bonerattle,Dominaria United,1,FALSE,0.15,Uncommon,197,9a25855f-abfc-482d-a36b-088b023a7df6,197,dmu,uncommon
+"Elas il-Kor, Sadistic Pilgrim",Dominaria United,1,FALSE,2.04,Uncommon,198,1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019,198,dmu,uncommon
+Ertai Resurrected,Dominaria United,1,FALSE,1.22,Rare,199,7f7e780e-fbc5-4dc0-b5c7-efcb8645c7c6,199,dmu,rare
+"Garna, Bloodfist of Keld",Dominaria United,1,FALSE,0.24,Uncommon,200,294c5f08-08e7-458f-8838-ff321dc5d9f2,200,dmu,uncommon
+"Ivy, Gleeful Spellthief",Dominaria United,1,FALSE,0.65,Rare,201,d94c15b7-6c8f-45a6-8734-975e3e3b790c,201,dmu,rare
+"Jhoira, Ageless Innovator",Dominaria United,1,FALSE,0.30,Rare,202,dd911900-1f5f-4420-96b8-1e4fe67e59f6,202,dmu,rare
+"Jodah, the Unifier",Dominaria United,1,FALSE,3.85,Mythic Rare,203,e4b1aa1e-b4e3-4346-8937-76b312501c70,203,dmu,mythic
+King Darien XLVIII,Dominaria United,1,FALSE,0.50,Rare,204,10eca3b1-f35a-4984-bfc0-818e619b1ece,204,dmu,rare
+"Lagomos, Hand of Hatred",Dominaria United,1,FALSE,0.24,Uncommon,205,1a6bb0c2-1e3c-48cd-8f10-49f047e0514c,205,dmu,uncommon
+"Meria, Scholar of Antiquity",Dominaria United,1,FALSE,0.29,Rare,206,3eedd979-783d-4721-92de-965b77c20576,206,dmu,rare
+"Nael, Avizoa Aeronaut",Dominaria United,1,FALSE,0.15,Uncommon,207,5da59e8f-cbe5-4c14-a5a9-28d56048dc23,207,dmu,uncommon
+"Najal, the Storm Runner",Dominaria United,1,FALSE,0.20,Uncommon,208,9017ee70-761b-434e-bc44-705cf14336fa,208,dmu,uncommon
+"Nemata, Primeval Warden",Dominaria United,1,FALSE,0.85,Rare,209,adcd556d-351f-4faf-9456-0e47def69a69,209,dmu,rare
+Queen Allenal of Ruadach,Dominaria United,1,FALSE,0.25,Uncommon,210,b44b4e8b-7675-4c6a-a16a-92f8b6a0259f,210,dmu,uncommon
+"Radha, Coalition Warlord",Dominaria United,1,FALSE,0.15,Uncommon,211,2cec235e-7ce0-4947-b221-a555b2c865bd,211,dmu,uncommon
+"Raff, Weatherlight Stalwart",Dominaria United,1,FALSE,0.15,Uncommon,212,cc0cba4c-d9f0-421f-acf4-ab1adcd59c80,212,dmu,uncommon
+Ratadrabik of Urborg,Dominaria United,1,FALSE,1.43,Rare,213,9315812d-03e8-4eb4-a693-e7adf281f7fb,213,dmu,rare
+"Rith, Liberated Primeval",Dominaria United,1,FALSE,5.10,Mythic Rare,214,ac148784-b7b6-4aae-bffb-a4cf09f56971,214,dmu,mythic
+Rivaz of the Claw,Dominaria United,1,FALSE,1.30,Rare,215,9a47573a-601e-4738-acef-16118289f939,215,dmu,rare
+"Rona, Sheoldred's Faithful",Dominaria United,1,FALSE,0.15,Uncommon,216,cc8331ab-adc9-45c6-9728-66afc72d901c,216,dmu,uncommon
+"Rulik Mons, Warren Chief",Dominaria United,1,FALSE,0.18,Uncommon,217,3fa49711-473d-4774-99b8-2bfbabc6b735,217,dmu,uncommon
+"Shanna, Purifying Blade",Dominaria United,1,FALSE,0.48,Mythic Rare,218,7261c443-8d27-4d85-8027-2a0271b85e07,218,dmu,mythic
+Sol'Kanar the Tainted,Dominaria United,1,FALSE,0.42,Mythic Rare,219,3027347d-5fd3-47cd-83d4-8c834e00794c,219,dmu,mythic
+Soul of Windgrace,Dominaria United,1,FALSE,0.68,Mythic Rare,220,e775a2e6-e701-4cb8-8c0b-718d3508f6b6,220,dmu,mythic
+"Stenn, Paranoid Partisan",Dominaria United,1,FALSE,0.37,Rare,221,07177a8e-5ded-4084-a22f-2d8fe933de7a,221,dmu,rare
+"Tatyova, Steward of Tides",Dominaria United,1,FALSE,0.20,Uncommon,222,0d446cb9-519a-4889-b057-029db9400021,222,dmu,uncommon
+"Tori D'Avenant, Fury Rider",Dominaria United,1,FALSE,0.22,Uncommon,223,9c873c5b-61f6-49b9-8993-2d5e9823de62,223,dmu,uncommon
+"Tura Kennerüd, Skyknight",Dominaria United,1,FALSE,0.15,Uncommon,224,c839d302-bf85-4a30-a49a-dbbd48695b5c,224,dmu,uncommon
+"Uurg, Spawn of Turg",Dominaria United,1,FALSE,0.20,Uncommon,225,dd3fc36c-682b-4352-a66f-eddd2baf0bf6,225,dmu,uncommon
+"Vohar, Vodalian Desecrator",Dominaria United,1,FALSE,0.20,Uncommon,226,807c7812-c108-45a7-a5b2-08cc693bc500,226,dmu,uncommon
+"Zar Ojanen, Scion of Efrava",Dominaria United,1,FALSE,0.20,Uncommon,227,65c903e3-d622-415e-9144-a5b2f3f7b9ed,227,dmu,uncommon
+"Zur, Eternal Schemer",Dominaria United,1,FALSE,14.86,Mythic Rare,228,4d987435-2403-4e0f-b19d-693da923ba50,228,dmu,mythic
+Automatic Librarian,Dominaria United,1,FALSE,0.12,Common,229,6c3d7ece-0f57-4213-a0ab-a9d7c1536ebb,229,dmu,common
+Golden Argosy,Dominaria United,1,FALSE,0.69,Rare,230,f8611a53-e54e-4625-8e28-03511f1550e8,230,dmu,rare
+Hero's Heirloom,Dominaria United,1,FALSE,0.20,Uncommon,231,5b7c0d2d-7107-4599-8d49-c7c57d21e467,231,dmu,uncommon
+Inscribed Tablet,Dominaria United,1,FALSE,0.15,Uncommon,232,699d8655-d250-4ab6-92c5-376979bbabc7,232,dmu,uncommon
+Jodah's Codex,Dominaria United,1,FALSE,0.15,Uncommon,233,d636da1e-4cc6-40a1-bd83-cc0dd761b1cc,233,dmu,uncommon
+Karn's Sylex,Dominaria United,1,FALSE,0.98,Mythic Rare,234,673a8676-0a93-4ca3-a786-63f138027e8a,234,dmu,mythic
+Meteorite,Dominaria United,1,FALSE,0.15,Common,235,33eb2032-50af-4fd6-bdc7-7cae2211956c,235,dmu,common
+Relic of Legends,Dominaria United,1,FALSE,3.77,Uncommon,236,64a2809e-c441-416c-90ff-6fb1e246dff3,236,dmu,uncommon
+Salvaged Manaworker,Dominaria United,1,FALSE,0.14,Common,237,5fc22ecb-5d87-464e-8c7d-5d40a52e1e4f,237,dmu,common
+Shield-Wall Sentinel,Dominaria United,1,FALSE,0.20,Common,238,7e57e1d7-da1d-4a2b-867f-85b8331b7bbc,238,dmu,common
+Timeless Lotus,Dominaria United,1,FALSE,15.44,Mythic Rare,239,6f566387-3342-4325-ba4c-eee7626072ac,239,dmu,mythic
+Vanquisher's Axe,Dominaria United,1,FALSE,0.12,Common,240,aef37244-deb9-464e-ab8c-4308369ae09b,240,dmu,common
+Walking Bulwark,Dominaria United,1,FALSE,0.22,Uncommon,241,602d163c-d341-4b3b-9d3c-5d3419e9b10b,241,dmu,uncommon
+Weatherlight Compleated,Dominaria United,1,FALSE,0.87,Mythic Rare,242,976fd9d9-a9b5-40b6-ad38-4b3b263e1ebc,242,dmu,mythic
+Adarkar Wastes,Dominaria United,1,FALSE,1.84,Rare,243,08ae1037-6f70-41a9-b75e-98fa9a2152c8,243,dmu,rare
+Caves of Koilos,Dominaria United,1,FALSE,1.00,Rare,244,99264beb-2149-4cd4-9880-f0dc5c570c1b,244,dmu,rare
+Contaminated Aquifer,Dominaria United,1,FALSE,1.00,Common,245,6bb570f4-de68-4d8c-a9f3-8a3294163aa8,245,dmu,common
+Crystal Grotto,Dominaria United,1,FALSE,0.20,Common,246,bd250c9d-c65f-4293-a6b0-007fac634d3d,246,dmu,common
+Geothermal Bog,Dominaria United,1,FALSE,0.29,Common,247,1e62fe57-4fa4-4bfd-8e31-9f6db774d7e2,247,dmu,common
+Haunted Mire,Dominaria United,1,FALSE,0.38,Common,248,16f5e958-56e6-4666-a534-24deba6f652d,248,dmu,common
+Idyllic Beachfront,Dominaria United,1,FALSE,0.30,Common,249,c50ec22c-decb-419f-ae52-78ea1706eb11,249,dmu,common
+Karplusan Forest,Dominaria United,1,FALSE,4.64,Rare,250,b89b2c79-e3d3-4ef9-bfc8-f9c090975011,250,dmu,rare
+Molten Tributary,Dominaria United,1,FALSE,0.57,Common,251,20aff4af-5128-432f-a8c8-65b6909d31ac,251,dmu,common
+Plaza of Heroes,Dominaria United,1,FALSE,7.31,Rare,252,a2cfcf67-f83c-43af-9e2d-5513fcdde835,252,dmu,rare
+Radiant Grove,Dominaria United,1,FALSE,0.25,Common,253,e0f9dca6-e5ae-4714-8a59-2ef1d8f1e82d,253,dmu,common
+Sacred Peaks,Dominaria United,1,FALSE,0.25,Common,254,24957d64-ad17-4d4f-8a00-3cdd83e1ce88,254,dmu,common
+Shivan Reef,Dominaria United,1,FALSE,1.05,Rare,255,a338107b-0960-4496-a9a5-f7b672e7c043,255,dmu,rare
+Sulfurous Springs,Dominaria United,1,FALSE,3.03,Rare,256,dfd5450a-6490-417f-9aea-b6fca6f380d7,256,dmu,rare
+Sunlit Marsh,Dominaria United,1,FALSE,0.45,Common,257,f0588fbf-3c05-452a-b3f7-67604c1f921d,257,dmu,common
+Tangled Islet,Dominaria United,1,FALSE,0.30,Common,258,4a325fb4-fe71-47f1-9a2f-05b8cfe88fe6,258,dmu,common
+Thran Portal,Dominaria United,1,FALSE,3.10,Rare,259,ef074a2e-a387-4af8-a180-74b145d93992,259,dmu,rare
+Wooded Ridgeline,Dominaria United,1,FALSE,0.25,Common,260,e8e31184-dca4-48b1-be9d-581247c41d99,260,dmu,common
+Yavimaya Coast,Dominaria United,1,FALSE,0.89,Rare,261,0ed6c8b0-f154-4678-89d0-9869864ead8d,261,dmu,rare
+Plains (262),Dominaria United,1,FALSE,0.15,Basic Land,262,,,,
+Plains (263),Dominaria United,1,FALSE,0.15,Basic Land,263,,,,
+Plains (264),Dominaria United,1,FALSE,0.15,Basic Land,264,,,,
+Island (265),Dominaria United,1,FALSE,0.15,Basic Land,265,,,,
+Island (266),Dominaria United,1,FALSE,0.18,Basic Land,266,,,,
+Island (267),Dominaria United,1,FALSE,0.15,Basic Land,267,,,,
+Swamp (268),Dominaria United,1,FALSE,0.19,Basic Land,268,,,,
+Swamp (269),Dominaria United,1,FALSE,0.18,Basic Land,269,,,,
+Swamp (270),Dominaria United,1,FALSE,0.20,Basic Land,270,,,,
+Mountain (272),Dominaria United,1,FALSE,0.15,Basic Land,272,,,,
+Mountain (273),Dominaria United,1,FALSE,0.15,Basic Land,273,,,,
+Forest (274),Dominaria United,1,FALSE,0.20,Basic Land,274,,,,
+Forest (275),Dominaria United,1,FALSE,0.18,Basic Land,275,,,,
+Forest (276),Dominaria United,1,FALSE,0.20,Basic Land,276,,,,
+Plains (277),Dominaria United,1,FALSE,2.08,Basic Land,277,,,,
+Island (278),Dominaria United,1,FALSE,1.10,Basic Land,278,,,,
+Swamp (279),Dominaria United,1,FALSE,1.34,Basic Land,279,,,,
+Mountain (280),Dominaria United,1,FALSE,1.18,Basic Land,280,,,,
+Forest (281),Dominaria United,1,FALSE,1.05,Basic Land,281,,,,

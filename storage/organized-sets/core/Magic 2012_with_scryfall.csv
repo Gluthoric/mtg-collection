@@ -1,0 +1,4 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+Auramancer,Magic 2012,1,TRUE,0.25,Common,9,b702dc6d-4c05-4313-b303-c321847ad6a9,9,m12,common
+Fiery Hellhound,Magic 2012,1,TRUE,0.25,Common,130,7c96f7a0-99a3-4ba4-b0f0-9ea36c45d5d5,130,m12,common
+Goblin Bangchuckers,Magic 2012,1,FALSE,0.24,Uncommon,137,b56ddad0-23ea-4139-a200-c76c9c46e8c5,137,m12,uncommon

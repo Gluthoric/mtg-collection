@@ -1,0 +1,567 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+Breaker of Creation,Modern Horizons 3,1,TRUE,1.02,Uncommon,1,72449552-aa2c-4ae3-846f-df523c5e6078,1,mh3,uncommon
+Devourer of Destiny,Modern Horizons 3,1,TRUE,2.07,Rare,2,560debcd-feb4-4534-991e-a7aa1cca2409,2,mh3,rare
+Drownyard Lurker,Modern Horizons 3,2,TRUE,0.09,Common,3,7faf5812-2067-4386-bb83-150723d67d02,3,mh3,common
+Echoes of Eternity,Modern Horizons 3,1,TRUE,1.75,Rare,4,b28b9bee-d726-407b-9e5b-2231384df81e,4,mh3,rare
+Eldrazi Ravager,Modern Horizons 3,1,TRUE,0.12,Uncommon,5,0ce97bb8-b0ee-4473-8c26-a3ec91abec97,5,mh3,uncommon
+"Emrakul, the World Anew",Modern Horizons 3,1,FALSE,10.04,Mythic Rare,6,b914bfd9-5be3-4459-a68a-9b3ea2747bbc,6,mh3,mythic
+Glaring Fleshraker,Modern Horizons 3,1,TRUE,5.08,Uncommon,7,80c2a3c7-1486-4ff9-88ec-79ec67a437f8,7,mh3,uncommon
+"Herigast, Erupting Nullkite",Modern Horizons 3,1,TRUE,1.26,Mythic Rare,8,7baf9549-1869-4bd3-a52a-2f0b30ba0b16,8,mh3,mythic
+It That Heralds the End,Modern Horizons 3,1,TRUE,1.96,Uncommon,9,c8c47679-0fac-466f-be3c-794f23576e55,9,mh3,uncommon
+"Kozilek, the Broken Reality",Modern Horizons 3,1,FALSE,6.75,Mythic Rare,10,04066abb-44d2-4730-9cc3-2584bc4c7d8c,10,mh3,mythic
+"Kozilek, the Broken Reality",Modern Horizons 3,2,TRUE,7.19,Mythic Rare,10,04066abb-44d2-4730-9cc3-2584bc4c7d8c,10,mh3,mythic
+Kozilek's Command,Modern Horizons 3,1,TRUE,10.04,Rare,11,92585587-cfdc-406a-9114-4f6dd8802c37,11,mh3,rare
+Null Elemental Blast,Modern Horizons 3,1,FALSE,0.40,Uncommon,12,8e259868-d29a-4c03-8ec3-49e914f849fb,12,mh3,uncommon
+Null Elemental Blast,Modern Horizons 3,2,TRUE,0.39,Uncommon,12,8e259868-d29a-4c03-8ec3-49e914f849fb,12,mh3,uncommon
+Nulldrifter,Modern Horizons 3,1,TRUE,1.92,Rare,13,4d9f1bb8-c91b-40cd-a416-abbff0d65306,13,mh3,rare
+Twisted Riddlekeeper,Modern Horizons 3,1,TRUE,0.06,Uncommon,14,534d7ae4-9c4b-4a5a-a109-7630a07aeb45,14,mh3,uncommon
+Warped Tusker,Modern Horizons 3,2,TRUE,0.04,Common,16,2b5f3a1a-8514-4598-be3d-c3be719f6951,16,mh3,common
+Wastescape Battlemage,Modern Horizons 3,1,TRUE,0.23,Uncommon,17,6bc119b8-429c-4ab6-adba-b65b03810e98,17,mh3,uncommon
+Aerie Auxiliary,Modern Horizons 3,2,TRUE,0.03,Common,18,5e4c134b-a416-467e-a158-def84c92c6af,18,mh3,common
+Ajani Fells the Godsire,Modern Horizons 3,1,TRUE,0.11,Uncommon,19,1d918133-d4e2-4674-a3cb-58edef1c6758,19,mh3,uncommon
+Argent Dais,Modern Horizons 3,1,TRUE,0.14,Rare,20,b56ad225-1249-4e94-898c-ca21b132e62d,20,mh3,rare
+Charitable Levy,Modern Horizons 3,1,TRUE,0.12,Uncommon,21,4a5cab75-546c-4760-97b7-4591de9e6662,21,mh3,uncommon
+Dog Umbra,Modern Horizons 3,2,TRUE,0.09,Common,22,8d4ba710-eddb-40ca-b2fe-0e4e778aab9c,22,mh3,common
+Envoy of the Ancestors,Modern Horizons 3,1,TRUE,0.31,Uncommon,23,fc1dfbfc-90e0-48fa-98f1-39929f823619,23,mh3,uncommon
+Essence Reliquary,Modern Horizons 3,1,TRUE,0.15,Uncommon,24,e65f4ae3-6b21-4827-9851-8a53628e254f,24,mh3,uncommon
+Expel the Unworthy,Modern Horizons 3,2,TRUE,0.02,Common,25,5f68baee-f503-407d-931f-2a550470a55f,25,mh3,common
+Flare of Fortitude,Modern Horizons 3,1,TRUE,3.31,Rare,26,37b41b59-0296-443b-8a62-8d5c4641ef66,26,mh3,rare
+Glyph Elemental,Modern Horizons 3,1,TRUE,0.13,Uncommon,27,89f48c8f-b6f9-43b2-91c3-8d6e95d62db9,27,mh3,uncommon
+Guardian of the Forgotten,Modern Horizons 3,1,TRUE,0.03,Uncommon,28,8032c909-3170-45ab-a552-a8dc683b0a6e,28,mh3,uncommon
+Guide of Souls,Modern Horizons 3,1,TRUE,4.39,Rare,29,76c3cad2-1e25-4abe-878d-9194de6fcc27,29,mh3,rare
+Hexgold Slith,Modern Horizons 3,1,TRUE,0.03,Common,30,20a85b6d-fb2b-4359-9dd6-081d8722e580,30,mh3,common
+Indebted Spirit,Modern Horizons 3,1,TRUE,0.15,Uncommon,31,bfdbef00-bc1b-4dd6-aef5-aeb5ce454344,31,mh3,uncommon
+Inspired Inventor,Modern Horizons 3,2,TRUE,0.06,Common,32,9143fc7c-f4eb-4f06-97b9-f912237a055f,32,mh3,common
+Jolted Awake,Modern Horizons 3,1,TRUE,0.03,Common,33,f773a79f-ad0f-45c9-bcf5-44ba5e992729,33,mh3,common
+Mandibular Kite,Modern Horizons 3,2,TRUE,0.07,Common,34,6b922f71-18e6-4a74-b792-d477d4a1deca,34,mh3,common
+Metastatic Evangel,Modern Horizons 3,1,TRUE,2.75,Uncommon,35,774e115a-c0dc-4901-9a1f-87754304e378,35,mh3,uncommon
+Muster the Departed,Modern Horizons 3,1,TRUE,0.25,Uncommon,36,a37510bb-245c-47bc-bbf3-2b202b67d383,36,mh3,uncommon
+Nyxborn Unicorn,Modern Horizons 3,2,TRUE,0.06,Common,37,fa3a9f8f-b74f-44f1-a8b5-d21a55358a6c,37,mh3,common
+"Pearl-Ear, Imperial Advisor",Modern Horizons 3,1,TRUE,0.67,Rare,39,28aef7c8-58b3-463c-91d3-2d1ff8a815ee,39,mh3,rare
+"Phelia, Exuberant Shepherd",Modern Horizons 3,1,FALSE,2.27,Rare,40,55707746-da6e-46e5-a5ca-7ac843fdc38e,40,mh3,rare
+"Phelia, Exuberant Shepherd",Modern Horizons 3,1,TRUE,2.67,Rare,40,55707746-da6e-46e5-a5ca-7ac843fdc38e,40,mh3,rare
+Proud Pack-Rhino,Modern Horizons 3,1,TRUE,0.10,Uncommon,41,0821e622-88b8-4b82-a696-954da1dde915,41,mh3,uncommon
+Rosecot Knight,Modern Horizons 3,2,TRUE,0.03,Common,42,9ae7df20-1ccf-459b-b81c-ab8763c77ccf,42,mh3,common
+Solstice Zealot,Modern Horizons 3,1,TRUE,0.02,Common,43,f10539e3-d4bc-4f71-a00f-8e94bb97509d,43,mh3,common
+Static Prison,Modern Horizons 3,1,TRUE,0.72,Uncommon,44,dd16222e-349c-4a2b-a7c8-8eb35a8ab332,44,mh3,uncommon
+Thraben Charm,Modern Horizons 3,1,TRUE,0.64,Common,45,dd28a646-f38f-4cdf-948c-969cd979e5e6,45,mh3,common
+Voltstorm Angel,Modern Horizons 3,1,TRUE,0.08,Uncommon,46,b5495f34-423e-4012-808c-b267e6fabf2c,46,mh3,uncommon
+White Orchid Phantom,Modern Horizons 3,1,FALSE,1.00,Rare,47,4f8d885c-5b57-457f-a658-fd0b79cf98cc,47,mh3,rare
+White Orchid Phantom,Modern Horizons 3,1,TRUE,1.20,Rare,47,4f8d885c-5b57-457f-a658-fd0b79cf98cc,47,mh3,rare
+Wing It,Modern Horizons 3,2,TRUE,0.04,Common,48,e23abf47-22fa-4dca-bd42-fafa1c8b592f,48,mh3,common
+Wrath of the Skies,Modern Horizons 3,2,TRUE,1.64,Rare,49,4ef1882e-b422-4f30-8a6c-bd71c2601660,49,mh3,rare
+Aether Spike,Modern Horizons 3,2,TRUE,0.06,Common,50,012f5195-10ab-4b32-a5de-a79341cd536a,50,mh3,common
+Amphibian Downpour,Modern Horizons 3,1,TRUE,3.36,Rare,51,2d8aeca5-622a-45be-8168-07e7c00e3092,51,mh3,rare
+Bespoke Battlewagon,Modern Horizons 3,1,TRUE,0.05,Uncommon,52,3feccebc-c792-420d-b96c-51494b5c41db,52,mh3,uncommon
+Brainsurge,Modern Horizons 3,1,TRUE,0.76,Uncommon,53,ed48f805-b57c-4d7f-a3c2-d16ae71bce2d,53,mh3,uncommon
+Consign to Memory,Modern Horizons 3,1,TRUE,5.88,Uncommon,54,bc95af55-d1dd-4fe6-adb0-3ad6db20d986,54,mh3,uncommon
+Copycrook,Modern Horizons 3,1,TRUE,0.15,Uncommon,55,52ea5e71-d0a3-4065-918b-9b2af98589ba,55,mh3,uncommon
+Corrupted Shapeshifter,Modern Horizons 3,2,TRUE,0.07,Common,56,27534c8a-cb71-43bc-b706-80a525396222,56,mh3,common
+Deem Inferior,Modern Horizons 3,1,TRUE,0.08,Common,57,cc0835c7-58ca-4f16-984a-c590ce6a229a,57,mh3,common
+Depth Defiler,Modern Horizons 3,1,TRUE,0.07,Uncommon,58,37684797-7503-460d-9f74-047b1ab2fac3,58,mh3,uncommon
+Dreamtide Whale,Modern Horizons 3,1,FALSE,1.50,Rare,59,fd7dc03e-2a61-482a-b7eb-6cdb7f375fd8,59,mh3,rare
+Dreamtide Whale,Modern Horizons 3,1,TRUE,1.93,Rare,59,fd7dc03e-2a61-482a-b7eb-6cdb7f375fd8,59,mh3,rare
+Electrozoa,Modern Horizons 3,1,TRUE,0.02,Common,60,0f92dce7-45d4-4d9e-abfc-e4bfce9562c9,60,mh3,common
+Emrakul's Messenger,Modern Horizons 3,1,TRUE,2.27,Uncommon,61,f0f818d7-320c-47b9-a083-40007f3d91ea,61,mh3,uncommon
+Flare of Denial,Modern Horizons 3,4,TRUE,5.38,Rare,62,71a98efb-9b0a-496b-ac21-8d70527ea544,62,mh3,rare
+Harbinger of the Seas,Modern Horizons 3,1,TRUE,5.46,Rare,63,00212714-a410-4cbc-bf1c-f90d7d77378c,63,mh3,rare
+Hope-Ender Coatl,Modern Horizons 3,1,TRUE,0.10,Uncommon,64,26973cad-26d7-4d42-a58a-85c3dce3b9fd,64,mh3,uncommon
+Kozilek's Unsealing,Modern Horizons 3,1,TRUE,0.46,Uncommon,65,e6b44ffe-db9e-4db5-9806-098411c9ece0,65,mh3,uncommon
+Petrifying Meddler,Modern Horizons 3,1,TRUE,0.08,Common,66,f0f2bdfd-1cbc-456e-aba7-4e0b6485cf8a,66,mh3,common
+Roil Cartographer,Modern Horizons 3,1,TRUE,0.08,Uncommon,67,84317f9d-5a24-4f74-9c3e-0a8b5c15bb5f,67,mh3,uncommon
+Sage of the Unknowable,Modern Horizons 3,1,TRUE,0.04,Common,68,9f481ab3-ca6c-4a5c-aa32-d087464fc4da,68,mh3,common
+Serum Visionary,Modern Horizons 3,1,TRUE,0.05,Common,69,08a587f5-5910-405e-8982-c889dbbc7f98,69,mh3,common
+Strix Serenade,Modern Horizons 3,1,FALSE,1.99,Rare,71,42ac5ac7-b2f9-4e6f-af41-7e42ac816374,71,mh3,rare
+Tamiyo Meets the Story Circle,Modern Horizons 3,1,TRUE,0.12,Uncommon,72,ee66a06e-a461-46af-a318-550bc35de5d0,72,mh3,uncommon
+Tempest Harvester,Modern Horizons 3,1,TRUE,0.02,Common,73,62a3fc3f-f5cd-45f1-a3d5-d90c9dd4f6c7,73,mh3,common
+Triton Wavebreaker,Modern Horizons 3,1,TRUE,0.10,Uncommon,74,41e68700-c71c-46db-b6a4-beae924cf97a,74,mh3,uncommon
+Tune the Narrative,Modern Horizons 3,1,TRUE,0.14,Common,75,40b13321-98f1-4e8c-802d-65498e43ec24,75,mh3,common
+Ugin's Binding,Modern Horizons 3,2,TRUE,3.10,Mythic Rare,76,be13786a-f967-456b-bbc6-f4312467a827,76,mh3,mythic
+Unfathomable Truths,Modern Horizons 3,2,TRUE,0.09,Common,77,f95b8eb1-4dbb-4bb9-aa31-b7a12e3b4618,77,mh3,common
+Utter Insignificance,Modern Horizons 3,2,TRUE,0.11,Common,78,3050ac06-4c16-4155-a97f-f6bc92709ee4,78,mh3,common
+Volatile Stormdrake,Modern Horizons 3,1,TRUE,1.31,Rare,79,2e6e3232-8bb8-4504-9597-dfdfc6d634bd,79,mh3,rare
+Accursed Marauder,Modern Horizons 3,1,TRUE,1.45,Common,80,5da14d86-0780-4821-a799-96f64b377df4,80,mh3,common
+Arcbound Condor,Modern Horizons 3,1,TRUE,0.14,Uncommon,81,e7995b44-7932-4d28-9a4c-a32ba35c60d7,81,mh3,uncommon
+Breathe Your Last,Modern Horizons 3,1,TRUE,0.08,Common,82,50eac71d-54f9-46c2-aa1d-c04c37e61f74,82,mh3,common
+Chthonian Nightmare,Modern Horizons 3,1,TRUE,1.35,Rare,83,ce5dd2c1-b6e0-4914-b5c9-7dd451c29e22,83,mh3,rare
+Crabomination,Modern Horizons 3,1,TRUE,0.39,Rare,85,f328d6e0-d808-4abe-b6a2-cc557b27c329,85,mh3,rare
+The Creation of Avacyn,Modern Horizons 3,1,TRUE,0.17,Uncommon,86,27d701aa-df93-4f0e-b1e3-d081487eb456,86,mh3,uncommon
+Dreadmobile,Modern Horizons 3,1,TRUE,0.07,Uncommon,87,831506ea-017a-40ff-91c1-ff2d70dc0013,87,mh3,uncommon
+Dreamdrinker Vampire,Modern Horizons 3,2,TRUE,0.10,Common,88,961a3a53-344b-44d5-bc8e-f43437e6b558,88,mh3,common
+Drossclaw,Modern Horizons 3,2,TRUE,0.05,Common,89,70e68656-3204-4bb5-9f31-8036083fcba6,89,mh3,common
+Emperor of Bones,Modern Horizons 3,1,FALSE,1.15,Rare,90,df9d9075-2d1e-4848-b661-816d539e05eb,90,mh3,rare
+Emperor of Bones,Modern Horizons 3,1,TRUE,1.42,Rare,90,df9d9075-2d1e-4848-b661-816d539e05eb,90,mh3,rare
+Etched Slith,Modern Horizons 3,1,TRUE,0.07,Uncommon,91,428e255d-bdda-4265-91cf-d02962e818e4,91,mh3,uncommon
+Etherium Pteramander,Modern Horizons 3,1,TRUE,0.07,Uncommon,92,3abd093b-c1d6-400e-bc26-1aa045fe47b8,92,mh3,uncommon
+Eviscerator's Insight,Modern Horizons 3,1,TRUE,0.21,Common,93,b00573bd-5bbb-4531-a0bb-a40f62b92b88,93,mh3,common
+Fetid Gargantua,Modern Horizons 3,2,TRUE,0.10,Common,94,0cd368a9-5efe-4755-89be-a05cfa2b71c0,94,mh3,common
+Flare of Malice,Modern Horizons 3,1,TRUE,1.96,Rare,95,19efb9ce-62eb-4cbf-b01e-979f3fd09ba6,95,mh3,rare
+Gravedig,Modern Horizons 3,2,TRUE,0.03,Common,96,e2b054a9-7565-4fdd-b6a5-2786c5bb5b7e,96,mh3,common
+Grim Servant,Modern Horizons 3,1,TRUE,0.17,Uncommon,97,df9c275d-e8cc-40c2-8baf-7a0d154aa7cf,97,mh3,uncommon
+Kami of Jealous Thirst,Modern Horizons 3,1,TRUE,0.04,Common,98,a2958c96-97f8-4961-813c-938b83e20d07,98,mh3,common
+Lethal Throwdown,Modern Horizons 3,1,TRUE,0.04,Uncommon,99,657f52a0-f6fb-4ad8-8d50-c8209de95ab8,99,mh3,uncommon
+Marionette Apprentice,Modern Horizons 3,2,TRUE,2.97,Uncommon,100,d16f8670-f038-400a-83e7-a53a7f8c47ac,100,mh3,uncommon
+Mindless Conscription,Modern Horizons 3,1,TRUE,0.13,Uncommon,101,1af5b195-101a-4265-98a7-522a968cf218,101,mh3,uncommon
+Necrodominance,Modern Horizons 3,1,FALSE,4.65,Mythic Rare,102,ffc0109c-f939-4424-820e-d6e60cacd794,102,mh3,mythic
+Necrodominance,Modern Horizons 3,1,TRUE,4.53,Mythic Rare,102,ffc0109c-f939-4424-820e-d6e60cacd794,102,mh3,mythic
+Nethergoyf,Modern Horizons 3,1,FALSE,14.47,Mythic Rare,103,3ee3945e-5089-4751-b7b3-5961c39d2a33,103,mh3,mythic
+Nethergoyf,Modern Horizons 3,1,TRUE,15.53,Mythic Rare,103,3ee3945e-5089-4751-b7b3-5961c39d2a33,103,mh3,mythic
+Quest for the Necropolis,Modern Horizons 3,1,TRUE,0.08,Uncommon,104,813020ef-9d98-4f79-a953-85e7e7e5d3e1,104,mh3,uncommon
+Refurbished Familiar,Modern Horizons 3,3,TRUE,0.58,Common,105,b338e078-629c-4cac-bd1d-e1f0a132728d,105,mh3,common
+Retrofitted Transmogrant,Modern Horizons 3,1,TRUE,0.08,Common,106,12c1b83d-710b-4680-855a-02ba1f72abf0,106,mh3,common
+Ripples of Undeath,Modern Horizons 3,1,TRUE,4.39,Rare,107,a201d1bc-e3fe-4f59-bd48-3683996ac308,107,mh3,rare
+Scurrilous Sentry,Modern Horizons 3,2,TRUE,0.03,Common,108,29e2805f-59fa-4a6d-97bc-266191b2aa8d,108,mh3,common
+"Shilgengar, Sire of Famine",Modern Horizons 3,1,TRUE,0.38,Rare,109,9e6aba35-bee5-4058-a2df-d73506d225c2,109,mh3,rare
+Warren Soultrader,Modern Horizons 3,1,TRUE,8.02,Rare,110,b334e4c6-d316-4141-8889-f95afcc04701,110,mh3,rare
+Wither and Bloom,Modern Horizons 3,1,TRUE,0.06,Common,111,95c2390f-71f1-4e42-83da-d603ca86a8d0,111,mh3,common
+Wurmcoil Larva,Modern Horizons 3,1,TRUE,0.13,Uncommon,112,cc9b30e0-3934-4e4c-bdd9-5b7696b45948,112,mh3,uncommon
+Aether Revolt,Modern Horizons 3,2,FALSE,0.30,Rare,113,b8732e62-cdee-4d32-82a8-8a71a04be7a1,113,mh3,rare
+Aether Revolt,Modern Horizons 3,3,TRUE,0.24,Rare,113,b8732e62-cdee-4d32-82a8-8a71a04be7a1,113,mh3,rare
+Amped Raptor,Modern Horizons 3,1,TRUE,0.66,Uncommon,114,1ac0e78b-0fdd-44f9-8b7b-c4f28a32782e,114,mh3,uncommon
+"Ashling, Flame Dancer",Modern Horizons 3,2,TRUE,3.71,Mythic Rare,115,40463be5-89e2-410b-9a4b-770f70d14293,115,mh3,mythic
+Detective's Phoenix,Modern Horizons 3,1,TRUE,2.31,Rare,116,e2a01edd-dbc0-4ed4-b827-9b608290e9a1,116,mh3,rare
+Eldrazi Linebreaker,Modern Horizons 3,1,TRUE,0.39,Rare,117,f67774a1-f5f8-4b7b-871d-88a1b5e57d27,117,mh3,rare
+Fanged Flames,Modern Horizons 3,1,TRUE,0.11,Common,118,fcfac301-55db-49a7-9a0d-918c907703da,118,mh3,common
+Flare of Duplication,Modern Horizons 3,1,FALSE,1.68,Rare,119,497a10c6-131b-464e-95e4-e47708a24d48,119,mh3,rare
+Flare of Duplication,Modern Horizons 3,2,TRUE,2.18,Rare,119,497a10c6-131b-464e-95e4-e47708a24d48,119,mh3,rare
+Frogmyr Enforcer,Modern Horizons 3,2,TRUE,0.13,Uncommon,120,981fdd21-a650-4360-9ea5-550399d1da91,120,mh3,uncommon
+Furnace Hellkite,Modern Horizons 3,1,TRUE,0.15,Uncommon,121,1f9d91b5-7c09-4a9c-9dc8-fdd4c049009c,121,mh3,uncommon
+Galvanic Discharge,Modern Horizons 3,1,TRUE,0.23,Common,122,32aa6e33-221f-414c-9b51-850d97a7e051,122,mh3,common
+Ghostfire Slice,Modern Horizons 3,1,TRUE,0.31,Uncommon,123,2adea3ee-138f-455b-a001-586883c44758,123,mh3,uncommon
+Glimpse the Impossible,Modern Horizons 3,1,TRUE,0.43,Common,124,133ad0dd-5b61-4c38-9264-0b0e75b95d95,124,mh3,common
+Infernal Captor,Modern Horizons 3,2,TRUE,0.04,Common,125,6b30243d-511b-47b8-bbed-0395d3de903d,125,mh3,common
+Inventor's Axe,Modern Horizons 3,2,TRUE,0.04,Common,126,3b2f918c-bd02-4a63-b4c2-ca204c77b208,126,mh3,common
+Mogg Mob,Modern Horizons 3,2,TRUE,0.09,Uncommon,127,f1457aa8-9f70-4586-b595-6a722879f6ae,127,mh3,uncommon
+Molten Gatekeeper,Modern Horizons 3,2,TRUE,2.47,Common,128,9f5ba065-2806-4e99-a330-168cfe76250f,128,mh3,common
+Party Thrasher,Modern Horizons 3,1,TRUE,0.77,Rare,129,b7f8bb8d-c46a-4531-9525-6981a222b468,129,mh3,rare
+Phyrexian Ironworks,Modern Horizons 3,1,TRUE,0.10,Uncommon,130,6d64e1a8-cb4f-4968-b3e0-c9ca7c7894a3,130,mh3,uncommon
+Powerbalance,Modern Horizons 3,1,TRUE,0.47,Rare,131,aff7c0bb-1210-4aeb-b5f8-1387eb633b0f,131,mh3,rare
+Ral and the Implicit Maze,Modern Horizons 3,1,TRUE,0.04,Uncommon,132,ebadb7dc-69a4-43c9-a2f8-d846b231c71c,132,mh3,uncommon
+Reckless Pyrosurfer,Modern Horizons 3,1,TRUE,0.09,Uncommon,133,2d1bb8ac-7125-4537-b2da-e23a8c28df79,133,mh3,uncommon
+Reiterating Bolt,Modern Horizons 3,1,TRUE,0.11,Uncommon,134,51f57902-85d1-4c40-b79c-6cffafb4557a,134,mh3,uncommon
+Sarpadian Simulacrum,Modern Horizons 3,1,TRUE,0.08,Common,135,099c65d5-9dd3-41d3-9102-3f6cb30c7b8e,135,mh3,common
+Siege Smash,Modern Horizons 3,1,TRUE,0.13,Common,136,f33e3b25-76f5-4263-a309-9ea97f2d8248,136,mh3,common
+Skittering Precursor,Modern Horizons 3,1,TRUE,0.11,Uncommon,137,a3a3b943-7b38-4316-87d9-15e0c08abea5,137,mh3,uncommon
+"Skoa, Embermage",Modern Horizons 3,2,TRUE,0.08,Common,138,cf34b0f8-a68a-428f-9f2c-9556229367ec,138,mh3,common
+Smelted Chargebug,Modern Horizons 3,2,TRUE,0.04,Common,139,7dad40bf-2cd0-47f5-a878-9a289d1d58d0,139,mh3,common
+Spawn-Gang Commander,Modern Horizons 3,1,TRUE,0.16,Uncommon,140,ecac9885-6f4e-4413-90dc-c8b44f883357,140,mh3,uncommon
+Thriving Skyclaw,Modern Horizons 3,1,TRUE,0.05,Common,141,465857f2-df08-4f7b-b4fe-b16831ac0eb1,141,mh3,common
+Unstable Amulet,Modern Horizons 3,1,TRUE,0.22,Uncommon,142,9d9949f5-8d6c-4ea9-b203-99e8a57a6c60,142,mh3,uncommon
+Voidpouncer,Modern Horizons 3,1,TRUE,0.04,Common,143,1f9b8532-4f1a-4653-9cbb-befba8169e5a,143,mh3,common
+Wheel of Potential,Modern Horizons 3,1,FALSE,0.25,Rare,144,c4eb9a82-91f7-4741-a029-a07a3ff6af78,144,mh3,rare
+Wheel of Potential,Modern Horizons 3,1,TRUE,0.18,Rare,144,c4eb9a82-91f7-4741-a029-a07a3ff6af78,144,mh3,rare
+Basking Broodscale,Modern Horizons 3,1,TRUE,1.19,Common,145,5feba5d6-99a6-4e9b-8a7d-90d955868fc3,145,mh3,common
+Collective Resistance,Modern Horizons 3,1,TRUE,3.76,Uncommon,147,f260bd08-68b6-44f4-ace9-e298cb13d82e,147,mh3,uncommon
+Colossal Dreadmask,Modern Horizons 3,2,TRUE,0.13,Common,148,98164430-64c1-465f-b786-45753c965f44,148,mh3,common
+"Eladamri, Korvecdal",Modern Horizons 3,1,TRUE,8.38,Mythic Rare,149,dfdabdda-bd46-4ea2-8b37-5d7f6cec6aff,149,mh3,mythic
+Eldrazi Repurposer,Modern Horizons 3,1,TRUE,0.21,Common,150,37f79ba7-7b65-4387-b498-f770816ce8dd,150,mh3,common
+Evolution Witness,Modern Horizons 3,1,TRUE,1.27,Common,151,4d89283e-9783-4006-9294-4ae0473d2ce6,151,mh3,common
+Fanatic of Rhonas,Modern Horizons 3,1,TRUE,6.91,Rare,152,1f9fb33a-3b39-4aff-93b8-aedafe0ea694,152,mh3,rare
+Fangs of Kalonia,Modern Horizons 3,1,TRUE,1.98,Uncommon,153,0ae8a77b-4001-4da2-b684-d0fab370a162,153,mh3,uncommon
+Flare of Cultivation,Modern Horizons 3,1,TRUE,1.47,Rare,154,bda2fa87-81c0-41ac-8831-556ce392c058,154,mh3,rare
+Fowl Strike,Modern Horizons 3,1,TRUE,0.06,Common,155,83b6c7ab-f42f-40d2-9cb6-89291d57e27f,155,mh3,common
+Gift of the Viper,Modern Horizons 3,2,TRUE,2.27,Common,156,17fa0b62-d474-4dc7-9631-9d0a9d99e5e2,156,mh3,common
+Horrific Assault,Modern Horizons 3,1,TRUE,0.10,Common,157,cfa6ed13-7bba-40c0-8e0e-4ffd3cea6241,157,mh3,common
+The Hunger Tide Rises,Modern Horizons 3,1,TRUE,0.12,Uncommon,158,4b44f01b-17e8-4d49-8f38-fd1128114b2f,158,mh3,uncommon
+Hydra Trainer,Modern Horizons 3,1,TRUE,0.15,Uncommon,159,9d28ae5c-eec3-445a-81d6-42bf9789afce,159,mh3,uncommon
+Lion Umbra,Modern Horizons 3,1,TRUE,0.22,Uncommon,160,89d58e9b-b1d9-4174-a30d-426d2e0ace07,160,mh3,uncommon
+Malevolent Rumble,Modern Horizons 3,2,TRUE,2.79,Common,161,a178cfe8-f9fa-4255-88d0-54a0bed079f5,161,mh3,common
+Monstrous Vortex,Modern Horizons 3,2,FALSE,0.27,Uncommon,162,162fcdec-bf3c-43ba-9ada-212f7dec5fbd,162,mh3,uncommon
+Monstrous Vortex,Modern Horizons 3,2,TRUE,0.34,Uncommon,162,162fcdec-bf3c-43ba-9ada-212f7dec5fbd,162,mh3,uncommon
+Nightshade Dryad,Modern Horizons 3,2,TRUE,0.26,Common,163,71f9252d-241f-45ea-9d80-663150963b59,163,mh3,common
+Nyxborn Hydra,Modern Horizons 3,1,TRUE,0.46,Common,164,902a969e-9f22-4e92-93eb-9d4536ca82e5,164,mh3,common
+Path of Annihilation,Modern Horizons 3,1,TRUE,0.25,Uncommon,165,28493c98-a11c-4bcc-bf55-412c884ffa7a,165,mh3,uncommon
+Primal Prayers,Modern Horizons 3,4,TRUE,0.13,Rare,166,c4eda3db-b47d-4f1e-a93d-e2ea747d935c,166,mh3,rare
+Propagator Drone,Modern Horizons 3,1,TRUE,0.16,Uncommon,167,4f5b2d89-d641-4815-8e6c-5dba0d31419e,167,mh3,uncommon
+Signature Slam,Modern Horizons 3,1,TRUE,0.11,Uncommon,168,634e05c9-96da-467a-870d-3af68da53071,168,mh3,uncommon
+Six,Modern Horizons 3,1,TRUE,5.66,Rare,169,f9246b68-580f-4f53-883d-7900880e4b0d,169,mh3,rare
+Sowing Mycospawn,Modern Horizons 3,1,TRUE,2.70,Rare,170,cdfadb17-76ad-4d4d-9fa7-33c4b88b4c0a,170,mh3,rare
+Springheart Nantuko,Modern Horizons 3,2,TRUE,6.01,Rare,171,54a3ea87-005e-4985-b2a5-21711d0b71c0,171,mh3,rare
+Temperamental Oozewagg,Modern Horizons 3,1,TRUE,0.06,Common,172,6625df2e-7046-411a-ae86-c46ac0953a0b,172,mh3,common
+Territory Culler,Modern Horizons 3,1,TRUE,0.16,Uncommon,173,9c249aa6-c65c-4572-8e2e-c3899638ecce,173,mh3,uncommon
+Thief of Existence,Modern Horizons 3,3,TRUE,0.27,Rare,174,328b02ca-d8eb-401d-9c41-93f8eb909312,174,mh3,rare
+Trickster's Elk,Modern Horizons 3,1,TRUE,0.19,Uncommon,175,812af562-853a-48a3-b428-ad891c54be5c,175,mh3,uncommon
+Wumpus Aberration,Modern Horizons 3,1,TRUE,0.05,Uncommon,176,23c19f67-834c-4709-9038-7916ac0921eb,176,mh3,uncommon
+Abstruse Appropriation,Modern Horizons 3,1,FALSE,0.36,Rare,177,d7149359-bb3f-413c-b21d-e4cd88618e56,177,mh3,rare
+"Arna Kennerüd, Skycaptain",Modern Horizons 3,1,TRUE,0.78,Mythic Rare,178,19266b5a-ff78-436c-b0f1-457e80bb647e,178,mh3,mythic
+Conduit Goblin,Modern Horizons 3,2,TRUE,0.04,Common,179,5c9ad04d-c4d4-4d06-93bb-a881be733717,179,mh3,common
+Cranial Ram,Modern Horizons 3,2,TRUE,0.10,Common,180,62993aa2-4804-43cc-910a-c51e794f8508,180,mh3,common
+Cursed Wombat,Modern Horizons 3,1,TRUE,0.12,Uncommon,181,a09a8de1-98b3-49e0-82f6-d90f1048de44,181,mh3,uncommon
+Cyclops Superconductor,Modern Horizons 3,1,TRUE,0.06,Common,182,69ce6839-92d1-497b-9760-6fdc7388614e,182,mh3,common
+Emissary of Soulfire,Modern Horizons 3,1,TRUE,0.04,Uncommon,183,4663e9e3-1989-4ddb-9508-9cc055d2ebe9,183,mh3,uncommon
+Expanding Ooze,Modern Horizons 3,2,TRUE,0.06,Common,184,bbdb095d-b826-4e3e-8c61-0d408e52d6b8,184,mh3,common
+Faithful Watchdog,Modern Horizons 3,1,TRUE,0.10,Common,185,b9afac99-a094-41a8-8323-90dec29691c4,185,mh3,common
+"Genku, Future Shaper",Modern Horizons 3,2,TRUE,0.16,Rare,186,0cbcc962-65c4-496d-8034-75c8d204dba3,186,mh3,rare
+Golden-Tail Trainer,Modern Horizons 3,1,TRUE,0.12,Uncommon,187,27d42bd9-0307-42ec-a4cd-b39b69b607d0,187,mh3,uncommon
+Horrid Shadowspinner,Modern Horizons 3,1,TRUE,0.07,Uncommon,188,62b69aaf-0aae-4f6e-a27f-0129882dfe1d,188,mh3,uncommon
+Imskir Iron-Eater,Modern Horizons 3,1,TRUE,0.15,Rare,189,541209fa-38b6-4d61-a72d-26bfb6ad5ead,189,mh3,rare
+Invert Polarity,Modern Horizons 3,1,TRUE,1.68,Rare,190,dcee6a8a-c3a8-43bc-beb9-be30d03ab952,190,mh3,rare
+Izzet Generatorium,Modern Horizons 3,1,TRUE,0.12,Uncommon,191,c6d9537d-c6b9-46ef-834b-87750d79f1ae,191,mh3,uncommon
+"Kudo, King Among Bears",Modern Horizons 3,1,TRUE,0.27,Rare,192,585e4e02-4873-4a65-a9ad-30cf0d5b6f79,192,mh3,rare
+"Nadu, Winged Wisdom",Modern Horizons 3,2,FALSE,1.00,Rare,193,94b67489-5eb0-4406-9bf3-27e50dc632eb,193,mh3,rare
+"Nadu, Winged Wisdom",Modern Horizons 3,1,TRUE,0.87,Rare,193,94b67489-5eb0-4406-9bf3-27e50dc632eb,193,mh3,rare
+The Necrobloom,Modern Horizons 3,1,TRUE,0.26,Rare,194,8fcf68cf-0dac-4b29-90d5-c18c685182e6,194,mh3,rare
+Obstinate Gargoyle,Modern Horizons 3,2,TRUE,0.04,Common,195,40cf39f2-7382-405d-a14b-7eb8726cd38a,195,mh3,common
+Ondu Knotmaster // Throw a Line,Modern Horizons 3,1,TRUE,0.03,Uncommon,196,27912e61-97ef-406b-bb88-4fe89a54726e,196,mh3,uncommon
+"Phlage, Titan of Fire's Fury",Modern Horizons 3,1,TRUE,13.79,Mythic Rare,197,e419cd0b-2449-4cc5-9ead-b9e45e271700,197,mh3,mythic
+Planar Genesis,Modern Horizons 3,1,TRUE,5.15,Uncommon,198,7fc9a10b-c9f9-4129-a671-ced0917ce78b,198,mh3,uncommon
+Psychic Frog,Modern Horizons 3,1,FALSE,7.00,Rare,199,68924203-c3d9-41ce-8ca8-c6dd491eb3ca,199,mh3,rare
+Pyretic Rebirth,Modern Horizons 3,1,TRUE,0.07,Uncommon,200,5968f641-48b5-4b97-8072-ddd8073cd4d7,200,mh3,uncommon
+Riddle Gate Gargoyle,Modern Horizons 3,1,TRUE,0.03,Common,201,4e72a934-12e0-4e56-af67-566c2d5b01c1,201,mh3,common
+"Rosheen, Roaring Prophet",Modern Horizons 3,1,FALSE,0.25,Rare,202,b5ac88b2-a92e-4a12-9ba3-5a4b8cdb58dc,202,mh3,rare
+Scurry of Gremlins,Modern Horizons 3,1,TRUE,0.05,Uncommon,203,470ce8e9-64b9-403c-bee0-66a4c47ca6d4,203,mh3,uncommon
+Snapping Voidcraw,Modern Horizons 3,1,TRUE,0.07,Common,204,9185371c-2dde-48ad-ab27-08be04b3c522,204,mh3,common
+Sneaky Snacker,Modern Horizons 3,2,TRUE,0.21,Common,205,0e3aedae-e4bb-48e3-9f8b-bea0430df306,205,mh3,common
+Titans' Vanguard,Modern Horizons 3,1,TRUE,0.08,Uncommon,206,fb3ea14e-44ac-4f69-bfea-cb6bf1bfbd74,206,mh3,uncommon
+Wight of the Reliquary,Modern Horizons 3,1,TRUE,2.01,Rare,207,a15570c0-4210-4959-8584-987ec85f8283,207,mh3,rare
+Writhing Chrysalis,Modern Horizons 3,1,TRUE,0.47,Common,208,f54dbeb1-51f8-40e2-912a-ec25457de5a2,208,mh3,common
+Disruptor Flute,Modern Horizons 3,1,FALSE,1.00,Rare,209,5cad8671-4761-4014-a8a3-af45627e6e79,209,mh3,rare
+Idol of False Gods,Modern Horizons 3,1,TRUE,0.28,Uncommon,210,d5e1ff6d-190a-497f-89c3-35e0979c93b5,210,mh3,uncommon
+Solar Transformer,Modern Horizons 3,1,TRUE,0.21,Uncommon,211,b87315b3-d3a3-4eef-8a20-90587b36f551,211,mh3,uncommon
+Vexing Bauble,Modern Horizons 3,1,TRUE,2.78,Uncommon,212,29f11089-658f-42e6-aeb0-09b512ad2479,212,mh3,uncommon
+Winter Moon,Modern Horizons 3,1,FALSE,1.00,Rare,213,f76bc2da-8f4b-4153-8a7b-c601b19affaf,213,mh3,rare
+Archway of Innovation,Modern Horizons 3,1,TRUE,1.77,Rare,214,6a90f9e6-9251-4203-9599-cc4032a5e6e1,214,mh3,rare
+Arena of Glory,Modern Horizons 3,4,TRUE,8.63,Rare,215,dd148edc-9e43-41aa-bb50-f912115d3e72,215,mh3,rare
+Bloodstained Mire,Modern Horizons 3,2,FALSE,11.47,Rare,216,579743fe-f71e-4cb2-8629-d6b02ed1591d,216,mh3,rare
+Bloodstained Mire,Modern Horizons 3,1,TRUE,11.03,Rare,216,579743fe-f71e-4cb2-8629-d6b02ed1591d,216,mh3,rare
+Bountiful Landscape,Modern Horizons 3,1,TRUE,0.65,Common,217,b277752b-430a-4f09-8a98-b72f813dd52e,217,mh3,common
+Contaminated Landscape,Modern Horizons 3,2,TRUE,0.30,Common,218,e2312c49-1627-47ad-8113-78a999a97d8d,218,mh3,common
+Deceptive Landscape,Modern Horizons 3,2,TRUE,0.19,Common,219,2ae6828e-ff19-45db-8b59-61616353491f,219,mh3,common
+Flooded Strand,Modern Horizons 3,1,TRUE,10.72,Rare,220,8f85e12c-196b-4459-b81f-0c9c854e9f57,220,mh3,rare
+Foreboding Landscape,Modern Horizons 3,1,TRUE,0.25,Common,221,57fb0fa7-0c5c-4a75-9461-c51403c30282,221,mh3,common
+Monumental Henge,Modern Horizons 3,1,TRUE,0.75,Rare,222,62907e7b-e531-4f51-9a69-7e60ae525775,222,mh3,rare
+Perilous Landscape,Modern Horizons 3,2,TRUE,0.28,Common,223,4b0bd07e-cf80-4d64-af29-f4cec6632b3e,223,mh3,common
+Polluted Delta,Modern Horizons 3,1,TRUE,16.10,Rare,224,6e288374-2b71-4ace-b1d2-a19fee6cb4af,224,mh3,rare
+Seething Landscape,Modern Horizons 3,2,TRUE,0.45,Common,225,661fc907-7003-45c6-820c-9616e9a71c30,225,mh3,common
+Shattered Landscape,Modern Horizons 3,1,TRUE,0.26,Common,226,b3da28c7-6e92-439d-a163-91682d4f11dc,226,mh3,common
+Sheltering Landscape,Modern Horizons 3,2,TRUE,0.46,Common,227,0fe070f4-8877-4280-b8fd-869f3ac34ab6,227,mh3,common
+Shifting Woodland,Modern Horizons 3,1,TRUE,7.54,Rare,228,059164e1-894d-4586-9800-e60d6fbd6eb6,228,mh3,rare
+Snow-Covered Wastes,Modern Horizons 3,1,TRUE,0.43,Uncommon,229,87870792-e429-4eba-8193-cdce5c7b6c55,229,mh3,uncommon
+Spymaster's Vault,Modern Horizons 3,2,FALSE,1.36,Rare,230,3d5fbb30-abfc-4e79-8ce5-bbb04a241c9f,230,mh3,rare
+Tranquil Landscape,Modern Horizons 3,1,TRUE,0.42,Common,231,113f48b9-a972-4e2c-af95-05ab078e01f2,231,mh3,common
+Twisted Landscape,Modern Horizons 3,2,TRUE,0.24,Common,232,d0e3e7b3-7ba9-47a2-b46c-a40bffb445e2,232,mh3,common
+Ugin's Labyrinth,Modern Horizons 3,1,FALSE,18.52,Mythic Rare,233,020e1348-1a35-4cc8-bad6-9fbddfa79277,233,mh3,mythic
+Urza's Cave,Modern Horizons 3,1,TRUE,3.08,Uncommon,234,926916ed-2f22-4ba9-9427-194886ad6c1e,234,mh3,uncommon
+Windswept Heath,Modern Horizons 3,3,FALSE,8.45,Rare,235,bd1d13f7-fd38-4f0b-a8e0-1eac78668117,235,mh3,rare
+Windswept Heath,Modern Horizons 3,2,TRUE,8.43,Rare,235,bd1d13f7-fd38-4f0b-a8e0-1eac78668117,235,mh3,rare
+Wooded Foothills,Modern Horizons 3,1,TRUE,11.07,Rare,236,4e11ea8a-f895-438d-a3b7-f070238e4161,236,mh3,rare
+"Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",Modern Horizons 3,1,TRUE,12.76,Mythic Rare,237,0d16e8e0-31b2-4389-afd6-783c501f6fa0,237,mh3,mythic
+Razorgrass Ambush // Razorgrass Field,Modern Horizons 3,2,TRUE,0.55,Uncommon,238,57065dca-f90e-4184-bbc4-95d726a4160b,238,mh3,uncommon
+Witch Enchanter // Witch-Blessed Meadow,Modern Horizons 3,1,TRUE,6.10,Uncommon,239,62061e7c-cf19-4f03-b8fa-2bdba62d6b0b,239,mh3,uncommon
+Hydroelectric Specimen // Hydroelectric Laboratory,Modern Horizons 3,1,TRUE,3.27,Uncommon,240,8689ecd7-e9a6-458b-99d2-6dbaca527f00,240,mh3,uncommon
+Sink into Stupor // Soporific Springs,Modern Horizons 3,1,TRUE,8.20,Uncommon,241,5358b87a-1a29-426d-b165-40c97da2c14d,241,mh3,uncommon
+"Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar",Modern Horizons 3,1,TRUE,21.86,Mythic Rare,242,2a717b98-cdac-416d-bf6c-f6b6638e65d1,242,mh3,mythic
+Boggart Trawler // Boggart Bog,Modern Horizons 3,1,TRUE,2.48,Uncommon,243,d0d484a6-5610-4f1d-95ec-eda273c255e4,243,mh3,uncommon
+Fell the Profane // Fell Mire,Modern Horizons 3,1,TRUE,4.08,Uncommon,244,a3cb782d-c459-468d-9779-9b5669abc337,244,mh3,uncommon
+"Sorin of House Markov // Sorin, Ravenous Neonate",Modern Horizons 3,2,TRUE,5.31,Mythic Rare,245,1d7474fc-0042-4be9-81f3-5f66f4b16740,245,mh3,mythic
+Pinnacle Monk // Mystic Peak,Modern Horizons 3,1,TRUE,2.41,Uncommon,246,24d4f26e-7f96-4b38-867e-4fac819b2679,246,mh3,uncommon
+"Ral, Monsoon Mage // Ral, Leyline Prodigy",Modern Horizons 3,1,TRUE,5.97,Mythic Rare,247,438d8a26-ddc9-4829-8aff-22d6af6575cf,247,mh3,mythic
+Sundering Eruption // Volcanic Fissure,Modern Horizons 3,2,TRUE,3.88,Uncommon,248,50686ac7-346c-43d1-bdaa-28d46a12ad93,248,mh3,uncommon
+Bridgeworks Battle // Tanglespan Bridgeworks,Modern Horizons 3,2,TRUE,2.88,Uncommon,249,ebef3db0-2b58-4581-a79c-fbca9a059e63,249,mh3,uncommon
+Disciple of Freyalise // Garden of Freyalise,Modern Horizons 3,1,TRUE,3.80,Uncommon,250,a8e9ea5a-5e10-4b77-baef-0352ff035483,250,mh3,uncommon
+"Grist, Voracious Larva // Grist, the Plague Swarm",Modern Horizons 3,1,TRUE,2.67,Mythic Rare,251,68239b41-b7db-4044-b672-6808c2c342ec,251,mh3,mythic
+Bloodsoaked Insight // Sanguine Morass,Modern Horizons 3,1,TRUE,0.31,Uncommon,252,0a08e0d2-1e60-47f5-9228-4c11a127089d,252,mh3,uncommon
+Drowner of Truth // Drowned Jungle,Modern Horizons 3,2,TRUE,0.19,Uncommon,253,7a1d3c1d-1373-4ac4-bb26-9780976efc4f,253,mh3,uncommon
+Glasswing Grace // Age-Graced Chapel,Modern Horizons 3,1,TRUE,0.31,Uncommon,254,90630b20-fc83-475f-bcd5-8bcfee0cf241,254,mh3,uncommon
+Legion Leadership // Legion Stronghold,Modern Horizons 3,1,TRUE,2.20,Uncommon,255,7676abd9-0a3d-4721-b17b-778d2e3c2e25,255,mh3,uncommon
+Revitalizing Repast // Old-Growth Grove,Modern Horizons 3,2,TRUE,2.32,Uncommon,256,03522b6b-31ec-4126-8885-5dbb2248688b,256,mh3,uncommon
+Rush of Inspiration // Crackling Falls,Modern Horizons 3,1,TRUE,0.22,Uncommon,257,70a25a3a-c12a-49d3-8a91-a108dfa9d3c5,257,mh3,uncommon
+Strength of the Harvest // Haven of the Harvest,Modern Horizons 3,1,TRUE,2.46,Uncommon,258,a7143aa7-b16d-4e63-910c-6ceec55483f3,258,mh3,uncommon
+Stump Stomp // Burnwillow Clearing,Modern Horizons 3,1,TRUE,5.04,Uncommon,259,49974246-0a3b-4ec9-b5ea-2a89df9bb0b5,259,mh3,uncommon
+Suppression Ray // Orderly Plaza,Modern Horizons 3,1,TRUE,0.25,Uncommon,260,0cccd328-457a-48ab-97fb-4bc319db2e60,260,mh3,uncommon
+Waterlogged Teachings // Inundated Archive,Modern Horizons 3,1,TRUE,3.17,Uncommon,261,060f9675-4921-4cbb-bae2-54c85c679fd4,261,mh3,uncommon
+Angel of the Ruins,Modern Horizons 3,1,TRUE,0.12,Uncommon,262,2647b5ac-1cd1-4069-a8df-2cd291a527b4,262,mh3,uncommon
+Decree of Justice,Modern Horizons 3,1,TRUE,0.12,Uncommon,263,21637fbe-d9d3-4d5b-a361-0687385d4738,263,mh3,uncommon
+Distinguished Conjurer,Modern Horizons 3,1,TRUE,0.27,Uncommon,264,5ed5bc3d-4056-40b0-a47a-2841692614b3,264,mh3,uncommon
+Orim's Chant,Modern Horizons 3,1,TRUE,1.58,Rare,265,ee241079-1e5a-4224-b9cb-4fd3e0da687c,265,mh3,rare
+Recruiter of the Guard,Modern Horizons 3,1,TRUE,5.22,Mythic Rare,266,8e4c6ba1-1abc-478f-9b7c-97e9e3c92fb0,266,mh3,mythic
+Sevinne's Reclamation,Modern Horizons 3,1,FALSE,0.35,Rare,267,0f055754-58cf-474a-a3a9-59490dbf9dce,267,mh3,rare
+Deep Analysis,Modern Horizons 3,1,TRUE,0.12,Uncommon,268,0f33818e-6f6e-47a9-ae5d-406bdd47b292,268,mh3,uncommon
+Estrid's Invocation,Modern Horizons 3,1,TRUE,1.79,Rare,269,8920e7e4-d89e-4ff9-8922-27fdc2f8ed6e,269,mh3,rare
+Kappa Cannoneer,Modern Horizons 3,1,TRUE,0.66,Rare,270,6ddc2852-11c4-40da-b26f-6f236349f608,270,mh3,rare
+Reef Worm,Modern Horizons 3,1,TRUE,0.12,Uncommon,271,25576181-a5a4-4baf-a2b4-fbfe13fb9df6,271,mh3,uncommon
+Shrieking Drake,Modern Horizons 3,1,TRUE,0.21,Uncommon,272,9f1cc39f-898c-4e92-82a0-a17606b60574,272,mh3,uncommon
+Buried Alive,Modern Horizons 3,1,TRUE,2.65,Uncommon,273,76878b19-2916-4f3f-bee5-20846bc9e2db,273,mh3,uncommon
+"K'rrik, Son of Yawgmoth",Modern Horizons 3,1,TRUE,0.88,Rare,274,4f087b1c-97e0-4379-a94d-beac53685314,274,mh3,rare
+Nadier's Nightblade,Modern Horizons 3,1,TRUE,0.23,Uncommon,275,bc9926d7-91b7-4067-b590-a0430bf68d16,275,mh3,uncommon
+Ophiomancer,Modern Horizons 3,1,TRUE,1.32,Rare,276,a402cff8-be7f-4473-b880-a6a2eedfda86,276,mh3,rare
+Toxic Deluge,Modern Horizons 3,1,TRUE,5.90,Rare,277,5aa02b7d-db31-4924-b75e-eb02f332ca3a,277,mh3,rare
+Victimize,Modern Horizons 3,1,FALSE,0.35,Uncommon,278,83379f7f-3766-43f5-bd5e-e11ef9070ddb,278,mh3,uncommon
+Victimize,Modern Horizons 3,1,TRUE,1.53,Uncommon,278,83379f7f-3766-43f5-bd5e-e11ef9070ddb,278,mh3,uncommon
+Cursed Mirror,Modern Horizons 3,1,TRUE,0.66,Rare,279,6768daa5-41b0-49e1-b71a-63f733b4dc3d,279,mh3,rare
+Fledgling Dragon,Modern Horizons 3,1,TRUE,0.09,Uncommon,280,c1b9e213-992a-45f8-8c4d-3ca0250a2061,280,mh3,uncommon
+"Laelia, the Blade Reforged",Modern Horizons 3,6,FALSE,0.44,Rare,281,afeb2fe4-f0ef-4366-a568-c36b538f0196,281,mh3,rare
+"Laelia, the Blade Reforged",Modern Horizons 3,1,TRUE,0.35,Rare,281,afeb2fe4-f0ef-4366-a568-c36b538f0196,281,mh3,rare
+Meltdown,Modern Horizons 3,1,TRUE,0.10,Uncommon,282,173369d2-dc39-4bfe-a602-b47156570365,282,mh3,uncommon
+Meteoric Mace,Modern Horizons 3,1,TRUE,0.07,Uncommon,283,3fb34a09-d911-49ac-ac39-fad7ee1b41ef,283,mh3,uncommon
+Annoyed Altisaur,Modern Horizons 3,1,TRUE,0.15,Uncommon,284,4aa9354d-3496-47f4-81c9-aead15efb8bb,284,mh3,uncommon
+Branching Evolution,Modern Horizons 3,1,TRUE,3.03,Rare,285,c0f1a736-8b12-4f58-a031-bf1733f65c51,285,mh3,rare
+Priest of Titania,Modern Horizons 3,1,TRUE,1.50,Uncommon,286,eb11921b-1b28-483f-a707-4de21a6daa31,286,mh3,uncommon
+Sylvan Safekeeper,Modern Horizons 3,1,TRUE,2.55,Rare,287,83036e21-21ea-4324-aa07-11757f80c417,287,mh3,rare
+Wirewood Symbiote,Modern Horizons 3,1,TRUE,0.19,Uncommon,288,d237f5cc-2b9b-4929-9697-72078bac4c77,288,mh3,uncommon
+"Breya, Etherium Shaper",Modern Horizons 3,1,TRUE,0.42,Mythic Rare,289,8bf3929c-957f-4ea2-a27d-7d53979844af,289,mh3,mythic
+Emerald Medallion,Modern Horizons 3,1,TRUE,2.57,Rare,291,5ddf44fe-9e4e-42a6-a6f8-11ada3ce8a94,291,mh3,rare
+Jet Medallion,Modern Horizons 3,1,FALSE,6.54,Rare,292,d423365c-a32c-4060-b178-3221e3200387,292,mh3,rare
+Jet Medallion,Modern Horizons 3,2,TRUE,6.82,Rare,292,d423365c-a32c-4060-b178-3221e3200387,292,mh3,rare
+Junk Diver,Modern Horizons 3,1,TRUE,0.19,Uncommon,293,6b5d53cb-bf80-43b0-b839-b11a64ff4c1b,293,mh3,uncommon
+Pearl Medallion,Modern Horizons 3,1,FALSE,3.25,Rare,294,1225264f-b298-4b56-b208-c5da87bd6867,294,mh3,rare
+Pearl Medallion,Modern Horizons 3,1,TRUE,3.26,Rare,294,1225264f-b298-4b56-b208-c5da87bd6867,294,mh3,rare
+Ruby Medallion,Modern Horizons 3,1,FALSE,6.33,Rare,295,630febf5-58ff-4dab-a5a8-575ebc5435a6,295,mh3,rare
+Sapphire Medallion,Modern Horizons 3,1,TRUE,4.78,Rare,296,a77850b2-6478-449e-bdb9-5b92650e3504,296,mh3,rare
+Urza's Incubator,Modern Horizons 3,1,TRUE,11.55,Rare,297,c4589226-6072-409b-b598-ebd87f675a6a,297,mh3,rare
+Worn Powerstone,Modern Horizons 3,1,TRUE,0.49,Uncommon,298,ace686ad-9e3f-41b3-b8eb-d1b6d45eb4e1,298,mh3,uncommon
+Barbarian Ring,Modern Horizons 3,1,TRUE,0.13,Uncommon,299,c184406c-b22c-4b9b-9d3a-3e7b17efd8a0,299,mh3,uncommon
+Cephalid Coliseum,Modern Horizons 3,1,TRUE,0.30,Uncommon,300,2cb9c743-8793-48e6-bb3d-0d9b76fd1a62,300,mh3,uncommon
+Deserted Temple,Modern Horizons 3,4,TRUE,1.32,Rare,301,fd51f8f0-779b-40bb-b65c-5907f816676e,301,mh3,rare
+Nesting Grounds,Modern Horizons 3,1,TRUE,0.28,Uncommon,302,7f1d8a22-e730-4344-bba9-7c495500f065,302,mh3,uncommon
+Phyrexian Tower,Modern Horizons 3,1,TRUE,16.45,Mythic Rare,303,0b47f6d2-9f65-47a4-bfc4-15619befe53d,303,mh3,mythic
+Plains,Modern Horizons 3,6,TRUE,0.24,Common,304,e0281fba-d771-4431-931f-920db2f14c47,310,mh3,common
+Island,Modern Horizons 3,6,TRUE,0.24,Common,305,64daf0ac-678b-4683-9351-a6daf9c9f849,312,mh3,common
+Swamp,Modern Horizons 3,1,FALSE,0.25,Common,306,f5e672fc-673b-4476-b9cc-a395dc60b471,314,mh3,common
+Swamp,Modern Horizons 3,6,TRUE,0.21,Common,306,f5e672fc-673b-4476-b9cc-a395dc60b471,314,mh3,common
+Mountain,Modern Horizons 3,7,TRUE,0.19,Common,307,186e36d5-3f1d-4423-a8db-f4c38898fa30,316,mh3,common
+Forest,Modern Horizons 3,5,TRUE,0.28,Common,308,7ac34881-de32-42c7-af60-f992638e1da2,318,mh3,common
+Snow-Covered Wastes,Modern Horizons 3,1,FALSE,1.10,Uncommon,309,87870792-e429-4eba-8193-cdce5c7b6c55,229,mh3,uncommon
+Snow-Covered Wastes,Modern Horizons 3,1,TRUE,1.42,Uncommon,309,87870792-e429-4eba-8193-cdce5c7b6c55,229,mh3,uncommon
+Plains (311),Modern Horizons 3 Variants,1,TRUE,0.19,Common,311,,,,
+Island (312),Modern Horizons 3 Variants,1,TRUE,0.11,Common,312,,,,
+Swamp (315),Modern Horizons 3 Variants,1,TRUE,0.17,Common,315,,,,
+Forest (319),Modern Horizons 3 Variants,1,TRUE,0.17,Common,319,,,,
+Echoes of Eternity (Borderless),Modern Horizons 3 Variants,2,FALSE,1.66,Rare,320,,,,
+Echoes of Eternity (Borderless),Modern Horizons 3 Variants,1,TRUE,2.73,Rare,320,,,,
+Flare of Fortitude (Borderless),Modern Horizons 3 Variants,1,FALSE,8.04,Rare,321,,,,
+Ocelot Pride (Borderless),Modern Horizons 3 Variants,1,FALSE,65.12,Mythic Rare,322,,,,
+Orim's Chant (Borderless),Modern Horizons 3 Variants,1,TRUE,6.28,Rare,323,,,,
+White Orchid Phantom (Borderless),Modern Horizons 3 Variants,3,FALSE,2.00,Rare,324,,,,
+White Orchid Phantom (Borderless),Modern Horizons 3 Variants,2,TRUE,3.72,Rare,324,,,,
+Wrath of the Skies (Borderless),Modern Horizons 3 Variants,1,FALSE,3.25,Rare,325,,,,
+Wrath of the Skies (Borderless),Modern Horizons 3 Variants,1,TRUE,8.86,Rare,325,,,,
+Strix Serenade (Borderless),Modern Horizons 3 Variants,2,FALSE,2.83,Rare,327,,,,
+Strix Serenade (Borderless),Modern Horizons 3 Variants,1,TRUE,7.50,Rare,327,,,,
+Ugin's Binding (Borderless),Modern Horizons 3 Variants,1,FALSE,4.00,Mythic Rare,328,,,,
+Volatile Stormdrake (Borderless),Modern Horizons 3 Variants,1,TRUE,14.27,Rare,329,,,,
+Chthonian Nightmare (Borderless),Modern Horizons 3 Variants,1,FALSE,4.29,Rare,330,,,,
+Flare of Malice (Borderless),Modern Horizons 3 Variants,1,TRUE,7.20,Rare,331,,,,
+Warren Soultrader (Borderless),Modern Horizons 3 Variants,1,FALSE,9.28,Rare,332,,,,
+Flare of Duplication (Borderless),Modern Horizons 3 Variants,1,FALSE,5.00,Rare,333,,,,
+Flare of Duplication (Borderless),Modern Horizons 3 Variants,1,TRUE,14.42,Rare,333,,,,
+Party Thrasher (Borderless),Modern Horizons 3 Variants,1,TRUE,2.65,Rare,334,,,,
+Powerbalance (Borderless),Modern Horizons 3 Variants,2,FALSE,0.75,Rare,335,,,,
+Powerbalance (Borderless),Modern Horizons 3 Variants,2,TRUE,1.60,Rare,335,,,,
+Wheel of Potential (Borderless),Modern Horizons 3 Variants,1,FALSE,0.79,Rare,336,,,,
+Birthing Ritual (Borderless),Modern Horizons 3 Variants,1,FALSE,5.65,Mythic Rare,337,,,,
+Flare of Cultivation (Borderless),Modern Horizons 3 Variants,1,FALSE,3.88,Rare,338,,,,
+Primal Prayers (Borderless),Modern Horizons 3 Variants,1,TRUE,1.20,Rare,339,,,,
+Sowing Mycospawn (Borderless),Modern Horizons 3 Variants,1,TRUE,7.50,Rare,340,,,,
+Springheart Nantuko (Borderless),Modern Horizons 3 Variants,2,FALSE,5.04,Rare,341,,,,
+Springheart Nantuko (Borderless),Modern Horizons 3 Variants,1,TRUE,5.92,Rare,341,,,,
+Abstruse Appropriation (Borderless),Modern Horizons 3 Variants,1,TRUE,1.76,Rare,342,,,,
+Kaalia of the Vast (Borderless),Modern Horizons 3 Variants,1,FALSE,29.10,Mythic Rare,343,,,,
+Emerald Medallion (Borderless),Modern Horizons 3 Variants,3,FALSE,4.20,Rare,345,,,,
+Emerald Medallion (Borderless),Modern Horizons 3 Variants,1,TRUE,5.68,Rare,345,,,,
+Jet Medallion (Borderless),Modern Horizons 3 Variants,1,FALSE,8.88,Rare,346,,,,
+Jet Medallion (Borderless),Modern Horizons 3 Variants,2,TRUE,15.88,Rare,346,,,,
+Pearl Medallion (Borderless),Modern Horizons 3 Variants,1,FALSE,4.99,Rare,347,,,,
+Pearl Medallion (Borderless),Modern Horizons 3 Variants,1,TRUE,10.34,Rare,347,,,,
+Ruby Medallion (Borderless),Modern Horizons 3 Variants,1,FALSE,8.01,Rare,348,,,,
+Sapphire Medallion (Borderless),Modern Horizons 3 Variants,2,FALSE,6.36,Rare,349,,,,
+Sapphire Medallion (Borderless),Modern Horizons 3 Variants,1,TRUE,12.35,Rare,349,,,,
+Archway of Innovation (Borderless),Modern Horizons 3 Variants,2,FALSE,1.69,Rare,350,,,,
+Archway of Innovation (Borderless),Modern Horizons 3 Variants,1,TRUE,2.40,Rare,350,,,,
+Arena of Glory (Borderless),Modern Horizons 3 Variants,2,FALSE,10.39,Rare,351,,,,
+Arena of Glory (Borderless),Modern Horizons 3 Variants,1,TRUE,17.18,Rare,351,,,,
+Bloodstained Mire (Borderless),Modern Horizons 3 Variants,1,FALSE,18.93,Rare,352,,,,
+Flooded Strand (Borderless),Modern Horizons 3 Variants,1,TRUE,31.32,Rare,353,,,,
+Monumental Henge (Borderless),Modern Horizons 3 Variants,2,FALSE,0.99,Rare,354,,,,
+Monumental Henge (Borderless),Modern Horizons 3 Variants,2,TRUE,1.31,Rare,354,,,,
+Phyrexian Tower (Borderless),Modern Horizons 3 Variants,1,TRUE,38.68,Mythic Rare,355,,,,
+Polluted Delta (Borderless),Modern Horizons 3 Variants,1,TRUE,38.46,Rare,356,,,,
+Shifting Woodland (Borderless),Modern Horizons 3 Variants,1,TRUE,16.92,Rare,357,,,,
+Spymaster's Vault (Borderless),Modern Horizons 3 Variants,2,FALSE,1.69,Rare,358,,,,
+Spymaster's Vault (Borderless),Modern Horizons 3 Variants,1,TRUE,3.43,Rare,358,,,,
+Ugin's Labyrinth (Borderless),Modern Horizons 3 Variants,1,FALSE,21.99,Mythic Rare,359,,,,
+Windswept Heath (Borderless),Modern Horizons 3 Variants,1,FALSE,13.39,Rare,360,,,,
+Wooded Foothills (Borderless),Modern Horizons 3 Variants,1,TRUE,27.03,Rare,361,,,,
+"Herigast, Erupting Nullkite (Borderless)",Modern Horizons 3 Variants,1,FALSE,1.16,Mythic Rare,362,,,,
+"Pearl-Ear, Imperial Advisor (Borderless)",Modern Horizons 3 Variants,2,FALSE,0.65,Rare,363,,,,
+"Pearl-Ear, Imperial Advisor (Borderless)",Modern Horizons 3 Variants,2,TRUE,1.14,Rare,363,,,,
+"Phelia, Exuberant Shepherd (Borderless)",Modern Horizons 3 Variants,1,FALSE,2.66,Rare,364,,,,
+"K'rrik, Son of Yawgmoth (Borderless)",Modern Horizons 3 Variants,1,FALSE,0.72,Rare,365,,,,
+"K'rrik, Son of Yawgmoth (Borderless)",Modern Horizons 3 Variants,1,TRUE,1.01,Rare,365,,,,
+"Shilgengar, Sire of Famine (Borderless)",Modern Horizons 3 Variants,3,FALSE,0.36,Rare,366,,,,
+"Shilgengar, Sire of Famine (Borderless)",Modern Horizons 3 Variants,1,TRUE,0.43,Rare,366,,,,
+"Laelia, the Blade Reforged (Borderless)",Modern Horizons 3 Variants,6,FALSE,0.60,Rare,368,,,,
+"Laelia, the Blade Reforged (Borderless)",Modern Horizons 3 Variants,1,TRUE,1.50,Rare,368,,,,
+"Eladamri, Korvecdal (Borderless)",Modern Horizons 3 Variants,1,FALSE,7.50,Mythic Rare,369,,,,
+Six (Borderless),Modern Horizons 3 Variants,1,FALSE,8.00,Rare,370,,,,
+"Arna Kennerüd, Skycaptain (Borderless)",Modern Horizons 3 Variants,1,TRUE,2.83,Mythic Rare,371,,,,
+"Breya, Etherium Shaper (Borderless)",Modern Horizons 3 Variants,1,FALSE,1.00,Mythic Rare,372,,,,
+"Genku, Future Shaper (Borderless)",Modern Horizons 3 Variants,1,FALSE,0.27,Rare,373,,,,
+"Genku, Future Shaper (Borderless)",Modern Horizons 3 Variants,1,TRUE,0.30,Rare,373,,,,
+Imskir Iron-Eater (Borderless),Modern Horizons 3 Variants,1,FALSE,0.63,Rare,374,,,,
+Imskir Iron-Eater (Borderless),Modern Horizons 3 Variants,1,TRUE,1.40,Rare,374,,,,
+Kaalia of the Vast (Borderless),Modern Horizons 3 Variants,1,TRUE,14.24,Mythic Rare,375,,,,
+"Kudo, King Among Bears (Borderless)",Modern Horizons 3 Variants,1,FALSE,0.49,Rare,376,,,,
+"Nadu, Winged Wisdom (Borderless)",Modern Horizons 3 Variants,2,FALSE,1.71,Rare,377,,,,
+"Nadu, Winged Wisdom (Borderless)",Modern Horizons 3 Variants,1,TRUE,3.05,Rare,377,,,,
+The Necrobloom (Borderless),Modern Horizons 3 Variants,1,FALSE,0.98,Rare,378,,,,
+"Phlage, Titan of Fire's Fury (Borderless)",Modern Horizons 3 Variants,1,FALSE,15.99,Mythic Rare,379,,,,
+"Phlage, Titan of Fire's Fury (Borderless)",Modern Horizons 3 Variants,1,TRUE,25.93,Mythic Rare,379,,,,
+"Rosheen, Roaring Prophet (Borderless)",Modern Horizons 3 Variants,1,FALSE,0.30,Rare,380,,,,
+"Rosheen, Roaring Prophet (Borderless)",Modern Horizons 3 Variants,1,TRUE,0.32,Rare,380,,,,
+"Kozilek, the Broken Reality (Borderless)",Modern Horizons 3 Variants,1,FALSE,12.00,Mythic Rare,382,,,,
+"Ulamog, the Defiler (Borderless)",Modern Horizons 3 Variants,1,FALSE,48.04,Mythic Rare,383,,,,
+It That Heralds the End (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.38,Uncommon,385,,,,
+"Kozilek, the Broken Reality (Retro Frame)",Modern Horizons 3 Variants,1,FALSE,6.99,Mythic Rare,386,,,,
+Null Elemental Blast (Retro Frame),Modern Horizons 3 Variants,2,FALSE,0.50,Uncommon,387,,,,
+Null Elemental Blast (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.29,Uncommon,387,,,,
+Nulldrifter (Retro Frame),Modern Horizons 3 Variants,1,TRUE,3.49,Rare,388,,,,
+Charitable Levy (Retro Frame),Modern Horizons 3 Variants,2,FALSE,0.25,Uncommon,390,,,,
+Charitable Levy (Retro Frame),Modern Horizons 3 Variants,3,TRUE,0.11,Uncommon,390,,,,
+Flare of Fortitude (Retro Frame),Modern Horizons 3 Variants,1,FALSE,3.50,Rare,391,,,,
+Jolted Awake (Retro Frame),Modern Horizons 3 Variants,4,FALSE,0.20,Common,392,,,,
+Jolted Awake (Retro Frame),Modern Horizons 3 Variants,5,TRUE,0.07,Common,392,,,,
+Metastatic Evangel (Retro Frame),Modern Horizons 3 Variants,3,FALSE,0.30,Uncommon,393,,,,
+Metastatic Evangel (Retro Frame),Modern Horizons 3 Variants,3,TRUE,0.25,Uncommon,393,,,,
+White Orchid Phantom (Retro Frame),Modern Horizons 3 Variants,1,FALSE,1.32,Rare,396,,,,
+Wrath of the Skies (Retro Frame),Modern Horizons 3 Variants,1,FALSE,2.50,Rare,397,,,,
+Aether Spike (Retro Frame),Modern Horizons 3 Variants,2,FALSE,0.20,Common,398,,,,
+Aether Spike (Retro Frame),Modern Horizons 3 Variants,3,TRUE,0.07,Common,398,,,,
+Brainsurge (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.55,Uncommon,399,,,,
+Flare of Denial (Retro Frame),Modern Horizons 3 Variants,2,FALSE,7.39,Rare,400,,,,
+Flare of Denial (Retro Frame),Modern Horizons 3 Variants,1,TRUE,17.51,Rare,400,,,,
+Kappa Cannoneer (Retro Frame),Modern Horizons 3 Variants,1,TRUE,2.60,Rare,401,,,,
+Shadow of the Second Sun (Retro Frame),Modern Horizons 3 Variants,1,FALSE,1.69,Mythic Rare,402,,,,
+Tune the Narrative (Retro Frame),Modern Horizons 3 Variants,2,FALSE,0.30,Common,403,,,,
+Tune the Narrative (Retro Frame),Modern Horizons 3 Variants,4,TRUE,0.22,Common,403,,,,
+Accursed Marauder (Retro Frame),Modern Horizons 3 Variants,2,FALSE,0.49,Common,405,,,,
+Accursed Marauder (Retro Frame),Modern Horizons 3 Variants,2,TRUE,0.50,Common,405,,,,
+Chthonian Nightmare (Retro Frame),Modern Horizons 3 Variants,1,FALSE,2.50,Rare,406,,,,
+Consuming Corruption (Retro Frame),Modern Horizons 3 Variants,3,FALSE,0.29,Uncommon,407,,,,
+Consuming Corruption (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.26,Uncommon,407,,,,
+Flare of Malice (Retro Frame),Modern Horizons 3 Variants,1,FALSE,2.40,Rare,408,,,,
+Flare of Malice (Retro Frame),Modern Horizons 3 Variants,1,TRUE,5.08,Rare,408,,,,
+Grim Servant (Retro Frame),Modern Horizons 3 Variants,1,FALSE,0.30,Uncommon,409,,,,
+Grim Servant (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.24,Uncommon,409,,,,
+Marionette Apprentice (Retro Frame),Modern Horizons 3 Variants,2,TRUE,2.40,Uncommon,410,,,,
+Necrodominance (Retro Frame),Modern Horizons 3 Variants,1,FALSE,5.99,Mythic Rare,411,,,,
+Necrodominance (Retro Frame),Modern Horizons 3 Variants,1,TRUE,14.37,Mythic Rare,411,,,,
+Toxic Deluge (Retro Frame),Modern Horizons 3 Variants,1,FALSE,6.08,Rare,412,,,,
+Victimize (Retro Frame),Modern Horizons 3 Variants,1,FALSE,0.30,Uncommon,413,,,,
+Victimize (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.30,Uncommon,413,,,,
+Warren Soultrader (Retro Frame),Modern Horizons 3 Variants,1,FALSE,7.08,Rare,414,,,,
+Warren Soultrader (Retro Frame),Modern Horizons 3 Variants,2,TRUE,12.79,Rare,414,,,,
+"Ashling, Flame Dancer (Retro Frame)",Modern Horizons 3 Variants,1,FALSE,3.24,Mythic Rare,415,,,,
+"Ashling, Flame Dancer (Retro Frame)",Modern Horizons 3 Variants,2,TRUE,3.55,Mythic Rare,415,,,,
+Flare of Duplication (Retro Frame),Modern Horizons 3 Variants,1,TRUE,4.96,Rare,416,,,,
+Galvanic Discharge (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.29,Common,417,,,,
+Meltdown (Retro Frame),Modern Horizons 3 Variants,2,FALSE,0.25,Uncommon,418,,,,
+Meltdown (Retro Frame),Modern Horizons 3 Variants,2,TRUE,0.16,Uncommon,418,,,,
+Party Thrasher (Retro Frame),Modern Horizons 3 Variants,1,FALSE,0.80,Rare,419,,,,
+"Skoa, Embermage (Retro Frame)",Modern Horizons 3 Variants,1,TRUE,0.03,Common,420,,,,
+Unstable Amulet (Retro Frame),Modern Horizons 3 Variants,1,FALSE,0.48,Uncommon,421,,,,
+Wheel of Potential (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.31,Rare,422,,,,
+"Eladamri, Korvecdal (Retro Frame)",Modern Horizons 3 Variants,1,TRUE,14.23,Mythic Rare,423,,,,
+Evolution Witness (Retro Frame),Modern Horizons 3 Variants,2,FALSE,0.29,Common,424,,,,
+Evolution Witness (Retro Frame),Modern Horizons 3 Variants,4,TRUE,0.26,Common,424,,,,
+Flare of Cultivation (Retro Frame),Modern Horizons 3 Variants,1,FALSE,1.93,Rare,425,,,,
+Lion Umbra (Retro Frame),Modern Horizons 3 Variants,1,FALSE,0.25,Uncommon,426,,,,
+Lion Umbra (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.12,Uncommon,426,,,,
+Monstrous Vortex (Retro Frame),Modern Horizons 3 Variants,2,FALSE,0.30,Uncommon,427,,,,
+Monstrous Vortex (Retro Frame),Modern Horizons 3 Variants,2,TRUE,0.22,Uncommon,427,,,,
+Priest of Titania (Retro Frame),Modern Horizons 3 Variants,1,FALSE,0.50,Uncommon,428,,,,
+Priest of Titania (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.55,Uncommon,428,,,,
+Primal Prayers (Retro Frame),Modern Horizons 3 Variants,1,FALSE,0.49,Rare,429,,,,
+Six (Retro Frame),Modern Horizons 3 Variants,1,FALSE,4.50,Rare,430,,,,
+Six (Retro Frame),Modern Horizons 3 Variants,1,TRUE,7.54,Rare,430,,,,
+Imskir Iron-Eater (Retro Frame),Modern Horizons 3 Variants,1,FALSE,0.31,Rare,431,,,,
+Imskir Iron-Eater (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.50,Rare,431,,,,
+"Kudo, King Among Bears (Retro Frame)",Modern Horizons 3 Variants,1,TRUE,1.04,Rare,432,,,,
+Psychic Frog (Retro Frame),Modern Horizons 3 Variants,1,FALSE,12.28,Rare,433,,,,
+"Rosheen, Roaring Prophet (Retro Frame)",Modern Horizons 3 Variants,1,FALSE,0.25,Rare,434,,,,
+Bloodstained Mire (Retro Frame),Modern Horizons 3 Variants,1,FALSE,13.56,Rare,435,,,,
+Flooded Strand (Retro Frame),Modern Horizons 3 Variants,1,TRUE,52.57,Rare,436,,,,
+Nesting Grounds (Retro Frame),Modern Horizons 3 Variants,1,FALSE,0.25,Uncommon,437,,,,
+Nesting Grounds (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.15,Uncommon,437,,,,
+Polluted Delta (Retro Frame),Modern Horizons 3 Variants,1,FALSE,17.67,Rare,438,,,,
+Snow-Covered Wastes (Retro Frame),Modern Horizons 3 Variants,1,FALSE,0.67,Uncommon,439,,,,
+Snow-Covered Wastes (Retro Frame),Modern Horizons 3 Variants,1,TRUE,0.79,Uncommon,439,,,,
+Windswept Heath (Retro Frame),Modern Horizons 3 Variants,1,FALSE,9.40,Rare,440,,,,
+Windswept Heath (Retro Frame),Modern Horizons 3 Variants,1,TRUE,33.33,Rare,440,,,,
+Wooded Foothills (Retro Frame),Modern Horizons 3 Variants,1,FALSE,14.28,Rare,441,,,,
+"Ajani, Nacatl Pariah // Ajani, Nacatl Avenger (Borderless)",Modern Horizons 3 Variants,1,FALSE,17.47,Mythic Rare,442,,,,
+"Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar (Borderless)",Modern Horizons 3 Variants,1,TRUE,35.09,Mythic Rare,443,,,,
+"Sorin of House Markov // Sorin, Ravenous Neonate (Borderless)",Modern Horizons 3 Variants,1,TRUE,14.37,Mythic Rare,444,,,,
+"Ral, Monsoon Mage // Ral, Leyline Prodigy (Borderless)",Modern Horizons 3 Variants,1,FALSE,7.49,Mythic Rare,445,,,,
+"Grist, Voracious Larva // Grist, the Plague Swarm (Borderless)",Modern Horizons 3 Variants,1,FALSE,4.00,Mythic Rare,446,,,,
+Argent Dais (Extended Art),Modern Horizons 3 Variants,2,FALSE,0.30,Rare,447,,,,
+Argent Dais (Extended Art),Modern Horizons 3 Variants,3,TRUE,0.21,Rare,447,,,,
+Guide of Souls (Extended Art),Modern Horizons 3 Variants,1,FALSE,3.97,Rare,448,,,,
+Guide of Souls (Extended Art),Modern Horizons 3 Variants,1,TRUE,4.46,Rare,448,,,,
+Amphibian Downpour (Extended Art),Modern Horizons 3 Variants,1,FALSE,1.83,Rare,449,,,,
+Dreamtide Whale (Extended Art),Modern Horizons 3 Variants,1,FALSE,1.81,Rare,450,,,,
+Dreamtide Whale (Extended Art),Modern Horizons 3 Variants,1,TRUE,2.70,Rare,450,,,,
+Harbinger of the Seas (Extended Art),Modern Horizons 3 Variants,1,FALSE,5.02,Rare,451,,,,
+Crabomination (Extended Art),Modern Horizons 3 Variants,1,TRUE,0.38,Rare,452,,,,
+Emperor of Bones (Extended Art),Modern Horizons 3 Variants,1,FALSE,1.66,Rare,453,,,,
+Emperor of Bones (Extended Art),Modern Horizons 3 Variants,1,TRUE,2.96,Rare,453,,,,
+Nethergoyf (Extended Art),Modern Horizons 3 Variants,1,FALSE,17.10,Mythic Rare,454,,,,
+Nethergoyf (Extended Art),Modern Horizons 3 Variants,1,TRUE,21.98,Mythic Rare,454,,,,
+Ripples of Undeath (Extended Art),Modern Horizons 3 Variants,1,FALSE,3.59,Rare,455,,,,
+Ripples of Undeath (Extended Art),Modern Horizons 3 Variants,1,TRUE,4.47,Rare,455,,,,
+Aether Revolt (Extended Art),Modern Horizons 3 Variants,2,FALSE,0.40,Rare,456,,,,
+Aether Revolt (Extended Art),Modern Horizons 3 Variants,3,TRUE,0.24,Rare,456,,,,
+Detective's Phoenix (Extended Art),Modern Horizons 3 Variants,1,TRUE,5.89,Rare,457,,,,
+Fanatic of Rhonas (Extended Art),Modern Horizons 3 Variants,1,FALSE,6.61,Rare,458,,,,
+Invert Polarity (Extended Art),Modern Horizons 3 Variants,1,FALSE,1.63,Rare,459,,,,
+Wight of the Reliquary (Extended Art),Modern Horizons 3 Variants,1,FALSE,2.07,Rare,460,,,,
+Wight of the Reliquary (Extended Art),Modern Horizons 3 Variants,1,TRUE,4.04,Rare,460,,,,
+Disruptor Flute (Extended Art),Modern Horizons 3 Variants,1,FALSE,1.15,Rare,461,,,,
+Disruptor Flute (Extended Art),Modern Horizons 3 Variants,1,TRUE,2.45,Rare,461,,,,
+Winter Moon (Extended Art),Modern Horizons 3 Variants,1,FALSE,1.19,Rare,462,,,,
+Winter Moon (Extended Art),Modern Horizons 3 Variants,1,TRUE,2.36,Rare,462,,,,
+Bloodstained Mire (Extended Art),Modern Horizons 3 Variants,2,FALSE,11.95,Rare,463,,,,
+Bloodstained Mire (Extended Art),Modern Horizons 3 Variants,1,TRUE,12.92,Rare,463,,,,
+Flooded Strand (Extended Art),Modern Horizons 3 Variants,1,FALSE,11.11,Rare,464,,,,
+Polluted Delta (Extended Art),Modern Horizons 3 Variants,1,TRUE,15.41,Rare,465,,,,
+Windswept Heath (Extended Art),Modern Horizons 3 Variants,1,FALSE,8.80,Rare,466,,,,
+Windswept Heath (Extended Art),Modern Horizons 3 Variants,1,TRUE,10.24,Rare,466,,,,
+Wooded Foothills (Extended Art),Modern Horizons 3 Variants,1,FALSE,11.77,Rare,467,,,,
+"Ajani, Nacatl Pariah // Ajani, Nacatl Avenger (Textured Foil)",Modern Horizons 3 Variants,1,TRUE,35.49,Mythic Rare,468,,,,
+"Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar (Textured Foil)",Modern Horizons 3 Variants,1,TRUE,54.79,Mythic Rare,469,,,,
+"Sorin of House Markov // Sorin, Ravenous Neonate (Textured Foil)",Modern Horizons 3 Variants,1,TRUE,27.36,Mythic Rare,470,,,,
+"Kozilek, the Broken Reality (Foil Etched)",Modern Horizons 3 Variants,2,TRUE,0.00,Mythic Rare,475,,,,
+"Phelia, Exuberant Shepherd (Foil Etched)",Modern Horizons 3 Variants,1,TRUE,0.00,Rare,478,,,,
+"K'rrik, Son of Yawgmoth (Foil Etched)",Modern Horizons 3 Variants,1,TRUE,0.00,Rare,479,,,,
+"Shilgengar, Sire of Famine (Foil Etched)",Modern Horizons 3 Variants,1,TRUE,0.00,Rare,480,,,,
+"Ashling, Flame Dancer (Foil Etched)",Modern Horizons 3 Variants,1,TRUE,0.00,Mythic Rare,481,,,,
+"Laelia, the Blade Reforged (Foil Etched)",Modern Horizons 3 Variants,1,TRUE,0.00,Rare,482,,,,
+Six (Foil Etched),Modern Horizons 3 Variants,1,TRUE,0.00,Rare,484,,,,
+"Breya, Etherium Shaper (Foil Etched)",Modern Horizons 3 Variants,1,TRUE,0.00,Mythic Rare,486,,,,
+"Genku, Future Shaper (Foil Etched)",Modern Horizons 3 Variants,1,TRUE,0.00,Rare,487,,,,
+The Necrobloom (Foil Etched),Modern Horizons 3 Variants,1,TRUE,0.00,Rare,492,,,,
+Plains (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.18,Common,497,,,,
+Plains (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.29,Common,498,,,,
+Island (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.21,Common,499,,,,
+Island (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.23,Common,500,,,,
+Swamp (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.37,Common,501,,,,
+Swamp (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.37,Common,502,,,,
+Mountain (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.24,Common,503,,,,
+Mountain (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.21,Common,504,,,,
+Forest (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.21,Common,505,,,,
+Forest (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.22,Common,506,,,,
+Glaring Fleshraker (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,17.46,Uncommon,507,,,,
+Wastescape Battlemage (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,3.80,Uncommon,508,,,,
+Jolted Awake (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.46,Common,509,,,,
+Bespoke Battlewagon (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.32,Uncommon,510,,,,
+Roil Cartographer (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.81,Uncommon,511,,,,
+Accursed Marauder (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,2.66,Common,512,,,,
+Amped Raptor (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,8.48,Uncommon,513,,,,
+Unstable Amulet (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,2.44,Uncommon,514,,,,
+Izzet Generatorium (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.85,Uncommon,515,,,,
+Scurry of Gremlins (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.27,Uncommon,516,,,,
+Snapping Voidcraw (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,1.32,Common,517,,,,
+Titans' Vanguard (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.69,Uncommon,518,,,,
+Solar Transformer (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,1.51,Uncommon,519,,,,
+Tranquil Landscape (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,1.19,Common,520,,,,
+Twisted Landscape (Ripple Foil),Modern Horizons 3 Variants,1,TRUE,0.42,Common,521,,,,

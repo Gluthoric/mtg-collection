@@ -1,0 +1,5 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+Motion Sickness,Unfinity,1,TRUE,0.06,Common,53,6c1d2b1d-d264-4a8e-9c33-c35f5d1e80bc,53,unf,common
+Space Beleren,Unfinity,1,FALSE,0.60,Mythic Rare,178,14ddb2e7-6bc6-43ce-aeec-175a0ce17ed5,178,unf,mythic
+Stomping Ground,Unfinity Variants,1,TRUE,23.12,Rare,280,e1dd057e-1f38-4a5f-819c-f3af9134fecf,280,unf,rare
+"Comet, Stellar Pup (Galaxy Foil)",Unfinity Variants,1,TRUE,9.77,Mythic Rare,452,,,,

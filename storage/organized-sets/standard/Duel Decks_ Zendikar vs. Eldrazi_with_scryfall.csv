@@ -1,0 +1,4 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+Avenger of Zendikar,Duel Decks: Zendikar vs. Eldrazi,1,TRUE,3.13,Mythic Rare,1,6a971200-0d89-45e2-8c1e-fb087642f7dc,1,ddp,mythic
+Knight of Cliffhaven,Duel Decks: Zendikar vs. Eldrazi,1,FALSE,0.22,Common,5,9a1c3f32-9add-455d-bb7f-b31c430c6590,5,ddp,common
+Scute Mob,Duel Decks: Zendikar vs. Eldrazi,1,FALSE,0.78,Rare,22,da8a6917-0d66-4a1b-b5ef-a2a5faf63c00,22,ddp,rare

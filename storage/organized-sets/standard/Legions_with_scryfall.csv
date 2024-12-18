@@ -1,0 +1,75 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+Akroma's Devoted,Legions,1,FALSE,0.25,Uncommon,2,798893df-e720-471d-822d-50284de23efd,2,lgn,uncommon
+Aphetto Exterminator,Legions,1,FALSE,0.25,Uncommon,59,06be8f63-daf2-4dbe-bb07-2b246145cdab,59,lgn,uncommon
+Aven Envoy,Legions,1,FALSE,0.20,Common,30,40ead30e-9f96-4fca-b619-fdc8d1b5e2e0,30,lgn,common
+Aven Redeemer,Legions,1,FALSE,0.20,Common,3,8a2fa0a3-e40f-49e4-a4fd-427e7e808afd,3,lgn,common
+Aven Warhawk,Legions,1,FALSE,0.25,Uncommon,4,386a7062-6da8-4663-a218-75d894f7c0e0,4,lgn,uncommon
+Blood Celebrant,Legions,1,FALSE,0.98,Common,61,805de325-6f14-4a52-bb85-f9a9545d82a4,61,lgn,common
+Bloodstoke Howler,Legions,1,FALSE,0.20,Common,89,743779d4-fee8-4b8d-a5ac-27f355e006e5,89,lgn,common
+Brontotherium,Legions,1,FALSE,0.25,Uncommon,119,a171f5e2-ed3d-4675-a4fc-953ebb907aa0,119,lgn,uncommon
+Canopy Crawler,Legions,1,FALSE,0.25,Uncommon,122,0ccdc9d7-71b5-4304-8d19-a63952e17a6b,122,lgn,uncommon
+Cloudreach Cavalry,Legions,1,FALSE,0.25,Uncommon,7,65680bda-b999-4c2a-99a8-b03287e00807,7,lgn,uncommon
+Covert Operative,Legions,1,FALSE,0.20,Common,33,dbda6799-3b55-4714-8305-713e1e198a15,33,lgn,common
+Crested Craghorn,Legions,1,FALSE,0.20,Common,91,aadb40c8-3d54-4705-82dc-54e8d6e315d5,91,lgn,common
+Crookclaw Elder,Legions,1,FALSE,0.30,Uncommon,34,8ced7275-3935-4bba-877d-81282bd171fd,34,lgn,uncommon
+Daru Mender,Legions,1,FALSE,0.25,Uncommon,8,de13fba8-3fee-4ce2-b84d-b518a99eefe0,8,lgn,uncommon
+Daru Sanctifier,Legions,1,FALSE,0.22,Common,9,38b14a24-c74a-4465-9b36-8f5309e0a333,9,lgn,common
+Daru Stinger,Legions,1,FALSE,0.20,Common,10,ff5866a4-f4c0-45bc-9b33-b77387441d34,10,lgn,common
+Deathmark Prelate,Legions,1,FALSE,0.25,Uncommon,65,b54fb4b2-ecce-4a6c-8d76-4b5879ba836f,65,lgn,uncommon
+Defender of the Order,Legions,1,TRUE,0.35,Rare,11,236b1c88-20a0-479e-91fb-16bb77f699fe,11,lgn,rare
+Defiant Elf,Legions,1,FALSE,0.23,Common,123,3b7a0b8f-6942-40b0-8efc-234ae77855b4,123,lgn,common
+Deftblade Elite,Legions,1,FALSE,0.35,Common,12,76ffbae4-7aad-493c-86a0-c6e6425da8fd,12,lgn,common
+Echo Tracer,Legions,1,FALSE,0.24,Common,37,63390760-35a7-4b4c-8c68-5c84f90d0c58,37,lgn,common
+Embalmed Brawler,Legions,1,FALSE,0.20,Common,69,2e214da0-68c0-4cf6-ba12-e2b2394909c1,69,lgn,common
+Enormous Baloth,Legions,1,FALSE,0.24,Uncommon,125,cebfb5a6-9052-47be-b931-834b5064df31,125,lgn,uncommon
+Flamewave Invoker,Legions,1,FALSE,0.20,Common,92,13a68534-2d9a-47e9-9d2a-cb6df4362aa9,92,lgn,common
+Frenetic Raptor,Legions,1,FALSE,0.22,Uncommon,93,8f6bc3c0-2d6e-4a09-84c4-b26a352186bb,93,lgn,uncommon
+Fugitive Wizard,Legions,1,FALSE,0.22,Common,38,a1020538-89c8-4986-9687-78ab326acb3e,38,lgn,common
+Gempalm Avenger,Legions,1,FALSE,0.22,Common,14,dbc66291-fdcc-4106-8875-94d2b0a70deb,14,lgn,common
+Gempalm Incinerator,Legions,1,FALSE,0.91,Uncommon,94,2687c311-fd0c-4fe0-bce8-e3f412216796,94,lgn,uncommon
+Gempalm Sorcerer,Legions,1,FALSE,0.25,Uncommon,39,67bda65b-2e26-4531-9f6a-952df314c8f7,39,lgn,uncommon
+Gempalm Strider,Legions,1,FALSE,0.25,Uncommon,127,f93d89f5-3e77-4dc0-935b-e6f6a3e968d2,127,lgn,uncommon
+Goblin Assassin,Legions,1,FALSE,0.52,Uncommon,95,57ec836f-6dcf-45f9-8e95-487762742a1e,95,lgn,uncommon
+Goblin Clearcutter,Legions,1,FALSE,0.25,Uncommon,96,e07c0cae-852c-444c-8994-68a6d81b4cd4,96,lgn,uncommon
+Goblin Dynamo,Legions,1,FALSE,0.25,Uncommon,97,9462cb4e-a38c-4a41-bad2-4ea3b22b0edb,97,lgn,uncommon
+Goblin Firebug,Legions,1,FALSE,0.20,Common,98,2370d319-d1d2-4bca-9275-ff72fb400709,98,lgn,common
+Goblin Grappler,Legions,1,FALSE,0.20,Common,100,5c948872-295c-41b9-8094-db7db7578b0d,100,lgn,common
+Goblin Lookout,Legions,1,FALSE,0.42,Common,101,23bbe84a-8857-467a-a4a1-e57086cc9501,101,lgn,common
+Havoc Demon,Legions,1,FALSE,0.50,Rare,74,6477802a-349d-41e1-b050-58da0d806abf,74,lgn,rare
+Hundroog,Legions,1,FALSE,0.20,Common,129,f525c356-88ca-4e2e-8f06-663be101e34f,129,lgn,common
+Keeneye Aven,Legions,1,FALSE,0.23,Common,41,1a355c58-cd28-4d2d-9df1-91b4196b01ef,41,lgn,common
+Liege of the Axe,Legions,1,FALSE,0.24,Uncommon,16,eb518bf0-17ad-4bbf-b922-42ee76ffcbea,16,lgn,uncommon
+Lowland Tracker,Legions,1,FALSE,0.20,Common,17,f8eaaded-b18a-4614-b5b5-b4bb49a2e1b1,17,lgn,common
+Macetail Hystrodon,Legions,1,FALSE,0.20,Common,106,8451ab3f-5d61-4f35-ab70-5a5060caf53d,106,lgn,common
+Master of the Veil,Legions,1,FALSE,0.35,Uncommon,43,d7ce1755-9f4a-4741-b6e5-288595ec494d,43,lgn,uncommon
+Merchant of Secrets,Legions,1,FALSE,0.23,Common,44,d1109bdd-a5ce-4e63-adee-54e43a4c4a1e,44,lgn,common
+Mistform Seaswift,Legions,1,FALSE,0.20,Common,45,b2f6c73c-8162-499f-8d16-92f17c0c2bee,45,lgn,common
+Needleshot Gourna,Legions,1,FALSE,0.20,Common,133,f9b1628d-aacd-4e19-9ebb-bcd9b2842c91,133,lgn,common
+Plated Sliver,Legions,1,FALSE,0.50,Common,19,82846d31-4981-4ef1-85c3-703569146a84,19,lgn,common
+Primoc Escapee,Legions,1,FALSE,0.25,Uncommon,49,e6cb3e72-bb64-4b1e-a54b-1fe4fb4ad4c9,49,lgn,uncommon
+Ridgetop Raptor,Legions,1,FALSE,0.25,Uncommon,108,1013cbc4-09f4-484f-b328-9f7403225149,108,lgn,uncommon
+Shaleskin Plower,Legions,1,FALSE,0.20,Common,110,42658b33-9a12-403b-bc7d-807fbe1f1a36,110,lgn,common
+Shaleskin Plower,Legions,1,TRUE,0.30,Common,110,42658b33-9a12-403b-bc7d-807fbe1f1a36,110,lgn,common
+Skinthinner,Legions,1,FALSE,0.21,Common,80,89b8c392-da68-4894-b6e8-eb430141a0d7,80,lgn,common
+Skinthinner,Legions,1,TRUE,0.82,Common,80,89b8c392-da68-4894-b6e8-eb430141a0d7,80,lgn,common
+Skirk Drill Sergeant,Legions,1,FALSE,0.25,Uncommon,112,359b2d1a-4027-46d9-b780-bcac8d60ecdb,112,lgn,uncommon
+Skirk Marauder,Legions,1,FALSE,0.20,Common,113,bbd2ff12-c6f7-4986-801f-225ad6f59278,113,lgn,common
+Skirk Outrider,Legions,1,FALSE,0.20,Common,114,416de0f4-1540-4286-a1ac-4f57301c54e9,114,lgn,common
+Smokespew Invoker,Legions,1,FALSE,0.20,Common,81,fea393a4-58c8-4a42-bd95-a3312504f2e2,81,lgn,common
+Sootfeather Flock,Legions,1,FALSE,0.20,Common,82,216a2ccc-8847-452b-b030-27d8506675bd,82,lgn,common
+Starlight Invoker,Legions,1,FALSE,0.20,Common,20,4c66afc4-3d6d-4ce7-acfc-a4ad34aa3e99,20,lgn,common
+Stoic Champion,Legions,1,FALSE,0.25,Uncommon,21,6b69d619-c31b-472b-9ae8-d4503704680d,21,lgn,uncommon
+Swooping Talon,Legions,1,FALSE,0.24,Uncommon,23,34c3d19c-d4c6-4c5c-85eb-11d55959a89c,23,lgn,uncommon
+Totem Speaker,Legions,1,FALSE,0.24,Uncommon,141,ce12115b-2667-47f7-bd24-17c982a4f79a,141,lgn,uncommon
+Vile Deacon,Legions,1,FALSE,0.20,Common,85,b2641bd5-c845-47a1-8038-bb28b06f896e,85,lgn,common
+Voidmage Apprentice,Legions,1,FALSE,0.28,Common,54,55924a25-e749-48f6-8ef1-1fa8376f96b1,54,lgn,common
+Wall of Deceit,Legions,1,FALSE,0.27,Uncommon,55,1496d941-88fd-433e-8fae-1218316ef3a9,55,lgn,uncommon
+Wall of Hope,Legions,1,FALSE,0.30,Common,24,b463b3e1-e314-4a65-a89e-0712f630b016,24,lgn,common
+Warbreak Trumpeter,Legions,1,FALSE,0.28,Uncommon,116,fc942957-1067-428c-8ee1-01f9e260efe1,116,lgn,uncommon
+Warped Researcher,Legions,1,FALSE,0.25,Uncommon,56,5df94a4e-1371-4b75-a557-eeb83c23cf9d,56,lgn,uncommon
+Weaver of Lies,Legions,1,FALSE,0.62,Rare,57,12172d0e-0c73-4482-9f83-2c23ace9b7a0,57,lgn,rare
+Whipgrass Entangler,Legions,1,FALSE,0.20,Common,26,c0b18b09-b1ff-479d-bd1c-cb8620a34fe4,26,lgn,common
+Willbender,Legions,1,FALSE,0.25,Uncommon,58,fb33b35b-33c9-4d59-9ed6-7ad40ea82cb0,58,lgn,uncommon
+Wingbeat Warrior,Legions,1,FALSE,0.22,Common,29,cd58d164-861d-4c80-ad2f-6283ed82faa1,29,lgn,common
+Wirewood Hivemaster,Legions,1,FALSE,0.29,Uncommon,145,ea55b4fc-366f-4906-9eaa-9085f6a22612,145,lgn,uncommon
+Withered Wretch,Legions,1,FALSE,0.50,Uncommon,86,b8a82948-503f-4ad4-9e3c-c080c16afd63,86,lgn,uncommon
