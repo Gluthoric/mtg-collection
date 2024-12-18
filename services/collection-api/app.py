@@ -20,13 +20,32 @@ STATS_CACHE = TTLCache(maxsize=1, ttl=5)  # Cache stats for 5 seconds
 def enable_cors(f):
     @wraps(f)
     def decorated_function(*args, **kwargs):
+        print(f"Handling request to: {request.path}")
+        print(f"Request headers: {dict(request.headers)}")
+        
         response = make_response(f(*args, **kwargs))
+        
+        # Log response headers for debugging
+        print(f"Setting response headers for {request.path}:")
         response.headers.add('Access-Control-Allow-Origin', 'http://localhost:5173')
+        print(f"- Added Access-Control-Allow-Origin: {response.headers['Access-Control-Allow-Origin']}")
+        
         response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization,Accept,Origin')
+        print(f"- Added Access-Control-Allow-Headers: {response.headers['Access-Control-Allow-Headers']}")
+        
         response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
+        print(f"- Added Access-Control-Allow-Methods: {response.headers['Access-Control-Allow-Methods']}")
+        
         response.headers.add('Access-Control-Allow-Credentials', 'true')
+        print(f"- Added Access-Control-Allow-Credentials: {response.headers['Access-Control-Allow-Credentials']}")
+        
         response.headers.add('Access-Control-Max-Age', '3600')
+        print(f"- Added Access-Control-Max-Age: {response.headers['Access-Control-Max-Age']}")
+        
         response.headers.add('Vary', 'Origin')
+        print(f"- Added Vary: {response.headers['Vary']}")
+        
+        print(f"Final response headers: {dict(response.headers)}")
         return response
     return decorated_function
 

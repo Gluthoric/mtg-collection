@@ -40,7 +40,9 @@ export class CollectionAPI {
     try {
       const response = await fetch(`${API_BASE_URL}/api/sets`);
       if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
+        const errorText = await response.text();
+        console.error('Server error response:', errorText);
+        throw new Error(`HTTP error! status: ${response.status}, message: ${errorText}`);
       }
       return response.json();
     } catch (error) {
