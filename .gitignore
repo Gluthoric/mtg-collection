@@ -39,3 +39,4 @@ yarn-error.log*
 *.swo
 .DS_Store
 .aider*
+services/default-cards.json
