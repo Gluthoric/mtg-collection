@@ -1,0 +1,57 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+Lord of Atlantis,Special Guests,1,TRUE,14.30,Rare,1,a9407b60-8921-4531-bdbe-9a82aaa38d28,24,tsb,special
+"Malcolm, Keen-Eyed Navigator",Special Guests,1,TRUE,8.20,Uncommon,2,51187cdb-85ee-4f68-9e29-d84d296f0825,161,lcc,uncommon
+Bridge from Below,Special Guests,1,FALSE,1.34,Rare,3,3faaa657-8b02-41a9-8a99-31a223d2caa5,87,uma,rare
+Pitiless Plunderer,Special Guests,1,TRUE,23.63,Uncommon,5,5b5cd187-857a-44dd-8595-a52857a0b753,208,lcc,uncommon
+"Breeches, Brazen Plunderer",Special Guests,1,TRUE,3.33,Uncommon,6,fb6dc94e-9b57-4161-a835-15e46c3bb13a,217,lcc,uncommon
+"Dargo, the Shipwrecker",Special Guests,1,TRUE,3.51,Uncommon,7,5cd87cf8-4d5d-4aba-8dfa-800b1fb3799b,172,cmr,uncommon
+Rampaging Ferocidon,Special Guests,1,TRUE,7.27,Rare,8,53c38f4e-81ec-45b3-a6cf-06a65b674978,167,dsc,rare
+Underworld Breach,Special Guests,1,TRUE,42.52,Rare,9,0e51d796-7279-4c06-87f0-37adbdaa41df,161,thb,rare
+Carnage Tyrant,Special Guests,1,TRUE,5.42,Mythic Rare,10,3bd78731-949c-464a-826a-92f86d784911,179,xln,mythic
+"Ghalta, Primal Hunger",Special Guests,1,TRUE,13.07,Rare,11,6a9c39e4-a8cf-42dd-8d0e-45634b335546,222,fdn,rare
+Polyraptor,Special Guests,1,FALSE,12.14,Mythic Rare,12,f8965a3a-93fe-4021-a665-b6013bdc86f7,144,rix,mythic
+"Kalamax, the Stormsire",Special Guests,1,TRUE,4.01,Mythic Rare,13,f990cd78-2165-446f-a116-ae55d7a0f00d,9,c20,mythic
+Lord Windgrace,Special Guests,1,TRUE,5.40,Mythic Rare,14,213d6fb8-5624-4804-b263-51f339482754,43,c18,mythic
+"Mirri, Weatherlight Duelist",Special Guests,1,FALSE,5.59,Mythic Rare,15,db44fe95-6a32-4d6f-a32f-72491381f495,347,cmm,rare
+"Thrasios, Triton Hero",Special Guests,1,TRUE,23.60,Rare,16,21e27b91-c7f1-4709-aa0d-8b5d81b22a0a,46,c16,rare
+Mana Crypt (17),Special Guests,1,TRUE,84.48,Mythic Rare,17,,,,
+Mana Crypt (17c),Special Guests,1,TRUE,561.55,Mythic Rare,17c,,,,
+Mana Crypt (17f),Special Guests,1,TRUE,388.01,Mythic Rare,17f,,,,
+Crashing Footfalls,Special Guests,1,FALSE,2.76,Mythic Rare,25,a8cca2a2-69e3-4136-936c-7a2774c19351,160,mh1,rare
+Drown in the Loch,Special Guests,1,FALSE,7.53,Mythic Rare,27,eb7b9762-740b-4c1c-a411-20dbf023aea5,842,clb,uncommon
+Gamble,Special Guests,1,FALSE,9.29,Mythic Rare,24,8e37fae5-ddd0-4e16-8581-71579f89d9c5,121,dmr,rare
+Tireless Tracker,Special Guests,1,FALSE,5.30,Mythic Rare,26,66660f7c-9e1c-4e88-856a-98fab1f1364d,190,mkc,rare
+Tragic Slip,Special Guests,1,TRUE,15.37,Mythic Rare,22,588332da-8ec5-49d1-a365-455beb7913a2,192,cmm,common
+Stoneforge Mystic,Special Guests,1,TRUE,34.10,Mythic Rare,29,4d3473d0-b46f-41f5-ac1e-ba217f7747d4,31,2xm,rare
+Morbid Opportunist,Special Guests,1,TRUE,25.14,Mythic Rare,32,56f5fd4b-6d16-41e1-96ba-c8874d86072a,148,dsc,uncommon
+Scapeshift,Special Guests,1,FALSE,27.68,Mythic Rare,34,175e21a3-00f7-4c51-8a8e-fbfd7089efda,201,m19,mythic
+Notion Thief,Special Guests,1,TRUE,14.98,Mythic Rare,36,f675f509-4343-4568-96dd-265626cb6c2b,96,znc,rare
+Desert,Special Guests,1,TRUE,4.47,Mythic Rare,37,c74e13eb-6f82-4db1-9d0d-8310f48d9f6d,233,afc,uncommon
+Thought-Knot Seer (Borderless),Special Guests,1,TRUE,5.21,Rare,39,,,,
+Dismember (Borderless),Special Guests,1,TRUE,8.57,Mythic Rare,41,,,,
+Expressive Iteration (Borderless),Special Guests,1,TRUE,7.55,Mythic Rare,43,,,,
+Subtlety (Borderless),Special Guests,1,TRUE,7.72,Mythic Rare,45,,,,
+Endurance (Borderless),Special Guests,1,TRUE,11.50,Mythic Rare,48,,,,
+Solitude (Textured Foil),Special Guests,1,TRUE,26.97,Mythic Rare,49,,,,
+Subtlety (Textured Foil),Special Guests,1,TRUE,15.76,Mythic Rare,50,,,,
+Grief (Textured Foil),Special Guests,1,TRUE,8.96,Mythic Rare,51,,,,
+Swords to Plowshares,Special Guests,1,FALSE,12.99,Mythic Rare,54,b16321b6-3e28-424b-ac72-038cc4ed6458,106,dsc,uncommon
+Ledger Shredder,Special Guests,1,TRUE,23.16,Rare,55,7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d,46,snc,rare
+Kindred Charge,Special Guests,1,TRUE,5.32,Mythic Rare,58,3e7dc7f0-ba05-4a13-b8e0-7f536fbf0f34,27,c17,rare
+Sylvan Tutor,Special Guests,1,TRUE,33.02,Mythic Rare,59,9dcad208-cbea-458f-af8d-6f5e9ec32df7,169,me4,uncommon
+"Toski, Bearer of Secrets",Special Guests,1,FALSE,17.03,Mythic Rare,60,e82e61d1-488d-4627-a54c-d8496a967814,191,mkc,rare
+Sword of Fire and Ice,Special Guests,1,FALSE,32.60,Mythic Rare,62,2626d4c9-fcef-4057-a154-7d987a4a4b84,297,2xm,mythic
+Secluded Courtyard,Special Guests,1,TRUE,11.62,Mythic Rare,63,d13373d2-139b-48c7-a8c9-828cefc4f150,267,fdn,uncommon
+Collected Company,Special Guests,1,TRUE,4.69,Mythic Rare,72,cfa7b456-7e83-4587-a875-9b35fde318c2,177,dtk,rare
+Hallowed Haunting,Special Guests,1,TRUE,8.71,Mythic Rare,64,674c0a50-9c37-4c29-84d8-eb3e34f34d37,17,vow,mythic
+Expropriate,Special Guests,1,TRUE,20.76,Mythic Rare,66,9c8a2a5a-cb9b-4582-a453-085da78584f9,30,cn2,mythic
+Phantasmal Image,Special Guests,1,TRUE,22.24,Mythic Rare,67,c1c080cf-a5e8-4d9d-af49-f78588971e87,89,afc,rare
+Damnation,Special Guests,1,TRUE,36.71,Mythic Rare,68,d3c0aac5-b9f1-4446-bfea-3e1dd1cf1f2f,73,2x2,rare
+Unholy Heat,Special Guests,1,TRUE,1.66,Mythic Rare,71,4e879386-b1f8-4f2a-9820-6e1291746f88,182,otc,common
+Grim Tutor,Special Guests,1,TRUE,15.42,Mythic Rare,76,928558ab-e29a-44cb-ac2f-88443571f41a,103,m21,mythic
+Embercleave,Special Guests,1,FALSE,12.21,Mythic Rare,77,aaae15dd-11b6-4421-99e9-365c7fe4a5d6,120,eld,mythic
+Goblin Bushwhacker,Special Guests,1,TRUE,4.16,Mythic Rare,78,4085a5bf-a71b-4c73-9b39-0dcc328fe11b,125,zen,common
+Paradise Druid,Special Guests,1,TRUE,3.28,Mythic Rare,80,187d5819-6a63-4e4f-98c4-18191c03f164,165,afc,uncommon
+Akroma's Memorial,Special Guests,1,TRUE,22.33,Mythic Rare,81,950ee61d-0bc1-4d7b-ba68-157061aa98eb,262,tsr,mythic
+Temporal Manipulation,Special Guests,1,TRUE,11.46,Mythic Rare,82,6270b93e-8cd2-4668-982a-f4c4628da9d9,77,uma,mythic
+Fiend Artisan,Special Guests,1,TRUE,3.97,Mythic Rare,83,6cd9d800-6d31-42e2-87d2-772db0ff95ed,220,iko,mythic

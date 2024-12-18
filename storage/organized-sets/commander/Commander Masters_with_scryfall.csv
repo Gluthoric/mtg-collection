@@ -1,0 +1,565 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+"Kozilek, the Great Distortion",Commander Masters,1,FALSE,4.11,Mythic Rare,2,c41554e7-2a07-4cc7-b01b-44deed08e588,2,cmm,mythic
+"Morophon, the Boundless",Commander Masters,1,TRUE,7.37,Mythic Rare,3,84238335-e08c-421c-b9b9-70a679ff2967,3,cmm,mythic
+Pathrazer of Ulamog,Commander Masters,1,TRUE,2.44,Uncommon,4,c9b1d4d8-7df9-41e0-b2d9-dbca9c9f6994,4,cmm,uncommon
+"Ulamog, the Ceaseless Hunger",Commander Masters,1,FALSE,23.96,Mythic Rare,5,c74ae706-b3b3-4097-a387-6f6c38a9b603,5,cmm,mythic
+Ulamog's Crusher,Commander Masters,1,TRUE,0.28,Common,6,699c0f6f-b26b-4741-8140-8a6030cad127,6,cmm,common
+Ainok Bond-Kin,Commander Masters,1,TRUE,0.07,Common,7,6956c523-507c-4256-88b8-58a8a108c79f,7,cmm,common
+"Alharu, Solemn Ritualist",Commander Masters,1,TRUE,0.08,Uncommon,8,3fdf5020-ea97-4f95-a096-cb5688dad2e2,8,cmm,uncommon
+All That Glitters,Commander Masters,1,TRUE,0.56,Common,9,5fc0b82a-f943-4330-b9e7-bb4527354bfd,9,cmm,common
+"Anafenza, Kin-Tree Spirit",Commander Masters,1,TRUE,0.18,Uncommon,11,1717da7b-9e87-4694-873b-abd4e3bcd5e2,11,cmm,uncommon
+Ancestral Blade,Commander Masters,1,TRUE,0.10,Common,12,24705dee-027c-42a2-8505-66c0a34a4a58,12,cmm,common
+"Baird, Steward of Argive",Commander Masters,1,TRUE,0.20,Uncommon,15,91bbe20b-0d39-46fc-a09a-fc8c676f1fe7,15,cmm,uncommon
+"Balan, Wandering Knight",Commander Masters,1,TRUE,0.62,Rare,16,049ebad9-bf65-48e2-9640-c11b5f04e38b,16,cmm,rare
+Battle Screech,Commander Masters,1,TRUE,0.08,Common,17,90301f8c-f7af-4179-8faf-9901931bba8d,17,cmm,common
+Cartographer's Hawk,Commander Masters,1,TRUE,0.21,Uncommon,18,12d0b07f-9823-45b7-89bb-0a2a71833d46,18,cmm,uncommon
+Custodi Squire,Commander Masters,1,TRUE,0.11,Common,19,1771d71b-18b1-44dd-b413-4319519b0778,19,cmm,common
+"Danitha Capashen, Paragon",Commander Masters,1,TRUE,2.35,Uncommon,20,a11f77e4-edb6-43c6-b8ca-d4f62d26d0c0,20,cmm,uncommon
+Darksteel Mutation,Commander Masters,1,TRUE,2.96,Uncommon,21,e47a6750-4fdd-44e2-86ae-5bc4d414bf42,21,cmm,uncommon
+Elite Scaleguard,Commander Masters,1,FALSE,0.20,Uncommon,22,d0ca5bcc-f49f-4370-9f95-031836bb771b,22,cmm,uncommon
+Fencing Ace,Commander Masters,1,TRUE,0.06,Uncommon,23,994094f8-e175-4e2e-aa39-c096f0ed9e6a,23,cmm,uncommon
+Flawless Maneuver,Commander Masters,1,TRUE,10.57,Rare,24,ab12f69e-1491-47a8-8c46-d85bbf637ff6,24,cmm,rare
+Gavony Silversmith,Commander Masters,1,TRUE,0.04,Common,25,e8d78a93-1a9f-4bc1-82b4-d3434367d27b,25,cmm,common
+Generous Gift,Commander Masters,1,TRUE,1.09,Common,26,1a8c02ab-6348-4b04-8ce0-b36309a14a5e,26,cmm,common
+Grand Abolisher,Commander Masters,1,FALSE,7.80,Rare,27,86e30ca4-1769-4686-aa18-31610246cd80,27,cmm,rare
+"Heliod, Sun-Crowned",Commander Masters,1,FALSE,12.35,Mythic Rare,29,3245ff74-1f9c-4518-a23f-1579f338f232,29,cmm,mythic
+Herald of the Host,Commander Masters,1,TRUE,0.27,Uncommon,30,e8d57d75-275d-45c8-85f4-aab230af35b2,30,cmm,uncommon
+Intangible Virtue,Commander Masters,1,TRUE,0.17,Uncommon,31,7d251846-7aa5-4318-a96b-fbd9daf691f9,31,cmm,uncommon
+Jazal Goldmane,Commander Masters,1,FALSE,0.26,Rare,32,616d54a1-33f7-47c9-852f-4f3a07309f27,32,cmm,rare
+"Keleth, Sunmane Familiar",Commander Masters,1,TRUE,0.13,Uncommon,33,fc95324a-9a7f-4ed9-a3da-36a3eca91936,33,cmm,uncommon
+"Kemba, Kha Regent",Commander Masters,1,TRUE,0.20,Uncommon,34,dacc4290-6a72-4c00-8bdd-e40ae28885a8,34,cmm,uncommon
+Kirtar's Wrath,Commander Masters,1,TRUE,0.07,Uncommon,35,fbbbbbf7-eaae-462e-a8eb-7f6a97703600,35,cmm,uncommon
+Knighted Myr,Commander Masters,1,TRUE,0.11,Common,36,db0489ee-96b6-4437-a716-ee07ecbd4cb7,36,cmm,common
+"Losheel, Clockwork Scholar",Commander Masters,1,TRUE,1.64,Uncommon,38,ee6b54de-8e79-4f60-b642-3d259bf74ea0,38,cmm,uncommon
+Loyal Retainers,Commander Masters,1,FALSE,2.00,Mythic Rare,39,c9b35e70-9a0e-4204-9454-a1f2c58eb0e0,39,cmm,mythic
+Loyal Unicorn,Commander Masters,1,TRUE,0.27,Uncommon,40,c1d7203b-55ed-4d08-ac2e-2c4b4b93c274,40,cmm,uncommon
+Mace of the Valiant,Commander Masters,1,TRUE,0.21,Uncommon,41,88a08aff-3a50-4f2e-97a1-f1d79d5c4ade,41,cmm,uncommon
+"Mangara, the Diplomat",Commander Masters,1,TRUE,1.71,Rare,42,09e77ae5-a1a6-4e51-9853-10e81ca2dd2c,42,cmm,rare
+Ministrant of Obligation,Commander Masters,1,TRUE,0.03,Common,43,30d9c9db-28a0-47fa-b561-6040e47c2392,43,cmm,common
+Myrsmith,Commander Masters,1,TRUE,0.06,Common,44,78ea3e84-2d78-489f-875a-48e58c956451,44,cmm,common
+"Nahiri, the Lithomancer",Commander Masters,1,TRUE,1.05,Rare,45,b074e60a-6f9b-4679-9617-261e2e15e1e8,45,cmm,rare
+"Odric, Master Tactician",Commander Masters,1,TRUE,0.52,Rare,46,13bfcec9-a789-41f1-aa3d-4e4cdd7555b2,46,cmm,rare
+Palace Jailer,Commander Masters,1,TRUE,0.27,Uncommon,47,a50ee31a-e80f-481a-b2e7-7a6c68eb1efb,47,cmm,uncommon
+Palace Sentinels,Commander Masters,1,TRUE,0.07,Common,48,6c0bbbe0-e6cf-43df-9c44-b6bbfa9c9af7,48,cmm,common
+Path to Exile,Commander Masters,1,TRUE,1.11,Uncommon,49,4970389b-08f4-4a15-a128-954b072a8137,49,cmm,uncommon
+Puresteel Paladin,Commander Masters,1,TRUE,2.44,Rare,51,d8f8a324-006d-4cb8-9816-620a603b4229,51,cmm,rare
+Return to Dust,Commander Masters,1,TRUE,0.16,Uncommon,52,2d57ba1d-2b43-4839-b77d-38fee2e81bf6,52,cmm,uncommon
+"Sephara, Sky's Blade",Commander Masters,1,FALSE,2.88,Rare,54,729ee848-6c27-4202-b2bc-605f45209468,54,cmm,rare
+Sevinne's Reclamation,Commander Masters,1,FALSE,0.41,Rare,55,51647010-99f0-4b02-8c91-fdd826db130d,55,cmm,rare
+Shelter,Commander Masters,1,TRUE,0.15,Common,56,1f4fedc9-6dd1-4190-a0c9-e9d10fd91315,56,cmm,common
+Smothering Tithe,Commander Masters,1,TRUE,26.45,Mythic Rare,57,861b5889-0183-4bee-afeb-a4b2aa700a8e,57,cmm,mythic
+Spectral Grasp,Commander Masters,1,TRUE,0.09,Common,58,3ee3cce9-d570-4a45-b484-089849a91b6c,58,cmm,common
+Steelshaper's Gift,Commander Masters,1,FALSE,4.70,Rare,59,55d61383-b739-4422-a76c-d8cbca13c5b2,59,cmm,rare
+Sublime Exhalation,Commander Masters,1,TRUE,0.16,Rare,60,4a8f810f-844b-4ebd-b28c-46432cf0203d,60,cmm,rare
+Sunblade Angel,Commander Masters,1,TRUE,0.12,Common,61,407041c4-0154-42ee-a736-7815024d1719,61,cmm,common
+Sunspear Shikari,Commander Masters,1,TRUE,0.03,Common,62,303df3ba-1258-4141-ace2-577f9e89a14c,62,cmm,common
+Supply Runners,Commander Masters,1,TRUE,0.09,Common,63,e41cbc3b-a2e9-4a14-a603-581413bc0b17,63,cmm,common
+Swift Response,Commander Masters,1,TRUE,0.06,Common,64,3d70dcbe-0b90-40b4-8a54-e5218b7135b1,64,cmm,common
+"Teshar, Ancestor's Apostle",Commander Masters,1,TRUE,0.21,Uncommon,65,e8a9b45b-d466-4c06-9a25-6edb6e8f6f2f,65,cmm,uncommon
+Thraben Inspector,Commander Masters,1,TRUE,0.23,Common,66,299cc386-2ed5-4504-9ba6-17a52e0c9a0c,66,cmm,common
+Unbounded Potential,Commander Masters,1,TRUE,0.09,Common,67,732c3b63-5e15-4510-813c-58e20cd9833f,67,cmm,common
+Wakening Sun's Avatar,Commander Masters,1,FALSE,0.68,Rare,68,7b4b3918-94f7-4981-9702-f01970fac37c,68,cmm,rare
+Wanderer's Strike,Commander Masters,1,TRUE,0.09,Common,69,8ecb14b6-1fd8-49be-bf95-f147f48b072c,69,cmm,common
+Wrath of God,Commander Masters,1,FALSE,2.51,Rare,70,537d2b05-3f52-45d6-8fe3-26282085d0c6,70,cmm,rare
+"Zetalpa, Primal Dawn",Commander Masters,1,TRUE,1.81,Rare,71,1c3425c9-9bec-40e4-a2e9-ce8ac4281688,71,cmm,rare
+Aether Gale,Commander Masters,1,TRUE,0.25,Uncommon,72,792ebc50-909f-4b81-a2cd-0da1ba36a0d3,72,cmm,uncommon
+Aminatou's Augury,Commander Masters,1,TRUE,0.54,Rare,73,92496b98-b533-4d34-aa79-cad0805c984b,73,cmm,rare
+"Azami, Lady of Scrolls",Commander Masters,1,FALSE,0.45,Rare,74,fa727656-fb33-485b-9378-18b80cad42b9,74,cmm,rare
+Body Double,Commander Masters,1,TRUE,0.14,Uncommon,75,6d434b49-c3e8-4b4d-b573-c144ba78e98b,75,cmm,uncommon
+"Braids, Conjurer Adept",Commander Masters,1,TRUE,0.42,Rare,76,9ea0a701-1349-4d32-9fe7-8a2563c9613d,76,cmm,rare
+"Brinelin, the Moon Kraken",Commander Masters,1,TRUE,0.26,Uncommon,78,c606f8ea-815b-4308-8f1d-3dad4f45f70e,78,cmm,uncommon
+Counterspell,Commander Masters,1,FALSE,1.83,Common,81,8493131c-0a7b-4be6-a8a2-0b425f4f67fb,81,cmm,common
+Counterspell,Commander Masters,1,TRUE,2.60,Common,81,8493131c-0a7b-4be6-a8a2-0b425f4f67fb,81,cmm,common
+Cryptic Serpent,Commander Masters,1,TRUE,0.93,Common,83,7f1af32a-dba2-4c2f-b0ee-9c83849fda53,83,cmm,common
+Cyclonic Rift,Commander Masters,1,TRUE,34.37,Rare,84,c77ebe57-ea56-4300-b293-6260c4c01a43,84,cmm,rare
+Day's Undoing,Commander Masters,1,FALSE,1.20,Rare,85,ac13a82d-43f5-4b96-bf5f-18e33fae921b,85,cmm,rare
+Deep Analysis,Commander Masters,1,TRUE,0.09,Common,86,01479ce7-4617-4c7c-93f2-cf8c9c5e1dac,86,cmm,common
+Deranged Assistant,Commander Masters,1,TRUE,0.05,Common,87,0ee8f524-f45d-49ff-a472-a47441eee279,87,cmm,common
+Efficient Construction,Commander Masters,1,TRUE,0.71,Uncommon,88,af4d2f70-816c-4410-b3a3-9b9a4b69df52,88,cmm,uncommon
+Evacuation,Commander Masters,1,TRUE,0.47,Rare,89,10e3c91a-d702-4fa2-864c-9f7067a88752,89,cmm,rare
+Exclude,Commander Masters,1,TRUE,0.10,Common,90,014bc5a5-4483-42e9-9c14-1ad229b28eb7,90,cmm,common
+Fact or Fiction,Commander Masters,1,TRUE,0.15,Uncommon,91,04588d2f-9e90-4f83-b85e-67e4bc222a62,91,cmm,uncommon
+Faerie Artisans,Commander Masters,1,TRUE,0.77,Rare,92,eaada60d-1857-4fc2-a997-d7775565221a,92,cmm,rare
+Fall from Favor,Commander Masters,1,TRUE,0.09,Common,93,29679998-2fb4-4fb4-9048-27b6bf6b79e8,93,cmm,common
+Fierce Guardianship,Commander Masters,1,TRUE,39.27,Rare,94,f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc,94,cmm,rare
+Filigree Attendant,Commander Masters,1,TRUE,0.09,Common,95,75600598-f988-49fc-ba86-692367c007b4,95,cmm,common
+Frantic Search,Commander Masters,1,TRUE,0.29,Common,96,0eb00e3c-b67a-44c7-ae61-23ecf4d4971a,96,cmm,common
+Ghostly Flicker,Commander Masters,1,TRUE,1.87,Common,98,dc143ba3-2a58-4980-9fa0-a05a9e9ed082,98,cmm,common
+Goliath Sphinx,Commander Masters,1,TRUE,0.05,Common,99,374cddb8-b360-4c7b-8911-a6a1b401ffdd,99,cmm,common
+Inga Rune-Eyes,Commander Masters,1,TRUE,0.03,Uncommon,100,c190eceb-f6d8-408f-bbc4-df0fefb778ad,100,cmm,uncommon
+"Kaho, Minamo Historian",Commander Masters,1,TRUE,0.13,Uncommon,101,7a5ad263-6b0d-4eaa-bc5a-16f5077206e1,101,cmm,uncommon
+Looter il-Kor,Commander Masters,1,TRUE,0.13,Common,102,7083c77c-166f-4c6f-a2ca-dd1b877ff5f7,102,cmm,common
+Loyal Drake,Commander Masters,1,TRUE,0.41,Uncommon,104,d827bb89-4e28-4b77-94c0-10f79ec9099a,104,cmm,uncommon
+Minds Aglow,Commander Masters,1,FALSE,0.69,Rare,105,ccacc197-7c22-444d-8e6e-950dca63eb2c,105,cmm,rare
+Murder of Crows,Commander Masters,1,TRUE,0.11,Uncommon,106,1c7dc810-c4cb-4dca-ae06-d79daf8e1477,106,cmm,uncommon
+Mystic Confluence,Commander Masters,1,FALSE,0.63,Rare,108,62e5d409-c0b6-4123-802d-eb32f223bd1a,108,cmm,rare
+"Padeem, Consul of Innovation",Commander Masters,1,FALSE,1.34,Uncommon,109,00a4aef8-64fc-4e9d-adac-ef4c85d40b4a,109,cmm,uncommon
+Personal Tutor,Commander Masters,1,TRUE,5.17,Rare,110,2887fc25-22cd-48c9-ad2b-6539c8139e27,110,cmm,rare
+Phyrexian Ingester,Commander Masters,1,TRUE,0.14,Uncommon,111,6fcefb3c-2581-4dfa-96c5-36a17d762526,111,cmm,uncommon
+Portal Mage,Commander Masters,1,TRUE,0.13,Uncommon,112,fe9924a6-2470-44b6-9f54-766996aef57f,112,cmm,uncommon
+Reality Shift,Commander Masters,1,TRUE,0.41,Uncommon,113,0850a187-ba95-46f2-aa81-397b45460bbc,113,cmm,uncommon
+Renowned Weaponsmith,Commander Masters,1,TRUE,0.03,Common,114,5a397298-9d7d-495f-983a-1683291a7b9f,114,cmm,common
+Resculpt,Commander Masters,1,TRUE,3.54,Common,115,592c7819-7e53-4793-bc4f-3dd489a25d63,115,cmm,common
+Reverse Engineer,Commander Masters,1,TRUE,0.07,Common,116,07fff0a3-1315-42f7-9d36-4f5eaad0c62e,116,cmm,common
+Rise from the Tides,Commander Masters,1,TRUE,0.11,Uncommon,117,d6378465-0f28-46b6-8464-ff57b77d50e8,117,cmm,uncommon
+"Sai, Master Thopterist",Commander Masters,1,TRUE,1.54,Rare,118,ad0b5c09-5075-408e-84c5-1095354ac53e,118,cmm,rare
+Shipwreck Dowser,Commander Masters,1,TRUE,0.12,Common,119,85ce24e4-78cf-4550-866e-108706e82b99,119,cmm,common
+Spellseeker,Commander Masters,1,FALSE,10.70,Mythic Rare,120,a749c591-2fbe-41d8-ac5b-56ebce82d33e,120,cmm,mythic
+Stitcher Geralf,Commander Masters,1,TRUE,0.20,Rare,121,a4ce6c30-a301-4a8a-ac3a-abacaf358a56,121,cmm,rare
+Stormsurge Kraken,Commander Masters,1,TRUE,0.47,Rare,122,525d742f-dadb-4a59-b70d-3b328bf99cca,122,cmm,rare
+"Talrand, Sky Summoner",Commander Masters,1,TRUE,0.35,Rare,124,dc649f1b-b713-4c1f-9e05-4984b8cbfc63,124,cmm,rare
+"Teferi, Temporal Archmage",Commander Masters,1,FALSE,0.92,Rare,125,368c6e60-804c-447c-bc2b-ac9dc4cab5e7,125,cmm,rare
+"Thryx, the Sudden Storm",Commander Masters,1,TRUE,0.28,Uncommon,127,cbbdae80-1481-4a8c-b3c3-f4224204d29d,127,cmm,uncommon
+Torrential Gearhulk,Commander Masters,1,FALSE,0.89,Rare,128,92872fea-2fb4-4154-815e-cad9d966e60f,128,cmm,rare
+Tromokratis,Commander Masters,1,TRUE,0.27,Uncommon,129,f40ad933-ddd9-4975-a222-21fe3305137c,129,cmm,uncommon
+"Urza, Lord High Artificer",Commander Masters,1,FALSE,9.26,Mythic Rare,130,7b7a348a-51f7-4dc5-8fe7-1c70fea5e050,130,cmm,mythic
+Vizier of Tumbling Sands,Commander Masters,1,TRUE,0.28,Common,131,a9aef509-50f0-4848-87d5-3c169453186f,131,cmm,common
+Windcaller Aven,Commander Masters,1,TRUE,0.11,Common,133,d4f1e538-9e68-4481-9bd6-3d37e20645f2,133,cmm,common
+Windrider Wizard,Commander Masters,1,TRUE,0.06,Common,134,ed0c2c48-146d-49f6-bc10-2eed733184b4,134,cmm,common
+Witching Well,Commander Masters,1,TRUE,0.09,Common,135,d2f028cd-1cb4-4a5b-b989-4acd8777ac5c,135,cmm,common
+"Zahid, Djinn of the Lamp",Commander Masters,1,TRUE,0.07,Uncommon,136,880fc139-4200-483f-bdb1-dc9ef32d63a5,136,cmm,uncommon
+Archfiend of Despair,Commander Masters,1,FALSE,19.00,Mythic Rare,137,b6d1e901-cef9-45ca-a946-a4a9cba6702d,137,cmm,mythic
+Bloodchief Ascension,Commander Masters,1,TRUE,12.35,Rare,139,d56d1535-d9de-459f-bc31-0923f621e0e9,139,cmm,rare
+Cabal Patriarch,Commander Masters,1,TRUE,0.10,Uncommon,140,9e9a1276-5ad5-44ee-83e5-2d1ab728946e,140,cmm,uncommon
+Cadaver Imp,Commander Masters,1,TRUE,0.06,Common,141,f06ab823-9591-460d-a896-3073d9843df0,141,cmm,common
+Carrier Thrall,Commander Masters,1,TRUE,0.09,Common,142,772e551c-0b47-4ccb-8893-f192de92908e,142,cmm,common
+Carrion Grub,Commander Masters,1,TRUE,0.11,Common,143,4d485efd-667f-4561-b747-7605bf1ebc09,143,cmm,common
+"Chainer, Dementia Master",Commander Masters,1,TRUE,0.34,Rare,144,186c30e6-2b84-415d-83e4-ecddaeb11ca1,144,cmm,rare
+Corpse Augur,Commander Masters,1,TRUE,0.15,Uncommon,145,14fc0dfb-663a-4713-902e-96dbecc404b7,145,cmm,uncommon
+Curtains' Call,Commander Masters,1,FALSE,0.37,Rare,146,37d3f1b5-b41c-4181-8c14-d0f2f4ba0710,146,cmm,rare
+Deadly Rollick,Commander Masters,1,TRUE,23.43,Rare,147,0e13f735-54fa-42b6-aea4-ced33811d7d4,147,cmm,rare
+Decree of Pain,Commander Masters,1,TRUE,0.41,Rare,148,7af6702a-a7d9-4d86-8ba2-364417a31dbb,148,cmm,rare
+Demon's Disciple,Commander Masters,1,TRUE,0.62,Common,149,cc7f2ce1-b442-4051-b1fe-90efde9bc181,149,cmm,common
+Demonic Tutor,Commander Masters,1,TRUE,50.31,Mythic Rare,150,a24b4cb6-cebb-428b-8654-74347a6a8d63,150,cmm,mythic
+Demonlord Belzenlok,Commander Masters,1,TRUE,0.45,Rare,151,b07114d8-40b3-4102-8d70-e3ed94a7f515,151,cmm,rare
+Dread Drone,Commander Masters,1,TRUE,0.04,Common,152,29ef119f-e777-42e7-be43-ea1f31d7ce59,152,cmm,common
+Dread Return,Commander Masters,1,TRUE,0.30,Common,153,34a87901-98bb-41dd-b566-bcb510c20022,153,cmm,common
+Drown in Sorrow,Commander Masters,1,TRUE,0.19,Common,154,4512357b-0d08-4996-9301-5853eae1ea64,154,cmm,common
+"Endrek Sahr, Master Breeder",Commander Masters,1,TRUE,0.63,Rare,155,123490fb-5908-45f2-b376-7959ccdf9c3e,155,cmm,rare
+Exsanguinate,Commander Masters,1,TRUE,3.80,Uncommon,156,0a5352af-e275-4186-a265-2fd3c2c47c6a,156,cmm,uncommon
+Extinguish All Hope,Commander Masters,1,FALSE,0.25,Uncommon,157,1888ac60-a885-43a7-8e95-9523a0213644,157,cmm,uncommon
+Extinguish All Hope,Commander Masters,1,TRUE,0.25,Uncommon,157,1888ac60-a885-43a7-8e95-9523a0213644,157,cmm,uncommon
+Feast of Succession,Commander Masters,1,TRUE,0.07,Uncommon,158,73f15c50-cfb2-4567-bad5-3d18a2d7d0aa,158,cmm,uncommon
+Feed the Swarm,Commander Masters,1,TRUE,0.36,Common,159,840d02c6-3d9c-47cd-9307-978d03380d0f,159,cmm,common
+Final Parting,Commander Masters,1,TRUE,0.57,Uncommon,160,94f24b7c-4952-4abc-aaba-22a529012468,160,cmm,uncommon
+Ghoulcaller Gisa,Commander Masters,1,TRUE,1.92,Rare,161,44d7906e-8a89-4644-acb5-46fbe97ab39f,161,cmm,rare
+"Gonti, Lord of Luxury",Commander Masters,1,TRUE,0.20,Uncommon,162,01852cd2-16e4-4518-b5d5-b9a378b8664d,162,cmm,uncommon
+"Gorex, the Tombshell",Commander Masters,1,TRUE,0.23,Uncommon,164,12615d0d-e38c-4e7b-918e-33e88299d1f9,164,cmm,uncommon
+Heartless Act,Commander Masters,1,TRUE,0.25,Uncommon,166,a11dea2a-fe20-4e1b-9e1e-8759e0950f0a,166,cmm,uncommon
+Imp's Mischief,Commander Masters,1,FALSE,2.60,Rare,167,0eb0e8e7-266f-441e-b1cd-12b8ec3f7d71,167,cmm,rare
+Isareth the Awakener,Commander Masters,1,FALSE,0.20,Uncommon,168,d5de9b95-1c20-4d1a-be7d-4307ec2803ba,168,cmm,uncommon
+Kindred Dominance,Commander Masters,1,FALSE,10.03,Rare,169,af613b69-b9f6-4221-a21b-c8e4b0f010f1,169,cmm,rare
+Legion Vanguard,Commander Masters,1,TRUE,0.06,Common,170,11ea9ea5-acf1-4980-b7e5-083da455adb0,170,cmm,common
+Lotleth Giant,Commander Masters,1,TRUE,0.13,Common,171,09237f1b-eff6-45bf-bd7d-a883deda122a,171,cmm,common
+Loyal Subordinate,Commander Masters,1,TRUE,0.28,Uncommon,172,1949469a-faa5-4bff-8b0f-0a1bc7ca87da,172,cmm,uncommon
+"Mikaeus, the Unhallowed",Commander Masters,1,FALSE,8.39,Mythic Rare,173,bc1f42a2-fe11-45da-9552-069803b4068a,173,cmm,mythic
+Mire Triton,Commander Masters,1,TRUE,0.13,Common,174,a070b7af-7c85-4129-81ca-e2ec0540085e,174,cmm,common
+Nadier's Nightblade,Commander Masters,1,TRUE,0.22,Common,175,1cd606c3-795a-49d8-8b75-6a3aacb4a72f,175,cmm,common
+Ogre Slumlord,Commander Masters,1,TRUE,0.31,Rare,177,2373e57c-01bb-4d49-94ad-b9ff75335cb7,177,cmm,rare
+Phyrexian Gargantua,Commander Masters,1,TRUE,0.04,Common,178,08648c0a-e075-45ac-ad8c-80c425d3487e,178,cmm,common
+Priest of the Blood Rite,Commander Masters,1,FALSE,0.20,Uncommon,179,14db0f35-905b-45c9-a0cc-1c47720380eb,179,cmm,uncommon
+"Rankle, Master of Pranks",Commander Masters,1,FALSE,0.76,Rare,180,32399c54-632f-434e-bd5a-81b6a7c4fe9b,180,cmm,rare
+Read the Bones,Commander Masters,1,TRUE,1.06,Common,182,d6c66076-fb85-4a5e-8cd0-d103834b3cd1,182,cmm,common
+Reassembling Skeleton,Commander Masters,1,FALSE,0.26,Uncommon,183,00566375-e976-4e96-b751-cf0430452c9c,183,cmm,uncommon
+Rune-Scarred Demon,Commander Masters,1,TRUE,5.06,Rare,184,0c9d67da-4fc9-4d4a-95e4-0303c5404705,184,cmm,rare
+Serrated Scorpion,Commander Masters,1,TRUE,0.10,Common,185,78509763-4bb8-4030-b205-76917de75c57,185,cmm,common
+"Shirei, Shizo's Caretaker",Commander Masters,1,TRUE,0.20,Uncommon,186,69848ec1-dba7-419f-a5f9-f934bebeeaa6,186,cmm,uncommon
+Sower of Discord,Commander Masters,1,TRUE,3.82,Rare,187,f532301e-9005-4770-9e04-868f69f6becf,187,cmm,rare
+Supernatural Stamina,Commander Masters,1,TRUE,0.14,Common,188,2b349b4b-f08d-45e8-81f6-3467a02e6d23,188,cmm,common
+"Taborax, Hope's Demise",Commander Masters,1,TRUE,0.20,Uncommon,189,84bb6abe-3844-4399-b38a-1d6dd81a6c78,189,cmm,uncommon
+Thorn of the Black Rose,Commander Masters,1,TRUE,0.17,Common,190,b4b266e2-1cad-40df-bc0e-3e1464b299b3,190,cmm,common
+Toxic Deluge,Commander Masters,1,FALSE,6.24,Rare,191,8f6fdd97-a896-4110-b48f-a6c49394f854,191,cmm,rare
+Tragic Slip,Commander Masters,1,TRUE,0.34,Common,192,588332da-8ec5-49d1-a365-455beb7913a2,192,cmm,common
+Twilight Prophet,Commander Masters,1,FALSE,1.80,Mythic Rare,193,74353dcc-7653-4c5a-b621-ae587c448657,193,cmm,mythic
+Twisted Abomination,Commander Masters,1,TRUE,0.03,Common,194,7bcaee2c-fad7-4ee2-8fe7-20b2c1eee5c5,194,cmm,common
+Victimize,Commander Masters,1,TRUE,0.98,Uncommon,195,c9e4993e-154c-4ac4-8927-6352b8816f58,195,cmm,uncommon
+Vindictive Lich,Commander Masters,1,FALSE,0.39,Rare,196,0120b644-477d-4297-b94f-56120a384bc2,196,cmm,rare
+Wake the Dead,Commander Masters,1,FALSE,0.39,Rare,197,e1780be8-26f6-4f33-9bc6-ecafc3751c8e,197,cmm,rare
+Witch's Cauldron,Commander Masters,1,TRUE,0.07,Common,199,51c15046-dd24-41aa-96f3-fb008a6988dd,199,cmm,common
+Wretched Confluence,Commander Masters,1,TRUE,0.16,Rare,200,20203edb-1363-4ed3-8c5b-b1d96ff2b7c0,200,cmm,rare
+"Yahenni, Undying Partisan",Commander Masters,1,TRUE,0.47,Uncommon,201,2c0c19c3-0ea6-4b05-9cde-e9863b1fbe04,201,cmm,uncommon
+"Yargle, Glutton of Urborg",Commander Masters,1,TRUE,0.16,Uncommon,202,8febc0fe-c52d-4b6a-9d18-e1e4a43b6dc3,202,cmm,uncommon
+Abrade,Commander Masters,1,TRUE,0.17,Common,203,c1d9e279-61c1-4567-9f54-50a7138fb36d,203,cmm,common
+"Anax, Hardened in the Forge",Commander Masters,1,TRUE,0.10,Uncommon,204,ad107ae0-2540-46f8-9970-72983b87ba04,204,cmm,uncommon
+Ashling the Pilgrim,Commander Masters,1,FALSE,0.25,Rare,205,4c687123-6c34-4aef-8350-70a72b5fb58f,205,cmm,rare
+Avatar of Slaughter,Commander Masters,1,TRUE,0.24,Rare,206,c93dd6cc-53e8-4c67-8838-180b19f02088,206,cmm,rare
+Blood Aspirant,Commander Masters,1,TRUE,0.03,Common,208,075947cd-2e06-486a-83a7-97321445a679,208,cmm,common
+Captain Ripley Vance,Commander Masters,1,TRUE,0.06,Uncommon,209,d640bc10-51ce-48e9-bceb-c3e69d7eae31,209,cmm,uncommon
+Champion of the Flame,Commander Masters,1,TRUE,0.04,Common,210,203dba7d-5e89-4a5a-998a-c26bf17c92f9,210,cmm,common
+Crimson Fleet Commodore,Commander Masters,1,TRUE,0.07,Common,211,edf54657-5943-4a45-a296-dc91c41109d4,211,cmm,common
+Cyclops Electromancer,Commander Masters,1,TRUE,0.02,Common,212,bd56c7dd-8388-400c-a8fb-bc6a69655c56,212,cmm,common
+"Daretti, Scrap Savant",Commander Masters,1,TRUE,1.13,Rare,213,7cb9d4a0-66bd-454d-b676-80192a96c723,213,cmm,rare
+Deflecting Swat,Commander Masters,1,TRUE,40.08,Rare,214,b4b36435-55b3-4615-8812-af41d4fc64d9,214,cmm,rare
+Disrupt Decorum,Commander Masters,1,FALSE,1.12,Rare,215,50359328-9378-448d-9817-805503186a55,215,cmm,rare
+Divergent Transformations,Commander Masters,1,FALSE,0.34,Rare,216,a1cd7456-71dd-463f-98a2-2d6a9cfb7395,216,cmm,rare
+Dragon Fodder,Commander Masters,1,TRUE,0.45,Common,217,41f4777d-ea0e-408c-961e-eef7b3ffe51d,217,cmm,common
+"Drakuseth, Maw of Flames",Commander Masters,1,TRUE,1.68,Rare,218,cbe78a66-2e72-4bd8-b8a4-db77a63f36b3,218,cmm,rare
+Dwarven Hammer,Commander Masters,1,TRUE,0.08,Common,219,c47f7ea0-3cda-4e62-bd10-32854ed2e260,219,cmm,common
+Faithless Looting,Commander Masters,1,TRUE,1.36,Common,220,bcf84ec7-a202-41fe-baa7-0b921bc67d1b,220,cmm,common
+Fiendlash,Commander Masters,1,TRUE,0.29,Uncommon,221,7ff6fab0-7872-445d-a514-774ecccd2355,221,cmm,uncommon
+Fiery Confluence,Commander Masters,1,FALSE,0.80,Rare,222,bed7ef7f-bb40-4e1b-8635-e2226a05ac38,222,cmm,rare
+Fists of Flame,Commander Masters,1,TRUE,0.00,Common,223,6b34af88-bc4e-4ca8-8662-7dc4050c62c5,223,cmm,common
+Frontier Warmonger,Commander Masters,1,TRUE,0.20,Uncommon,224,39282507-8921-43e3-a836-f73ba6da5623,224,cmm,uncommon
+Furious Rise,Commander Masters,1,TRUE,0.09,Uncommon,225,1f5da1ab-d720-4140-8121-89de760d020c,225,cmm,uncommon
+Gargadon,Commander Masters,1,TRUE,0.02,Common,226,079d5536-1b2e-4d5b-bae9-9fd14562087a,226,cmm,common
+"Godo, Bandit Warlord",Commander Masters,1,TRUE,2.10,Rare,227,01d566cf-cb32-461d-8afe-b0f3f4c24160,227,cmm,rare
+Guttersnipe,Commander Masters,1,TRUE,0.20,Common,229,a4276d10-d163-4068-a6db-5bb0a1ac88e3,229,cmm,common
+Havoc Jester,Commander Masters,1,FALSE,0.20,Uncommon,230,a7790d21-4751-4f1b-a7f4-2bbcf842b0b6,230,cmm,uncommon
+Heartless Hidetsugu,Commander Masters,1,TRUE,2.23,Rare,231,7b3ff07c-9653-4197-ad3d-638e712e8465,231,cmm,rare
+Hellkite Charger,Commander Masters,1,TRUE,1.61,Rare,232,6836c646-83ff-4bf8-96dd-4cbdd6c7e861,232,cmm,rare
+Hoarding Dragon,Commander Masters,1,TRUE,0.15,Uncommon,233,42363046-28d4-4540-a0d0-3635459ba769,233,cmm,uncommon
+Impulsive Pilferer,Commander Masters,1,TRUE,0.11,Common,234,aea2e32d-d711-40ae-87d5-c16893bfc8ca,234,cmm,common
+Inferno Titan,Commander Masters,1,FALSE,0.33,Rare,235,9ee80c14-5857-4752-b958-a51cf6706c96,235,cmm,rare
+Insurrection,Commander Masters,1,TRUE,7.83,Mythic Rare,236,df8a0a8c-1953-46e6-9da5-b4c20909ce1c,236,cmm,mythic
+"Kazuul, Tyrant of the Cliffs",Commander Masters,1,TRUE,0.22,Uncommon,237,9a7c54ed-594d-40d7-a64a-a57db6d5ba16,237,cmm,uncommon
+"Krenko, Mob Boss",Commander Masters,1,FALSE,2.02,Rare,238,27141cae-3ca1-4a4f-933f-9608bbcf9bd9,238,cmm,rare
+Living Lightning,Commander Masters,1,FALSE,0.15,Common,239,457dc72b-e97a-4308-855f-a1aa528423e0,239,cmm,common
+Living Lightning,Commander Masters,1,TRUE,0.07,Common,239,457dc72b-e97a-4308-855f-a1aa528423e0,239,cmm,common
+Loyal Apprentice,Commander Masters,1,TRUE,3.27,Uncommon,240,95a692fb-7ef7-4fae-b258-8719711cf38c,240,cmm,uncommon
+Magus of the Wheel,Commander Masters,1,FALSE,0.55,Rare,241,0e952dd9-ef09-40f0-993f-eb3a1516616a,241,cmm,rare
+Makeshift Munitions,Commander Masters,1,TRUE,0.12,Common,242,60715b6d-b223-431a-85d8-27d7c05469b2,242,cmm,common
+Meteoric Mace,Commander Masters,1,TRUE,0.08,Uncommon,243,c502ba85-7246-4652-9ab6-5672f7e490bb,243,cmm,uncommon
+"Neheb, the Eternal",Commander Masters,1,FALSE,2.20,Mythic Rare,244,a98695d3-a8ec-43f0-9a2a-fef4566f3a2f,244,cmm,mythic
+"Purphoros, God of the Forge",Commander Masters,1,TRUE,22.12,Mythic Rare,246,4736a2c4-c89c-48db-a104-6303e7e2eee8,246,cmm,mythic
+Rakka Mar,Commander Masters,1,FALSE,0.25,Uncommon,247,cd36b274-5b76-44ec-8d62-069b08debe89,247,cmm,uncommon
+Rakka Mar,Commander Masters,1,TRUE,0.10,Uncommon,247,cd36b274-5b76-44ec-8d62-069b08debe89,247,cmm,uncommon
+Rapacious Dragon,Commander Masters,1,TRUE,0.15,Common,248,4020485e-aacc-45dc-bdc0-9f70e35b88b2,248,cmm,common
+Rapacious One,Commander Masters,1,FALSE,0.20,Common,249,2f8e2ef7-fabd-4ae9-8224-5acb3fd7d1ae,249,cmm,common
+Rapacious One,Commander Masters,1,TRUE,0.12,Common,249,2f8e2ef7-fabd-4ae9-8224-5acb3fd7d1ae,249,cmm,common
+Ravaging Blaze,Commander Masters,1,TRUE,0.10,Uncommon,250,ae28c04c-d208-4949-a3ec-7d549f5740c3,250,cmm,uncommon
+Rorix Bladewing,Commander Masters,1,TRUE,0.17,Uncommon,251,32668329-2f62-48ed-8da3-3cb0c3692ed9,251,cmm,uncommon
+Skyline Despot,Commander Masters,1,TRUE,0.94,Uncommon,254,4e080dc5-361e-4e0b-b0d6-9ca060edceed,254,cmm,uncommon
+Slice and Dice,Commander Masters,1,TRUE,0.10,Uncommon,255,dad077c9-abc7-4296-a5d1-9441aa6c38c0,255,cmm,uncommon
+Spikeshot Goblin,Commander Masters,1,TRUE,0.08,Common,256,ae922301-181d-4824-802d-e3ba1714cade,256,cmm,common
+Spitebellows,Commander Masters,1,TRUE,0.11,Common,257,e35c0bea-c956-412a-b30b-9f75207cd493,257,cmm,common
+"Squee, Goblin Nabob",Commander Masters,1,TRUE,0.20,Uncommon,258,12d6d674-40aa-42d7-88b3-f65603ecaa1e,258,cmm,uncommon
+Star of Extinction,Commander Masters,1,TRUE,1.10,Rare,259,526d13cb-3616-4ac8-9ac0-04c729d447b2,259,cmm,rare
+"Subira, Tulzidi Caravanner",Commander Masters,1,FALSE,0.25,Uncommon,261,da62b97e-e4cd-462d-9ab9-2230ca360c32,261,cmm,uncommon
+"Subira, Tulzidi Caravanner",Commander Masters,1,TRUE,0.15,Uncommon,261,da62b97e-e4cd-462d-9ab9-2230ca360c32,261,cmm,uncommon
+Sulfurous Blast,Commander Masters,1,TRUE,0.11,Common,262,dabae267-54fa-4e6d-8f7d-15152fe37397,262,cmm,common
+Tempt with Vengeance,Commander Masters,1,TRUE,2.73,Rare,263,808af8d4-1872-466e-a2d2-e73ecef09ed7,263,cmm,rare
+Temur Battle Rage,Commander Masters,1,TRUE,0.21,Common,264,375bc646-942e-4bf5-9c71-2c5471828e35,264,cmm,common
+Treasure Nabber,Commander Masters,1,TRUE,1.70,Rare,265,5facc43f-f865-45ad-888b-398f6e07b947,265,cmm,rare
+"Zada, Hedron Grinder",Commander Masters,1,TRUE,0.11,Uncommon,268,4520cdcc-a10f-4b39-9c6f-ba86f6aa2c87,268,cmm,uncommon
+Abundant Harvest,Commander Masters,1,TRUE,0.05,Common,269,516e137a-d9d9-4ba7-89fb-e680ddb2c2d1,269,cmm,common
+Acidic Slime,Commander Masters,1,TRUE,0.15,Uncommon,270,932d48fb-42b5-4aaa-a91c-d35cdb5e41a3,270,cmm,uncommon
+Animal Magnetism,Commander Masters,1,FALSE,0.15,Uncommon,271,c64860ab-9b10-4587-a1db-05b3797df3a7,271,cmm,uncommon
+Arachnogenesis,Commander Masters,1,FALSE,2.74,Rare,272,ef6b1fd8-7c0b-4736-a100-cabd82052227,272,cmm,rare
+Armorcraft Judge,Commander Masters,1,TRUE,0.13,Uncommon,273,5b76074c-65ca-40e9-b125-4668d3431820,273,cmm,uncommon
+"Azusa, Lost but Seeking",Commander Masters,1,FALSE,9.18,Rare,274,2fe97fbe-a6d6-4e96-8c26-f81bcdf579a1,274,cmm,rare
+Beanstalk Giant // Fertile Footsteps,Commander Masters,1,TRUE,0.17,Uncommon,275,dfd6b4bc-70da-4d93-bdf7-78ba176a764f,275,cmm,uncommon
+Bloodspore Thrinax,Commander Masters,1,TRUE,0.29,Rare,276,6efe9126-15ba-468e-a15a-7f9cbb779cf6,276,cmm,rare
+Broken Wings,Commander Masters,1,TRUE,0.02,Common,277,608e5d6f-c050-44d9-8a5c-09c07786b6ab,277,cmm,common
+Courage in Crisis,Commander Masters,1,TRUE,0.06,Common,278,b836b0a9-c38b-423a-bf22-c9041acf1952,278,cmm,common
+Crash of Rhino Beetles,Commander Masters,1,TRUE,0.10,Common,279,e7b17222-db06-41cc-a4d2-aae625cb1929,279,cmm,common
+Craterhoof Behemoth,Commander Masters,1,FALSE,37.00,Mythic Rare,280,e8f4435a-8604-45b5-a537-dfdfcb922e16,280,cmm,mythic
+Crawling Infestation,Commander Masters,1,TRUE,0.14,Common,281,3a404d9b-02dd-45bc-b3eb-bc28452da22e,281,cmm,common
+Deadly Recluse,Commander Masters,1,TRUE,0.15,Common,282,d432d17e-052b-4a81-bad8-14babf6e593f,282,cmm,common
+Doubling Season,Commander Masters,1,FALSE,32.00,Mythic Rare,283,1cdd8e69-5a71-4933-914e-dfede7b1ac93,283,cmm,mythic
+Elvish Mystic,Commander Masters,1,TRUE,1.00,Common,284,75918859-c93f-41b4-9ad0-a4a96c389f0d,284,cmm,common
+Entourage of Trest,Commander Masters,1,TRUE,0.08,Common,285,78075b31-8145-4053-90dd-6a34bd48fa7c,285,cmm,common
+Eternal Witness,Commander Masters,1,TRUE,1.25,Uncommon,286,39704000-65d3-4d39-849e-a3b617376bbc,286,cmm,uncommon
+Fierce Empath,Commander Masters,1,TRUE,0.21,Common,288,b4a8684b-5164-4313-ab3e-4c5b4f52bc7e,288,cmm,common
+Finale of Devastation,Commander Masters,1,TRUE,28.54,Mythic Rare,289,b10d99bf-b2ce-4443-b924-ff0eb8be1033,289,cmm,mythic
+Fungal Plots,Commander Masters,1,TRUE,0.17,Uncommon,291,783fb92d-6de6-49f5-a204-5bcf577c9640,291,cmm,uncommon
+"Ghalta, Primal Hunger",Commander Masters,1,FALSE,1.99,Rare,292,54872e72-41dc-4092-8169-ce13498beb30,292,cmm,rare
+"Goreclaw, Terror of Qal Sisma",Commander Masters,1,TRUE,0.51,Uncommon,293,ee47f23a-3ba9-4615-b170-c89d8ab99d78,293,cmm,uncommon
+The Great Henge,Commander Masters,1,FALSE,57.68,Mythic Rare,294,6340e0f3-7f9c-4d71-8daf-e1be5505eb5b,294,cmm,mythic
+Heroic Intervention,Commander Masters,1,FALSE,11.76,Rare,295,e32c67d1-187f-40df-b3b3-6036f5c92834,295,cmm,rare
+Hunter's Insight,Commander Masters,1,TRUE,0.33,Uncommon,296,de399acd-e792-4f4a-8025-434f1080c0fc,296,cmm,uncommon
+Ilysian Caryatid,Commander Masters,1,TRUE,0.22,Common,297,3db65137-c9d6-4352-b7a0-f3968b167233,297,cmm,common
+Jade Mage,Commander Masters,1,TRUE,0.16,Uncommon,298,995140fa-dc1f-4b75-9cea-079ea03c485f,298,cmm,uncommon
+"Jolrael, Mwonvuli Recluse",Commander Masters,1,TRUE,0.13,Rare,299,96c66316-a4cc-43e9-b354-03a34c1b12a7,299,cmm,rare
+Kodama's Reach,Commander Masters,1,TRUE,2.73,Common,300,ababe16b-9359-44cb-81fb-e0b3a42b46bd,300,cmm,common
+Kozilek's Predator,Commander Masters,1,TRUE,0.07,Common,301,fa828bc7-0f5a-45de-9608-da42dda8f3f9,301,cmm,common
+Krosan Tusker,Commander Masters,1,TRUE,0.05,Common,302,0a368f72-cc88-4f32-aad4-22d92c4d032d,302,cmm,common
+Lifeblood Hydra,Commander Masters,1,FALSE,4.08,Rare,303,2b726c03-07e8-4a9b-bdac-dc50218626a3,303,cmm,rare
+Loyal Guardian,Commander Masters,1,TRUE,0.30,Uncommon,304,08edd941-5ecc-4015-bd5d-e2eebfbf2ba6,304,cmm,uncommon
+"Molimo, Maro-Sorcerer",Commander Masters,1,TRUE,0.08,Uncommon,305,6c5d3eba-e456-47c2-992b-a97ba66e9676,305,cmm,uncommon
+"Mowu, Loyal Companion",Commander Masters,1,TRUE,0.20,Uncommon,306,890e50ae-39e6-435b-95e7-885f2b314ecf,306,cmm,uncommon
+Obscuring Haze,Commander Masters,1,FALSE,2.75,Rare,308,21c8e59c-edf1-4b4d-982d-3c891e7b96ba,308,cmm,rare
+Ohran Frostfang,Commander Masters,1,TRUE,4.65,Rare,309,0d2fbeb1-6446-48ca-afe1-d1869a36e389,309,cmm,rare
+"Omnath, Locus of Mana",Commander Masters,1,FALSE,2.81,Mythic Rare,310,acf0cab3-da50-4561-8797-cd179af39216,310,cmm,mythic
+Pollenbright Druid,Commander Masters,1,TRUE,0.10,Common,312,e8215686-bf19-4090-87c1-dd4f691f2ae7,312,cmm,common
+Predatory Rampage,Commander Masters,1,TRUE,0.08,Uncommon,313,2078908d-63ab-47f3-b01c-7c84e3f578b8,313,cmm,uncommon
+Ram Through,Commander Masters,1,TRUE,2.65,Common,314,44063a90-e4cf-4bcd-a128-792de15371a7,314,cmm,common
+Regal Behemoth,Commander Masters,2,FALSE,0.69,Rare,316,9510e5ff-901a-42c9-b11f-5f71e2475504,316,cmm,rare
+"Rishkar, Peema Renegade",Commander Masters,1,TRUE,0.33,Uncommon,317,88f4aecc-b728-4960-8131-1e5aa6c3c030,317,cmm,uncommon
+Rot Shambler,Commander Masters,1,TRUE,0.07,Common,318,6e13e1c2-376f-4ce6-bdc0-e000e99e5b9c,318,cmm,common
+"Sakiko, Mother of Summer",Commander Masters,1,FALSE,0.45,Rare,319,8dbdb5f5-cd6e-47cd-b83d-ff71b00c369e,319,cmm,rare
+Skyshroud Claim,Commander Masters,1,TRUE,6.12,Common,321,a0e12f0e-ab41-4413-8b88-9bde907fab22,321,cmm,common
+Skysnare Spider,Commander Masters,1,TRUE,0.04,Common,322,ff737c53-9489-4a8c-8fa1-5d108222ae3f,322,cmm,common
+Snakeskin Veil,Commander Masters,1,TRUE,0.12,Common,323,2ad012c2-e6d9-448f-b204-14a2c55ff74f,323,cmm,common
+Song of the Dryads,Commander Masters,1,FALSE,4.22,Rare,324,161e66e3-0339-495c-bd06-0a799a254906,324,cmm,rare
+Stonehoof Chieftain,Commander Masters,1,FALSE,2.86,Rare,325,3451dd0f-8cea-409f-8d56-f13e6aa424f6,325,cmm,rare
+"Surrak, the Hunt Caller",Commander Masters,1,TRUE,0.15,Uncommon,326,71590b6f-9f38-4c5d-8431-50e5f02f8c93,326,cmm,uncommon
+Tooth and Nail,Commander Masters,1,FALSE,1.62,Rare,327,df359b98-9f8f-4f32-82c6-f10ca0f81032,327,cmm,rare
+Tuskguard Captain,Commander Masters,1,TRUE,0.10,Common,328,be1165a2-e697-4ceb-91ba-693a3a006f27,328,cmm,common
+Verdant Confluence,Commander Masters,1,FALSE,0.30,Rare,329,512f3b28-ea20-4bad-8fab-5996e0fc1b62,329,cmm,rare
+Verdeloth the Ancient,Commander Masters,1,TRUE,0.22,Uncommon,330,980b31eb-a9cd-44d2-8755-9323bb4de2f0,330,cmm,uncommon
+Wildwood Scourge,Commander Masters,1,TRUE,0.20,Uncommon,332,bb35e40f-bbcf-4e2b-9603-7719c74dc076,332,cmm,uncommon
+"Yedora, Grave Gardener",Commander Masters,1,TRUE,0.19,Uncommon,333,5bc9808d-1d47-417d-bba8-06694a83d88e,333,cmm,uncommon
+"Yisan, the Wanderer Bard",Commander Masters,1,FALSE,0.30,Rare,334,94e3a130-deeb-4bf4-a1f6-9219c3d8c373,334,cmm,rare
+"Akiri, Fearless Voyager",Commander Masters,1,TRUE,0.88,Uncommon,335,fa135775-abcd-4a21-abb7-3aeb5a39df28,335,cmm,uncommon
+"Aryel, Knight of Windgrace",Commander Masters,1,TRUE,0.21,Uncommon,336,216d7afe-3acf-4293-b474-8b27730cdefb,336,cmm,uncommon
+Experiment Kraj,Commander Masters,1,FALSE,0.39,Rare,337,6d938197-2557-421a-985e-5add932d4bac,337,cmm,rare
+"Gisela, Blade of Goldnight",Commander Masters,1,TRUE,2.45,Rare,338,c40ba800-4423-4fd9-94c7-a9019c857af6,338,cmm,rare
+"Hamza, Guardian of Arashin",Commander Masters,1,TRUE,0.25,Uncommon,339,adc7f8f3-140d-4dd0-aacc-b81b2b93eb67,339,cmm,uncommon
+"Hanna, Ship's Navigator",Commander Masters,1,TRUE,0.36,Rare,340,65b41982-6e79-4e04-a0f3-d985da92e8c1,340,cmm,rare
+"Judith, the Scourge Diva",Commander Masters,1,TRUE,0.18,Uncommon,341,d6fb929c-1b8d-4d1d-aa69-ac6189cd7ebf,341,cmm,uncommon
+"Karador, Ghost Chieftain",Commander Masters,1,TRUE,0.29,Rare,342,8d128887-13fb-4e54-90f2-d3c46b7b29d7,342,cmm,rare
+"Kykar, Wind's Fury",Commander Masters,1,TRUE,0.41,Rare,343,fdb034c8-bae0-4f66-98f1-1b3cdc072f17,343,cmm,rare
+Maelstrom Wanderer,Commander Masters,1,TRUE,2.41,Rare,344,a49c58b3-180f-420b-b091-114fda000360,344,cmm,rare
+"Melek, Izzet Paragon",Commander Masters,1,TRUE,0.21,Uncommon,345,66011fe8-8c5d-4990-a324-5839515dcacb,345,cmm,uncommon
+Meren of Clan Nel Toth,Commander Masters,1,FALSE,3.61,Rare,346,34d627b3-a6d0-4f5f-b7c2-351a07318966,346,cmm,rare
+"Mirri, Weatherlight Duelist",Commander Masters,1,TRUE,5.20,Rare,347,db44fe95-6a32-4d6f-a32f-72491381f495,347,cmm,rare
+Mizzix of the Izmagnus,Commander Masters,1,TRUE,0.45,Rare,348,82f949d0-41a0-4491-9057-bfb2bb20bdb3,348,cmm,rare
+"Nekusar, the Mindrazer",Commander Masters,1,FALSE,2.23,Rare,349,4afdc65d-3c97-47af-83fa-df340389802e,349,cmm,rare
+Queen Marchesa,Commander Masters,1,TRUE,3.69,Rare,350,567697db-8d47-404f-b0da-b00409431f28,350,cmm,rare
+"Raff Capashen, Ship's Mage",Commander Masters,1,TRUE,0.12,Uncommon,351,c681e33b-3d60-4aaa-8186-51866d8b79d1,351,cmm,uncommon
+Rafiq of the Many,Commander Masters,1,TRUE,0.23,Rare,352,ebdd967d-b364-47ad-a1c2-49b155f72c5b,352,cmm,rare
+The Scarab God,Commander Masters,1,TRUE,11.91,Mythic Rare,353,f4f414ef-84a2-4694-9e98-51bee4576c84,353,cmm,mythic
+"Sek'Kuar, Deathkeeper",Commander Masters,1,TRUE,0.25,Rare,354,a873dbe5-d95a-4ecb-ac0a-8dc6c40f3576,354,cmm,rare
+"Sidisi, Brood Tyrant",Commander Masters,1,FALSE,0.40,Rare,355,6b8e44d4-db67-4bf4-97c0-ffe6a0eb2954,355,cmm,rare
+"Slimefoot, the Stowaway",Commander Masters,1,TRUE,0.18,Uncommon,356,cb12173d-3afb-4e8b-b612-fa7737a8c6c2,356,cmm,uncommon
+"Taigam, Sidisi's Hand",Commander Masters,1,TRUE,0.11,Uncommon,357,6336b0af-3c7d-4b8e-a0e7-d4d15078fc04,357,cmm,uncommon
+"Tatyova, Benthic Druid",Commander Masters,1,TRUE,0.24,Uncommon,358,cd82bff9-8061-48c0-a7c3-fee17acee22a,358,cmm,uncommon
+Teysa Karlov,Commander Masters,1,FALSE,1.04,Rare,359,cd14f1ce-7fcd-485c-b7ca-01c5b45fdc01,359,cmm,rare
+Tuya Bearclaw,Commander Masters,1,TRUE,0.06,Uncommon,360,e146e10c-3104-442d-9383-0f670960180d,360,cmm,uncommon
+The Ur-Dragon,Commander Masters,1,FALSE,23.00,Mythic Rare,361,10d42b35-844f-4a64-9981-c6118d45e826,361,cmm,mythic
+"Xantcha, Sleeper Agent",Commander Masters,1,FALSE,0.80,Rare,362,91316746-ec2b-4c1a-b9c4-a870d6318c33,362,cmm,rare
+"Yennett, Cryptic Sovereign",Commander Masters,1,FALSE,0.26,Rare,363,28ee11c9-fa23-4863-8a18-25a008f18da5,363,cmm,rare
+"Yuriko, the Tiger's Shadow",Commander Masters,1,FALSE,2.39,Rare,364,fe9be3e0-076c-4703-9750-2a6b0a178bc9,364,cmm,rare
+"Zilortha, Strength Incarnate",Commander Masters,1,FALSE,0.49,Rare,366,84e4e130-df21-4491-97c3-1b643d7e57ef,366,cmm,rare
+Arcane Signet,Commander Masters,1,TRUE,3.53,Uncommon,367,0539b83c-4459-41b5-a001-d15a1c9ddf23,367,cmm,uncommon
+Ashnod's Altar,Commander Masters,1,FALSE,7.99,Uncommon,368,3c0f7157-a375-499c-92c7-d47d2e95dbad,368,cmm,uncommon
+Assault Suit,Commander Masters,1,TRUE,0.15,Uncommon,369,92b22076-b04e-4d65-9d9c-d3e4c7a3cf1c,369,cmm,uncommon
+Bonder's Ornament,Commander Masters,1,TRUE,0.13,Common,370,89486719-4aba-4465-986b-fecbe4d409a1,370,cmm,common
+Boompile,Commander Masters,1,FALSE,0.49,Rare,371,dbfe710f-5e92-4be9-9f2f-363af767a91e,371,cmm,rare
+Brass Knuckles,Commander Masters,1,TRUE,0.13,Common,372,63f4448c-a946-45a3-9bce-0d82105e7cc1,372,cmm,common
+Campfire,Commander Masters,1,TRUE,0.28,Common,374,34b64d10-c012-4370-b475-755c4025a348,374,cmm,common
+Champion's Helm,Commander Masters,1,TRUE,2.84,Rare,375,c6548a30-577a-47e7-aa6e-8f6db1f7b78e,375,cmm,rare
+Chromatic Lantern,Commander Masters,1,TRUE,3.10,Rare,376,3969c209-09f3-4429-91c1-d5aeab9de2ec,376,cmm,rare
+Commander's Sphere,Commander Masters,1,TRUE,2.13,Common,377,6f432741-54b3-499e-9809-5a670433a297,377,cmm,common
+Darksteel Ingot,Commander Masters,1,TRUE,0.22,Common,378,afc439e0-59a8-4eb3-ac54-ab908c4ec50b,378,cmm,common
+Emerald Medallion,Commander Masters,1,TRUE,2.96,Rare,379,ba578d94-6f49-45f5-b6e2-1090c05acc4a,379,cmm,rare
+Explorer's Scope,Commander Masters,1,TRUE,0.13,Common,380,be120499-fe2f-4c21-982c-566d0dbbddff,380,cmm,common
+Extraplanar Lens,Commander Masters,1,TRUE,8.98,Mythic Rare,381,f050a675-c6a2-4d0d-bac6-1d8c51ecf824,381,cmm,mythic
+Fellwar Stone,Commander Masters,1,TRUE,3.44,Uncommon,382,fad9cac1-8b2b-42d6-9f0b-d679689ba862,382,cmm,uncommon
+Firemind Vessel,Commander Masters,1,TRUE,0.39,Common,383,165eee28-202d-4543-87b4-b9d39e8c8472,383,cmm,common
+Forebear's Blade,Commander Masters,1,TRUE,0.23,Uncommon,384,2570fb88-358f-4f36-87e3-d8375824d126,384,cmm,uncommon
+Foundry Inspector,Commander Masters,1,TRUE,4.69,Common,385,16debeb1-fb2b-4172-b6da-726416d4fb38,385,cmm,common
+Geode Golem,Commander Masters,1,TRUE,6.00,Uncommon,386,fa912283-c28e-4594-aca9-21d82d8cf006,386,cmm,uncommon
+Gilded Lotus,Commander Masters,1,TRUE,2.38,Rare,387,eea7554e-be86-4d0f-8e80-0ccb4c2cd2f1,387,cmm,rare
+Hammer of Nazahn,Commander Masters,1,TRUE,15.71,Rare,388,e77a8ac1-f40d-423e-a0b3-0a8e236a6c1e,388,cmm,rare
+Haunted Cloak,Commander Masters,1,TRUE,0.36,Common,389,abffd0a3-ea7a-43cf-b92d-d9f436bef58e,389,cmm,common
+Heart-Piercer Bow,Commander Masters,1,TRUE,0.08,Common,390,b26a42c6-fc98-4993-891c-7ac6a0735543,390,cmm,common
+Hero's Blade,Commander Masters,1,TRUE,0.22,Uncommon,391,6da612ec-983b-4a7b-8d52-b853a4c565de,391,cmm,uncommon
+Idol of Oblivion,Commander Masters,1,TRUE,3.05,Rare,392,8235349d-0f92-4af4-ab8d-2f645fe32934,392,cmm,rare
+The Immortal Sun,Commander Masters,1,FALSE,15.30,Mythic Rare,393,88f68d45-a6cd-437d-a4b1-2787891f0128,393,cmm,mythic
+Inspiring Statuary,Commander Masters,1,TRUE,0.50,Rare,394,d18446a7-68db-4a0a-9f36-ddf840c3e2c8,394,cmm,rare
+Jet Medallion,Commander Masters,1,TRUE,6.17,Rare,395,58662f26-dd75-45a0-86cf-5949fbb76210,395,cmm,rare
+Jeweled Lotus,Commander Masters,1,TRUE,51.39,Mythic Rare,396,d7183700-6941-4a3d-a581-4f33bea795e9,396,cmm,mythic
+Letter of Acceptance,Commander Masters,1,TRUE,0.05,Common,397,ae094ace-1760-4bdd-a513-04616fb0deeb,397,cmm,common
+Lightning Greaves,Commander Masters,1,FALSE,5.25,Uncommon,398,331013f6-976a-4dac-9939-1006e474e108,398,cmm,uncommon
+Meteor Golem,Commander Masters,1,TRUE,0.26,Uncommon,399,cd7af704-a770-4f90-8fe8-a45457785a35,399,cmm,uncommon
+Myr Sire,Commander Masters,1,TRUE,0.12,Common,400,11ba43d1-e879-40e0-b49c-e009deb7e3aa,400,cmm,common
+Pearl Medallion,Commander Masters,1,FALSE,3.41,Rare,401,f256e868-92b5-4506-b409-9e1190b049dd,401,cmm,rare
+Pilgrim's Eye,Commander Masters,1,TRUE,0.03,Common,402,48bfc25b-f73c-431c-b173-adcd65c5d491,402,cmm,common
+Prismatic Lens,Commander Masters,1,TRUE,0.28,Common,403,ff8768a5-eba6-4585-a59b-19d1036cbfc0,403,cmm,common
+Ruby Medallion,Commander Masters,1,TRUE,5.93,Rare,405,c2feac9d-560e-4854-82ed-78a3088c3788,405,cmm,rare
+Sandstone Oracle,Commander Masters,1,TRUE,0.13,Uncommon,406,c7333ea3-2c98-405a-a5cc-eecba9b14a00,406,cmm,uncommon
+Sapphire Medallion,Commander Masters,1,FALSE,4.76,Rare,407,ed34e8de-d63a-4e4f-b9d4-80f66bb20641,407,cmm,rare
+Scytheclaw,Commander Masters,1,FALSE,0.26,Rare,408,a1fc07f5-170f-43a1-9f65-a3f702655226,408,cmm,rare
+Sol Ring,Commander Masters,1,FALSE,1.63,Uncommon,410,46ca0b66-a000-4483-b916-f5b89e710244,410,cmm,uncommon
+Spectral Searchlight,Commander Masters,1,TRUE,0.06,Uncommon,411,542eed4a-8a15-4829-8bc3-5637574e1398,411,cmm,uncommon
+Staunch Throneguard,Commander Masters,1,TRUE,0.14,Common,412,d60160a6-8786-4488-b373-6599221341e5,412,cmm,common
+Sword of the Animist,Commander Masters,1,TRUE,12.67,Rare,413,64401acc-d080-4763-b67a-95164c11c69e,413,cmm,rare
+Thought Vessel,Commander Masters,1,FALSE,1.45,Uncommon,414,4bfc5847-c3b4-41e7-8087-73ac4850bc1b,414,cmm,uncommon
+Thought Vessel,Commander Masters,1,TRUE,2.02,Uncommon,414,4bfc5847-c3b4-41e7-8087-73ac4850bc1b,414,cmm,uncommon
+Thran Dynamo,Commander Masters,1,TRUE,3.51,Uncommon,415,7ce5f12e-fc02-42f8-a5ca-b523050d4650,415,cmm,uncommon
+Unstable Obelisk,Commander Masters,1,TRUE,0.07,Common,416,94eba26e-7c9e-46f3-ad13-aa684f3365cb,416,cmm,common
+Vial of Dragonfire,Commander Masters,1,TRUE,0.06,Common,417,c924502b-a49e-4bf6-9e1a-9aa83f279228,417,cmm,common
+Vulshok Battlegear,Commander Masters,1,TRUE,0.07,Common,418,8363acf3-eff9-4f57-8b8a-683256d279e0,418,cmm,common
+Ash Barrens,Commander Masters,1,FALSE,0.23,Common,419,df0693ae-55f9-4864-b5db-383715a04d21,419,cmm,common
+Command Tower,Commander Masters,1,TRUE,1.57,Common,420,14019383-0327-404b-ab4d-c65c3fa8c50d,420,cmm,common
+Myriad Landscape,Commander Masters,1,TRUE,0.52,Uncommon,421,643f0ee9-9eba-4aa8-9f68-1f57313fc030,421,cmm,uncommon
+Opal Palace,Commander Masters,1,TRUE,0.23,Common,422,e64ed120-1e33-4e31-8f16-ba56497c3c84,422,cmm,common
+Path of Ancestry,Commander Masters,1,TRUE,0.24,Common,423,42522c12-874e-450f-bdea-901646eb2821,423,cmm,common
+Rejuvenating Springs,Commander Masters,1,TRUE,5.38,Rare,424,455be293-80cf-4bc6-8904-8dd21a2b9d19,424,cmm,rare
+Reliquary Tower,Commander Masters,1,FALSE,2.43,Uncommon,425,ec1d8a99-8a06-4e51-9277-96edb6899b29,425,cmm,uncommon
+Rogue's Passage,Commander Masters,1,TRUE,3.23,Uncommon,426,481c877e-0188-427f-8de2-25ad82d7cadb,426,cmm,uncommon
+Spectator Seating,Commander Masters,1,FALSE,9.10,Rare,427,dcf3140f-d5c8-45ff-8be4-622b1a129b3d,427,cmm,rare
+Terramorphic Expanse,Commander Masters,1,TRUE,0.39,Common,428,a04f0013-097c-46ec-9424-d5f417e6a9cf,428,cmm,common
+Thriving Bluff,Commander Masters,1,TRUE,0.17,Common,429,1270be49-a0d7-46cc-bf53-8172a3b5c6a6,429,cmm,common
+Thriving Grove,Commander Masters,1,TRUE,0.11,Common,430,343a1153-03d7-46d5-ad9a-65760eabed55,430,cmm,common
+Thriving Heath,Commander Masters,1,TRUE,0.14,Common,431,0c6f9b70-998c-4ecd-9094-f505692070de,431,cmm,common
+Thriving Isle,Commander Masters,1,TRUE,0.11,Common,432,2592bd6b-aea8-4fac-ad52-1801fcc7abe5,432,cmm,common
+Thriving Moor,Commander Masters,1,FALSE,0.20,Common,433,06a80fcc-b457-49c6-8c3a-0c5f58d74b2d,433,cmm,common
+Training Center,Commander Masters,1,FALSE,9.17,Rare,434,78a39d22-5e3b-4ba0-b728-dbf16b61fc8f,434,cmm,rare
+Training Center,Commander Masters,1,TRUE,11.10,Rare,434,78a39d22-5e3b-4ba0-b728-dbf16b61fc8f,434,cmm,rare
+Undergrowth Stadium,Commander Masters,1,FALSE,7.87,Rare,435,ae16c7da-912c-4d66-b1e7-17480cd3af99,435,cmm,rare
+Vault of Champions,Commander Masters,1,TRUE,9.39,Rare,436,cafd7db6-b04e-4fa2-bccd-981211132a93,436,cmm,rare
+Plains (437) (Retro Frame),Commander Masters Variants,1,TRUE,0.68,Basic Land,437,,,,
+Plains (438) (Retro Frame),Commander Masters Variants,1,TRUE,0.93,Basic Land,438,,,,
+Plains (439) (Retro Frame),Commander Masters Variants,1,TRUE,0.23,Basic Land,439,,,,
+Island (440) (Retro Frame),Commander Masters Variants,1,TRUE,0.90,Basic Land,440,,,,
+Island (441) (Retro Frame),Commander Masters Variants,1,TRUE,0.68,Basic Land,441,,,,
+Island (442) (Retro Frame),Commander Masters Variants,1,TRUE,0.49,Basic Land,442,,,,
+Swamp (443) (Retro Frame),Commander Masters Variants,1,TRUE,0.45,Basic Land,443,,,,
+Swamp (444) (Retro Frame),Commander Masters Variants,1,TRUE,2.50,Basic Land,444,,,,
+Swamp (445) (Retro Frame),Commander Masters Variants,1,TRUE,0.98,Basic Land,445,,,,
+Mountain (446) (Retro Frame),Commander Masters Variants,1,TRUE,0.54,Basic Land,446,,,,
+Mountain (447) (Retro Frame),Commander Masters Variants,1,TRUE,0.85,Basic Land,447,,,,
+Mountain (448) (Retro Frame),Commander Masters Variants,1,TRUE,0.28,Basic Land,448,,,,
+Forest (449) (Retro Frame),Commander Masters Variants,1,TRUE,0.40,Basic Land,449,,,,
+Forest (450) (Retro Frame),Commander Masters Variants,1,TRUE,1.12,Basic Land,450,,,,
+Forest (451) (Retro Frame),Commander Masters Variants,1,TRUE,0.47,Basic Land,451,,,,
+Alms Collector (Foil Etched),Commander Masters Variants,1,TRUE,3.24,Rare,455,,,,
+Angelic Field Marshal (Foil Etched),Commander Masters Variants,1,TRUE,5.28,Rare,456,,,,
+"Avacyn, Angel of Hope (Foil Etched)",Commander Masters Variants,1,TRUE,44.39,Mythic Rare,457,,,,
+"Heliod, Sun-Crowned (Foil Etched)",Commander Masters Variants,1,TRUE,11.83,Mythic Rare,462,,,,
+Loyal Retainers (Foil Etched),Commander Masters Variants,1,TRUE,2.54,Mythic Rare,465,,,,
+"Mangara, the Diplomat (Foil Etched)",Commander Masters Variants,1,TRUE,4.14,Rare,466,,,,
+"Odric, Master Tactician (Foil Etched)",Commander Masters Variants,1,TRUE,2.47,Rare,468,,,,
+Puresteel Paladin (Foil Etched),Commander Masters Variants,1,TRUE,4.60,Rare,469,,,,
+"Sephara, Sky's Blade (Foil Etched)",Commander Masters Variants,1,TRUE,16.31,Rare,471,,,,
+Sevinne's Reclamation (Foil Etched),Commander Masters Variants,1,TRUE,8.99,Rare,472,,,,
+Wrath of God (Foil Etched),Commander Masters Variants,1,TRUE,2.62,Rare,477,,,,
+Aminatou's Augury (Foil Etched),Commander Masters Variants,1,TRUE,3.00,Rare,479,,,,
+"Azami, Lady of Scrolls (Foil Etched)",Commander Masters Variants,1,TRUE,1.40,Rare,480,,,,
+Day's Undoing (Foil Etched),Commander Masters Variants,1,TRUE,3.75,Rare,486,,,,
+Faerie Artisans (Foil Etched),Commander Masters Variants,1,TRUE,2.97,Rare,488,,,,
+Minds Aglow (Foil Etched),Commander Masters Variants,1,TRUE,3.45,Rare,491,,,,
+Mystic Confluence (Foil Etched),Commander Masters Variants,1,TRUE,3.02,Rare,492,,,,
+Personal Tutor (Foil Etched),Commander Masters Variants,1,TRUE,7.47,Rare,493,,,,
+"Sai, Master Thopterist (Foil Etched)",Commander Masters Variants,1,TRUE,5.00,Rare,494,,,,
+"Talrand, Sky Summoner (Foil Etched)",Commander Masters Variants,1,TRUE,1.84,Rare,499,,,,
+"Teferi, Temporal Archmage (Foil Etched)",Commander Masters Variants,1,TRUE,3.54,Rare,500,,,,
+Archfiend of Despair (Foil Etched),Commander Masters Variants,1,TRUE,21.18,Mythic Rare,503,,,,
+Deadly Rollick (Foil Etched),Commander Masters Variants,1,TRUE,29.62,Rare,507,,,,
+Demonic Tutor (Foil Etched),Commander Masters Variants,1,TRUE,46.49,Mythic Rare,509,,,,
+Kindred Dominance (Foil Etched),Commander Masters Variants,1,TRUE,13.48,Rare,515,,,,
+Ogre Slumlord (Foil Etched),Commander Masters Variants,1,TRUE,2.41,Rare,518,,,,
+"Rankle, Master of Pranks (Foil Etched)",Commander Masters Variants,1,TRUE,3.69,Rare,519,,,,
+Rune-Scarred Demon (Foil Etched),Commander Masters Variants,1,TRUE,11.28,Rare,521,,,,
+Toxic Deluge (Foil Etched),Commander Masters Variants,1,TRUE,12.67,Rare,523,,,,
+Ashling the Pilgrim (Foil Etched),Commander Masters Variants,1,TRUE,2.48,Rare,528,,,,
+Avatar of Slaughter (Foil Etched),Commander Masters Variants,1,TRUE,0.29,Rare,529,,,,
+Disrupt Decorum (Foil Etched),Commander Masters Variants,1,TRUE,5.36,Rare,533,,,,
+"Godo, Bandit Warlord (Foil Etched)",Commander Masters Variants,1,TRUE,3.02,Rare,537,,,,
+"Grenzo, Havoc Raiser (Foil Etched)",Commander Masters Variants,1,TRUE,1.48,Rare,538,,,,
+Hellkite Charger (Foil Etched),Commander Masters Variants,1,TRUE,6.23,Rare,540,,,,
+Inferno Titan (Foil Etched),Commander Masters Variants,1,TRUE,0.27,Rare,541,,,,
+Treasure Nabber (Foil Etched),Commander Masters Variants,1,TRUE,3.27,Rare,552,,,,
+"Azusa, Lost but Seeking (Foil Etched)",Commander Masters Variants,1,TRUE,10.25,Rare,554,,,,
+Bloodspore Thrinax (Foil Etched),Commander Masters Variants,1,TRUE,1.01,Rare,555,,,,
+Doubling Season (Foil Etched),Commander Masters Variants,1,TRUE,44.31,Mythic Rare,557,,,,
+Ezuri's Predation (Foil Etched),Commander Masters Variants,1,TRUE,3.32,Rare,558,,,,
+Lifeblood Hydra (Foil Etched),Commander Masters Variants,1,TRUE,6.78,Rare,565,,,,
+Obscuring Haze (Foil Etched),Commander Masters Variants,1,TRUE,4.81,Rare,566,,,,
+Ohran Frostfang (Foil Etched),Commander Masters Variants,1,TRUE,5.99,Rare,567,,,,
+Regal Behemoth (Foil Etched),Commander Masters Variants,1,TRUE,1.23,Rare,569,,,,
+"Sakiko, Mother of Summer (Foil Etched)",Commander Masters Variants,1,TRUE,2.69,Rare,570,,,,
+Song of the Dryads (Foil Etched),Commander Masters Variants,1,TRUE,5.15,Rare,572,,,,
+Stonehoof Chieftain (Foil Etched),Commander Masters Variants,1,TRUE,4.36,Rare,573,,,,
+Verdant Confluence (Foil Etched),Commander Masters Variants,1,TRUE,0.39,Rare,575,,,,
+Experiment Kraj (Foil Etched),Commander Masters Variants,1,TRUE,2.02,Rare,578,,,,
+Maelstrom Wanderer (Foil Etched),Commander Masters Variants,1,TRUE,1.28,Rare,583,,,,
+Meren of Clan Nel Toth (Foil Etched),Commander Masters Variants,1,TRUE,8.60,Rare,584,,,,
+Mizzix of the Izmagnus (Foil Etched),Commander Masters Variants,1,TRUE,1.51,Rare,586,,,,
+"Nekusar, the Mindrazer (Foil Etched)",Commander Masters Variants,1,TRUE,4.17,Rare,587,,,,
+Queen Marchesa (Foil Etched),Commander Masters Variants,1,TRUE,4.12,Rare,588,,,,
+The Scarab God (Foil Etched),Commander Masters Variants,1,TRUE,18.66,Mythic Rare,590,,,,
+"Yennett, Cryptic Sovereign (Foil Etched)",Commander Masters Variants,1,TRUE,3.32,Rare,596,,,,
+"Zacama, Primal Calamity (Foil Etched)",Commander Masters Variants,1,TRUE,5.26,Rare,598,,,,
+"Zilortha, Strength Incarnate (Foil Etched)",Commander Masters Variants,1,TRUE,3.24,Rare,599,,,,
+Boompile (Foil Etched),Commander Masters Variants,1,TRUE,7.30,Rare,600,,,,
+Emerald Medallion (Foil Etched),Commander Masters Variants,1,TRUE,4.73,Rare,603,,,,
+Gilded Lotus (Foil Etched),Commander Masters Variants,1,TRUE,7.47,Rare,605,,,,
+Jet Medallion (Foil Etched),Commander Masters Variants,1,TRUE,9.30,Rare,610,,,,
+Pearl Medallion (Foil Etched),Commander Masters Variants,1,TRUE,4.80,Rare,612,,,,
+Ruby Medallion (Foil Etched),Commander Masters Variants,1,TRUE,11.35,Rare,613,,,,
+Sapphire Medallion (Foil Etched),Commander Masters Variants,1,TRUE,4.33,Rare,614,,,,
+Scytheclaw (Foil Etched),Commander Masters Variants,1,TRUE,0.41,Rare,615,,,,
+Rejuvenating Springs (Foil Etched),Commander Masters Variants,1,TRUE,7.89,Rare,617,,,,
+Training Center (Foil Etched),Commander Masters Variants,1,TRUE,11.02,Rare,619,,,,
+All That Glitters (Borderless),Commander Masters Variants,1,TRUE,0.37,Common,622,,,,
+Darksteel Mutation (Borderless),Commander Masters Variants,1,TRUE,2.88,Uncommon,623,,,,
+Generous Gift (Borderless),Commander Masters Variants,1,TRUE,0.94,Common,624,,,,
+Grand Abolisher (Borderless),Commander Masters Variants,1,TRUE,8.47,Rare,625,,,,
+Path to Exile (Borderless),Commander Masters Variants,1,TRUE,2.44,Uncommon,626,,,,
+Puresteel Paladin (Borderless),Commander Masters Variants,1,TRUE,2.89,Rare,627,,,,
+Return to Dust (Borderless),Commander Masters Variants,1,TRUE,0.28,Uncommon,628,,,,
+Steelshaper's Gift (Borderless),Commander Masters Variants,1,TRUE,3.74,Rare,629,,,,
+Counterspell (Borderless),Commander Masters Variants,1,TRUE,1.97,Common,630,,,,
+Fact or Fiction (Borderless),Commander Masters Variants,1,TRUE,0.42,Uncommon,631,,,,
+Frantic Search (Borderless),Commander Masters Variants,1,TRUE,0.35,Common,632,,,,
+Personal Tutor (Borderless),Commander Masters Variants,1,TRUE,3.73,Rare,633,,,,
+Reality Shift (Borderless),Commander Masters Variants,1,TRUE,1.05,Uncommon,634,,,,
+Spellseeker (Borderless),Commander Masters Variants,1,TRUE,12.33,Mythic Rare,635,,,,
+Bloodchief Ascension (Borderless),Commander Masters Variants,1,TRUE,14.66,Rare,636,,,,
+Dread Return (Borderless),Commander Masters Variants,1,TRUE,0.49,Common,637,,,,
+Exsanguinate (Borderless),Commander Masters Variants,1,FALSE,2.46,Uncommon,638,,,,
+Grave Pact (Borderless),Commander Masters Variants,1,TRUE,14.54,Mythic Rare,639,,,,
+Kindred Dominance (Borderless),Commander Masters Variants,1,TRUE,9.50,Rare,640,,,,
+Nadier's Nightblade (Borderless),Commander Masters Variants,1,TRUE,0.28,Common,641,,,,
+Faithless Looting (Borderless),Commander Masters Variants,1,TRUE,0.38,Common,642,,,,
+Magus of the Wheel (Borderless),Commander Masters Variants,1,TRUE,0.73,Rare,643,,,,
+Storm-Kiln Artist (Borderless),Commander Masters Variants,1,FALSE,2.48,Uncommon,644,,,,
+Treasure Nabber (Borderless),Commander Masters Variants,1,TRUE,1.55,Rare,645,,,,
+Arachnogenesis (Borderless),Commander Masters Variants,1,TRUE,3.55,Rare,647,,,,
+Elvish Mystic (Borderless),Commander Masters Variants,1,TRUE,1.02,Common,648,,,,
+Kodama's Reach (Borderless),Commander Masters Variants,1,TRUE,2.21,Common,649,,,,
+Ohran Frostfang (Borderless),Commander Masters Variants,1,TRUE,5.74,Rare,650,,,,
+Regal Behemoth (Borderless),Commander Masters Variants,1,TRUE,1.15,Rare,651,,,,
+Tooth and Nail (Borderless),Commander Masters Variants,1,TRUE,1.35,Rare,652,,,,
+Arcane Signet (Borderless),Commander Masters Variants,1,TRUE,6.55,Uncommon,653,,,,
+Champion's Helm (Borderless),Commander Masters Variants,1,TRUE,3.51,Rare,654,,,,
+Commander's Sphere (Borderless),Commander Masters Variants,1,FALSE,0.38,Common,655,,,,
+Extraplanar Lens (Borderless),Commander Masters Variants,1,TRUE,7.80,Mythic Rare,656,,,,
+Fellwar Stone (Borderless),Commander Masters Variants,1,FALSE,3.32,Uncommon,657,,,,
+Fellwar Stone (Borderless),Commander Masters Variants,1,TRUE,8.06,Uncommon,657,,,,
+Thran Dynamo (Borderless),Commander Masters Variants,1,TRUE,5.16,Uncommon,658,,,,
+Command Tower (Borderless),Commander Masters Variants,1,TRUE,3.77,Common,659,,,,
+Myriad Landscape (Borderless),Commander Masters Variants,1,TRUE,1.93,Uncommon,660,,,,
+Path of Ancestry (Borderless),Commander Masters Variants,1,TRUE,1.10,Common,661,,,,
+Rejuvenating Springs (Borderless),Commander Masters Variants,1,TRUE,6.28,Rare,662,,,,
+Reliquary Tower (Borderless),Commander Masters Variants,1,TRUE,7.69,Uncommon,663,,,,
+Spectator Seating (Borderless),Commander Masters Variants,1,TRUE,8.82,Rare,664,,,,
+Training Center (Borderless),Commander Masters Variants,1,TRUE,9.80,Rare,665,,,,
+Undergrowth Stadium (Borderless),Commander Masters Variants,1,TRUE,8.14,Rare,666,,,,
+Vault of Champions (Borderless),Commander Masters Variants,1,TRUE,9.19,Rare,667,,,,
+"Kozilek, the Great Distortion (Profile)",Commander Masters Variants,1,TRUE,4.53,Mythic Rare,668,,,,
+"Morophon, the Boundless (Profile)",Commander Masters Variants,1,FALSE,7.68,Mythic Rare,669,,,,
+"Ulamog, the Ceaseless Hunger (Profile)",Commander Masters Variants,1,TRUE,21.17,Mythic Rare,670,,,,
+"Kemba, Kha Regent (Profile)",Commander Masters Variants,1,TRUE,0.24,Uncommon,671,,,,
+"Azami, Lady of Scrolls (Profile)",Commander Masters Variants,1,FALSE,0.50,Rare,672,,,,
+"Talrand, Sky Summoner (Profile)",Commander Masters Variants,1,TRUE,1.49,Rare,673,,,,
+"Mikaeus, the Unhallowed (Profile)",Commander Masters Variants,1,TRUE,9.66,Mythic Rare,675,,,,
+"Shirei, Shizo's Caretaker (Profile)",Commander Masters Variants,1,FALSE,0.25,Uncommon,676,,,,
+"Grenzo, Havoc Raiser (Profile)",Commander Masters Variants,1,TRUE,0.75,Rare,677,,,,
+"Neheb, the Eternal (Profile)",Commander Masters Variants,1,TRUE,4.46,Mythic Rare,678,,,,
+"Azusa, Lost but Seeking (Profile)",Commander Masters Variants,1,TRUE,9.90,Rare,679,,,,
+"Omnath, Locus of Mana (Profile)",Commander Masters Variants,1,TRUE,3.68,Mythic Rare,680,,,,
+"Selvala, Heart of the Wilds (Profile)",Commander Masters Variants,1,FALSE,8.72,Mythic Rare,681,,,,
+"Gisela, Blade of Goldnight (Profile)",Commander Masters Variants,1,TRUE,2.69,Rare,682,,,,
+"Kykar, Wind's Fury (Profile)",Commander Masters Variants,1,TRUE,0.40,Rare,683,,,,
+Maelstrom Wanderer (Profile),Commander Masters Variants,1,TRUE,1.32,Rare,684,,,,
+Meren of Clan Nel Toth (Profile),Commander Masters Variants,1,TRUE,2.47,Rare,685,,,,
+"Slimefoot, the Stowaway (Profile)",Commander Masters Variants,1,TRUE,0.37,Uncommon,686,,,,
+"Tatyova, Benthic Druid (Profile)",Commander Masters Variants,1,TRUE,3.60,Uncommon,687,,,,
+Teysa Karlov (Profile),Commander Masters Variants,1,TRUE,0.82,Rare,688,,,,
+"Yuriko, the Tiger's Shadow (Profile)",Commander Masters Variants,1,TRUE,3.09,Rare,690,,,,
+"Zacama, Primal Calamity (Profile)",Commander Masters Variants,1,TRUE,3.96,Rare,691,,,,
+Flawless Maneuver (Frame Break),Commander Masters Variants,1,TRUE,14.33,Rare,692,,,,
+Smothering Tithe (Frame Break),Commander Masters Variants,1,TRUE,31.90,Mythic Rare,693,,,,
+Fierce Guardianship (Frame Break),Commander Masters Variants,1,TRUE,48.53,Rare,694,,,,
+Deadly Rollick (Frame Break),Commander Masters Variants,1,TRUE,32.96,Rare,695,,,,
+Balefire Dragon (Frame Break),Commander Masters Variants,1,TRUE,19.60,Mythic Rare,697,,,,
+Deflecting Swat (Frame Break),Commander Masters Variants,1,TRUE,60.80,Rare,698,,,,
+Finale of Devastation (Frame Break),Commander Masters Variants,1,FALSE,31.21,Mythic Rare,700,,,,
+Obscuring Haze (Frame Break),Commander Masters Variants,1,TRUE,3.81,Rare,701,,,,
+Jeweled Lotus (Frame Break),Commander Masters Variants,2,FALSE,72.00,Mythic Rare,702,,,,
+Jeweled Lotus (Frame Break),Commander Masters Variants,1,TRUE,84.19,Mythic Rare,702,,,,
+Sol Ring (Frame Break),Commander Masters Variants,1,FALSE,9.34,Uncommon,703,,,,

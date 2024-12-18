@@ -1,0 +1,10 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+Cathartic Reunion,Signature Spellbook: Chandra,1,FALSE,0.40,Rare,2,b36fa6f3-29e8-4788-bfcd-59576187c399,121,2xm,common
+"Chandra, Torch of Defiance",Signature Spellbook: Chandra,1,FALSE,2.25,Mythic Rare,1,2eac0eaa-55b2-444a-863d-c66769aab4ee,876,cmm,mythic
+Fiery Confluence,Signature Spellbook: Chandra,1,FALSE,0.84,Rare,3,b35459f8-2231-4b89-a222-45e94d1b01d9,226,lcc,rare
+Past in Flames,Signature Spellbook: Chandra,1,FALSE,2.16,Mythic Rare,4,2b7472f4-37b0-439f-b4ac-80706d40d191,105,mm3,mythic
+Pyroblast,Signature Spellbook: Chandra,1,FALSE,4.95,Rare,5,b029eb9a-dd7a-40c2-96c4-0063d9cc002c,142,ema,uncommon
+Pyromancer Ascension,Signature Spellbook: Chandra,1,FALSE,0.45,Rare,6,0f9cea68-4390-4d73-a374-d6299cbc9271,108,mm3,rare
+Pyromancer Ascension,Signature Spellbook: Chandra,1,TRUE,0.68,Rare,6,0f9cea68-4390-4d73-a374-d6299cbc9271,108,mm3,rare
+Rite of Flame,Signature Spellbook: Chandra,1,FALSE,4.73,Rare,7,c062caf7-f0eb-44db-9f74-e6711a13fada,96,csp,common
+Young Pyromancer,Signature Spellbook: Chandra,1,FALSE,0.50,Rare,8,f233a41f-106b-4bf0-a599-7ac5d83cfed5,185,otc,uncommon

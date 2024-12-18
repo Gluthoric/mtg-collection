@@ -1,0 +1,542 @@
+Name,Set,Qty,Foil,Avg Price,Rarity,Number,scryfall_id,collector_number,scryfall_set,scryfall_rarity
+"Davros, Dalek Creator",Doctor Who,1,TRUE,0.22,Mythic Rare,1,59c5bd2b-cf68-4e5e-819d-53917a6c5275,1,who,mythic
+The Fourth Doctor,Doctor Who,1,TRUE,0.23,Mythic Rare,2,c84ea0fd-efc7-4614-9f8f-41a3c71fceaa,2,who,mythic
+The Tenth Doctor,Doctor Who,1,TRUE,0.29,Mythic Rare,3,f1499f49-793b-4265-9ad0-883a431941ab,3,who,mythic
+The Thirteenth Doctor,Doctor Who,1,TRUE,0.26,Mythic Rare,4,0dc4ec90-1650-4b98-9350-66341394cf0b,4,who,mythic
+Rose Tyler,Doctor Who,1,TRUE,0.13,Rare,5,3aa8d034-f98c-4e27-b6af-850eadf59941,5,who,rare
+Sarah Jane Smith,Doctor Who,1,TRUE,0.13,Rare,6,1ba76f68-e647-4786-903c-92dbd3cef05d,6,who,rare
+Yasmin Khan,Doctor Who,1,TRUE,0.07,Rare,7,12b09a4f-bb62-4766-8115-cae4d5cc4c12,7,who,rare
+Banish to Another Universe,Doctor Who,1,TRUE,0.15,Uncommon,13,61f39d4c-af2d-486d-9408-b987474f8352,13,who,uncommon
+Crisis of Conscience,Doctor Who,1,TRUE,0.36,Rare,17,308d9672-58a7-4ec8-a20d-7054d76fde37,17,who,rare
+Four Knocks,Doctor Who,1,TRUE,1.03,Rare,20,02fe50fc-6c6c-43e7-ad0e-8f13a254da2a,20,who,rare
+Jo Grant,Doctor Who,1,TRUE,0.00,Rare,23,a4c73220-363e-44d7-b406-436246c02a75,23,who,rare
+Trial of a Time Lord,Doctor Who,1,TRUE,1.18,Rare,29,52b68ed3-0d26-4334-8d0c-2d28ced8ee4c,29,who,rare
+Wilfred Mott,Doctor Who,1,TRUE,0.30,Rare,32,10918b68-b442-4895-b8a6-57f65274a39e,32,who,rare
+Auton Soldier,Doctor Who,1,TRUE,12.34,Rare,36,4cc35b82-a233-4460-968e-d90980fb2074,36,who,rare
+Don't Blink,Doctor Who,1,TRUE,0.19,Uncommon,40,ef31cf95-6e1d-4786-ae92-e1eebdb1da13,40,who,uncommon
+The Eleventh Hour,Doctor Who,1,TRUE,0.82,Rare,41,ac5c90a9-697a-4bff-a738-0cebfb238bff,41,who,rare
+Flatline,Doctor Who,1,TRUE,0.53,Rare,43,baea4cd3-cc62-4138-ac2e-5c96c70bbcce,43,who,rare
+The Flood of Mars,Doctor Who,1,TRUE,1.66,Rare,45,8c3474c4-9466-46fc-8327-50950d75e79f,45,who,rare
+Martha Jones,Doctor Who,1,TRUE,2.38,Rare,48,2a9f97c9-825b-43dc-96a5-807d1a15fdce,48,who,rare
+Nyssa of Traken,Doctor Who,1,TRUE,0.34,Rare,51,bed41499-759d-4a3b-aabb-c462d5831956,51,who,rare
+Reverse the Polarity,Doctor Who,1,TRUE,2.03,Rare,54,76f3ea66-555c-490d-b34f-12c267bc4e9b,54,who,rare
+Star Whale,Doctor Who,1,TRUE,7.69,Uncommon,55,82dca4c3-efd6-4b6b-ac49-5a916135a592,55,who,uncommon
+Start the TARDIS,Doctor Who,1,TRUE,0.69,Uncommon,56,f3574926-dd5a-4997-b9e2-7b051bc59c57,56,who,uncommon
+Surge of Brilliance,Doctor Who,1,TRUE,3.43,Uncommon,57,0001c639-8bd0-426f-89cb-4ca61f3cc054,57,who,uncommon
+Traverse Eternity,Doctor Who,1,TRUE,1.20,Rare,60,f6570c23-f135-4e81-9a4c-934c298a51ad,60,who,rare
+Zygon Infiltrator,Doctor Who,1,TRUE,0.22,Uncommon,63,71b5538b-4561-4929-8e1c-9763e75cad0e,63,who,uncommon
+Dalek Squadron,Doctor Who,1,TRUE,1.36,Uncommon,65,76573f9d-f0f2-47b8-88e7-17d58d0d20d3,65,who,uncommon
+Doomsday Confluence,Doctor Who,1,TRUE,0.65,Rare,67,a4e86622-6f30-41b2-87d0-d345110e2387,67,who,rare
+This Is How It Ends,Doctor Who,1,TRUE,0.17,Rare,70,250f6265-c0c8-4f51-bea8-408caf0a58d8,70,who,rare
+The Toymaker's Trap,Doctor Who,1,TRUE,0.13,Rare,72,381de078-6eac-462c-b6d9-095779279d42,72,who,rare
+Vislor Turlough,Doctor Who,1,TRUE,0.86,Rare,74,f25ec946-036b-480a-bab6-c4102e5c31db,74,who,rare
+Bill Potts,Doctor Who,1,TRUE,0.14,Rare,76,74185710-3877-4080-b1d2-014fabbc7186,76,who,rare
+Coward // Killer,Doctor Who,1,TRUE,0.18,Rare,77,9e389269-deef-4c48-b6d1-c505bf7cc6b3,77,who,rare
+Decaying Time Loop,Doctor Who,1,TRUE,2.07,Uncommon,80,a0cedaa9-f08a-4d7b-8314-1d0a09a657bd,80,who,uncommon
+Donna Noble,Doctor Who,1,TRUE,0.92,Rare,82,b6ffec6a-fbba-46cc-becb-4ee5ef8c4971,82,who,rare
+Ensnared by the Mara,Doctor Who,1,TRUE,2.49,Rare,84,11454c82-3f1d-4456-8857-0dcb01d34298,84,who,rare
+Flaming Tyrannosaurus,Doctor Who,1,TRUE,5.95,Rare,85,0bc8ecfd-7388-4725-8c58-bed2cc61400f,85,who,rare
+Impending Flux,Doctor Who,1,TRUE,0.22,Rare,87,98cc159d-74f7-41fe-a866-c18d96219794,87,who,rare
+Into the Time Vortex,Doctor Who,1,TRUE,1.96,Rare,88,a4a3cb61-b760-4cd4-838c-b26310103719,88,who,rare
+Return the Past,Doctor Who,1,TRUE,2.04,Rare,92,74de4341-d10a-47c6-8a60-9dfa491f1d02,92,who,rare
+Ryan Sinclair,Doctor Who,1,TRUE,0.40,Rare,94,42684d97-fce6-4a96-9c64-20e2cb382dca,94,who,rare
+"Ace, Fearless Rebel",Doctor Who,1,TRUE,0.12,Rare,98,75f001a0-8393-4977-84bb-cde39740606c,98,who,rare
+City of Death,Doctor Who,1,TRUE,5.19,Rare,99,bd4d9b25-02ea-4ce3-a35f-7f427a74f591,99,who,rare
+Fugitive of the Judoon,Doctor Who,1,TRUE,0.27,Rare,103,e15f1891-4f80-4c68-8421-8e16ff8d6a6d,103,who,rare
+Graham O'Brien,Doctor Who,1,TRUE,0.27,Rare,104,3467d66e-1a81-40d6-945a-f2c679d214d1,104,who,rare
+"Leela, Sevateem Warrior",Doctor Who,1,TRUE,0.13,Rare,107,f5a4e5b5-70c8-4488-9e7d-7d68fe8219d7,107,who,rare
+"Alistair, the Brigadier",Doctor Who,1,TRUE,0.50,Rare,112,bf952d23-291d-42fa-8f2a-e4002a04b95f,112,who,rare
+"Duggan, Private Detective",Doctor Who,1,TRUE,0.82,Rare,123,ad21aafe-c093-40db-830e-da4c87055254,123,who,rare
+The Eighth Doctor,Doctor Who,1,TRUE,0.16,Rare,124,a26bf6fd-ced3-4c37-8adb-9a75c6d6d5cc,124,who,rare
+The Eleventh Doctor,Doctor Who,1,TRUE,0.19,Rare,125,590849a7-9abc-4757-8e13-f680d3b1dceb,125,who,rare
+The Fifth Doctor,Doctor Who,1,TRUE,0.18,Rare,127,2f548f4b-77b9-47bb-b262-a851fdf0124f,127,who,rare
+The First Doctor,Doctor Who,1,TRUE,0.13,Rare,128,b0b4d7db-56b1-4110-b4e4-11748201caf9,128,who,rare
+The Fugitive Doctor,Doctor Who,1,TRUE,0.29,Rare,130,fea8bd29-80a4-463f-b3bd-e15f4bd5f5ce,130,who,rare
+Great Intelligence's Plan,Doctor Who,1,TRUE,1.32,Uncommon,133,a798feb4-561b-4bb9-bdc9-771325faec57,133,who,uncommon
+Madame Vastra,Doctor Who,1,TRUE,0.21,Rare,142,94849571-928a-4c6d-9868-58f606941679,142,who,rare
+The Ninth Doctor,Doctor Who,1,TRUE,0.21,Rare,148,74785b3b-44df-4555-a036-082572b7f4e7,148,who,rare
+Regenerations Restored,Doctor Who,1,TRUE,0.31,Rare,151,3f7c35e0-b304-4b24-a8a1-5ccc4bb2aad0,151,who,rare
+Run for Your Life,Doctor Who,1,TRUE,0.20,Rare,154,95452998-7196-4a9b-b8a3-93cb3ec24f93,154,who,rare
+The Second Doctor,Doctor Who,1,TRUE,0.55,Rare,156,568c2687-4381-4954-9cab-f669d1fe6306,156,who,rare
+The Seventh Doctor,Doctor Who,1,TRUE,0.16,Rare,158,8dd6bfb3-1338-4ee6-9281-30a7428200d2,158,who,rare
+The Sixth Doctor,Doctor Who,1,TRUE,0.25,Rare,159,c045ccb2-28d1-4bbe-9feb-3e86988fd24d,159,who,rare
+"Strax, Sontaran Nurse",Doctor Who,1,TRUE,0.17,Rare,160,b4801775-70e2-4cda-959c-27f9aa623767,160,who,rare
+Sycorax Commander,Doctor Who,1,TRUE,0.25,Rare,161,3d27ceaf-f4cf-489b-b305-552a9d065584,161,who,rare
+The Third Doctor,Doctor Who,1,TRUE,0.17,Rare,162,2934f5e5-2274-4de7-a8c7-ca034f1fec29,162,who,rare
+Truth or Consequences,Doctor Who,1,TRUE,0.27,Uncommon,163,ce8771cc-1042-47b1-b4fa-459c3eeece04,163,who,uncommon
+The Twelfth Doctor,Doctor Who,1,TRUE,0.24,Rare,164,2400d681-05ef-43b1-b720-c15ca4226c27,164,who,rare
+The Valeyard,Doctor Who,1,TRUE,0.11,Rare,165,d63218a4-afaf-4ad8-9ca4-4f9af87877b9,165,who,rare
+Wreck and Rebuild,Doctor Who,1,TRUE,0.35,Uncommon,169,44e7d2ca-3fa9-4cb2-adc2-dae4e161f186,169,who,uncommon
+"Bessie, the Doctor's Roadster",Doctor Who,1,TRUE,0.50,Rare,171,e5bb585d-2b49-44a0-93d0-98dc8e0727c2,171,who,rare
+Clockwork Droid,Doctor Who,1,TRUE,0.22,Uncommon,172,9b4fa6d0-dc2d-4903-bbba-6cf83be2b187,172,who,uncommon
+Cyberman Patrol,Doctor Who,1,TRUE,5.53,Uncommon,174,566ae475-48cd-42d0-8d96-168529b2180d,174,who,uncommon
+Cybermat,Doctor Who,1,TRUE,0.30,Uncommon,175,db625a36-5b87-4ddd-8c9e-0969ff8e6488,175,who,uncommon
+The Moment,Doctor Who,1,TRUE,0.17,Rare,180,f233e7db-321f-4ab1-ae49-e45eae188f3f,180,who,rare
+Psychic Paper,Doctor Who,1,TRUE,0.58,Uncommon,181,eae12c61-0125-4810-b0e4-139c27b1b08b,181,who,uncommon
+River Song's Diary,Doctor Who,1,TRUE,1.28,Rare,182,96476a30-72b0-4f91-9d2d-85fc196f89c5,182,who,rare
+TARDIS,Doctor Who,1,TRUE,0.26,Uncommon,187,b059b1d8-3bfb-40c9-9344-addda43509ab,187,who,uncommon
+Gallifrey Council Chamber,Doctor Who,1,TRUE,0.29,Rare,188,83d990f5-a7b7-4482-95e6-b03a397192e2,188,who,rare
+Ominous Cemetery,Doctor Who,1,TRUE,0.23,Uncommon,189,2e843c57-fae3-4127-94e7-cad8c8bb9486,189,who,uncommon
+Trenzalore Clocktower,Doctor Who,1,TRUE,0.36,Rare,190,64444549-1198-4465-91d5-02a7903691dc,190,who,rare
+"Davros, Dalek Creator (Thick Stock)",Doctor Who,1,TRUE,0.14,Mythic Rare,192,,,,
+The Fourth Doctor (Thick Stock),Doctor Who,1,TRUE,0.12,Mythic Rare,193,,,,
+The Tenth Doctor (Thick Stock),Doctor Who,1,TRUE,0.17,Mythic Rare,194,,,,
+The Thirteenth Doctor (Thick Stock),Doctor Who,1,TRUE,0.16,Mythic Rare,195,,,,
+Plains (196),Doctor Who,1,TRUE,0.17,Basic Land,196,,,,
+Plains (197),Doctor Who,1,TRUE,0.34,Basic Land,197,,,,
+Island (198),Doctor Who,1,TRUE,0.26,Basic Land,198,,,,
+Island (199),Doctor Who,1,TRUE,0.53,Basic Land,199,,,,
+Swamp (200),Doctor Who,1,TRUE,0.26,Basic Land,200,,,,
+Swamp (201),Doctor Who,1,TRUE,0.32,Basic Land,201,,,,
+Mountain (202),Doctor Who,1,TRUE,0.14,Basic Land,202,,,,
+Mountain (203),Doctor Who,1,TRUE,0.21,Basic Land,203,,,,
+Forest (204),Doctor Who,1,TRUE,0.19,Basic Land,204,,,,
+Forest (205),Doctor Who,1,TRUE,0.24,Basic Land,205,,,,
+Day of Destiny,Doctor Who,1,TRUE,0.21,Rare,206,e0f2bd7a-4d14-43ef-b04a-3383aeae615c,206,who,rare
+Farewell,Doctor Who,1,TRUE,6.37,Rare,207,6c922516-7a2d-41a6-b546-4e73c5ccdb0b,207,who,rare
+Return to Dust,Doctor Who,1,TRUE,1.25,Uncommon,211,c516678c-37ce-4958-a149-aff03ef1dfd6,211,who,uncommon
+Swords to Plowshares,Doctor Who,1,TRUE,3.72,Uncommon,212,4bc8dea8-a6af-4bba-affa-92aca36a8413,212,who,uncommon
+Wedding Ring,Doctor Who,1,TRUE,5.08,Mythic Rare,213,6d8fd9a7-d1bd-43bd-a136-49dc26621e4d,213,who,mythic
+Think Twice,Doctor Who,1,TRUE,0.20,Common,220,988111df-e398-4e87-aaf9-5872f36710de,220,who,common
+Throes of Chaos,Doctor Who,1,TRUE,1.19,Uncommon,227,74881c8f-f21d-4901-90cf-2ae8d0f46c3d,227,who,uncommon
+Beast Within,Doctor Who,1,TRUE,9.36,Uncommon,228,05df0ecf-9161-4515-8511-fb042b9562ae,228,who,uncommon
+Carpet of Flowers,Doctor Who,1,TRUE,4.70,Rare,229,fd374915-323c-4d98-9b59-94d405c1dde8,229,who,rare
+Cultivate,Doctor Who,1,TRUE,1.86,Common,230,c6396ba2-ea82-4ca8-9848-08751a1bf45a,230,who,common
+Heroic Intervention,Doctor Who,1,TRUE,10.83,Rare,233,cd11d822-51c7-41dd-8f78-718d884019e8,233,who,rare
+Three Visits,Doctor Who,1,TRUE,7.24,Uncommon,235,fc20bfa9-6d55-49f4-a86a-8fb3b433ee29,235,who,uncommon
+Time Wipe,Doctor Who,1,TRUE,2.14,Rare,238,96e5358a-23b6-4dac-893e-48f4481609ab,238,who,rare
+Commander's Sphere,Doctor Who,1,TRUE,3.96,Common,240,331338ed-5b1e-4cc0-8a3f-ea43539b9346,240,who,common
+Hero's Blade,Doctor Who,1,TRUE,0.24,Uncommon,241,a84f5c57-0589-4eac-bad7-775122c767c1,241,who,uncommon
+Heroes' Podium,Doctor Who,1,TRUE,0.82,Rare,242,4503b65f-416e-49af-88c8-0871bca2c050,242,who,rare
+Sol Ring,Doctor Who,1,TRUE,4.03,Uncommon,245,0f44a54b-512e-45ef-80ee-7982d2eaf762,245,who,uncommon
+Talisman of Dominance,Doctor Who,1,TRUE,6.01,Uncommon,250,827edf4f-2442-4c9d-8aac-3dead3af3146,250,who,uncommon
+Talisman of Impulse,Doctor Who,1,TRUE,4.50,Uncommon,251,9d55e1f0-26ce-4ad2-b175-4c64a9638431,251,who,uncommon
+Talisman of Unity,Doctor Who,1,TRUE,2.54,Uncommon,254,a395b259-1f3f-43ab-9636-d1c218661c15,254,who,uncommon
+Thought Vessel,Doctor Who,1,TRUE,3.85,Uncommon,255,84506a3f-46ee-4482-9f7d-0409c2699ae4,255,who,uncommon
+Canopy Vista,Doctor Who,1,TRUE,1.33,Rare,258,11b93de5-52e6-4a30-88e9-e636f18dccc8,258,who,rare
+Celestial Colonnade,Doctor Who,1,TRUE,0.66,Rare,260,f5d71183-509f-40b8-85af-8f118cad5c13,260,who,rare
+Command Tower,Doctor Who,1,TRUE,7.44,Common,263,811d6e5d-c8a3-41ae-910e-e0f194f42292,263,who,common
+Creeping Tar Pit,Doctor Who,1,TRUE,1.29,Rare,267,254a6531-7cf7-4c74-9050-65fe4b273744,267,who,rare
+Deserted Beach,Doctor Who,1,TRUE,3.56,Rare,270,ed66e849-8fc9-46a1-9b8a-6845b5bc0734,270,who,rare
+Dragonskull Summit,Doctor Who,1,TRUE,1.91,Rare,272,787c5c8e-7274-4d74-8a8d-728b28ec0b71,272,who,rare
+Dreamroot Cascade,Doctor Who,1,TRUE,2.76,Rare,273,3a8c7416-c0af-419d-892a-ee989585bf79,273,who,rare
+Exotic Orchard,Doctor Who,1,TRUE,1.51,Rare,276,c2bc648d-def5-4442-9cfe-0f93fee631f4,276,who,rare
+Fiery Islet,Doctor Who,1,TRUE,2.07,Rare,278,daf68138-63c1-4201-998c-eb412463f664,278,who,rare
+Frontier Bivouac,Doctor Who,1,TRUE,5.43,Uncommon,281,cadb4128-62f4-47ea-8435-e06dfdb8e964,281,who,uncommon
+Frostboil Snarl,Doctor Who,1,TRUE,0.32,Rare,282,6e1d2c3d-e6ec-4130-8765-346adbb79d31,282,who,rare
+Horizon Canopy,Doctor Who,1,TRUE,3.83,Rare,287,3cf2baad-0160-419d-bba5-f4f35596aa61,287,who,rare
+Overgrown Farmland,Doctor Who,1,TRUE,4.51,Rare,292,e7790ee3-87dc-497f-87ea-9554ca67600d,292,who,rare
+Port Town,Doctor Who,1,TRUE,0.97,Rare,294,df58d745-2f08-447f-a7db-41765731e36c,294,who,rare
+Prairie Stream,Doctor Who,1,TRUE,0.41,Rare,295,e32fcfa0-50df-4815-ad8f-0e0db32c307b,295,who,rare
+River of Tears,Doctor Who,1,TRUE,0.33,Rare,297,f1ebb072-492c-4ec0-8b1d-f8ea48221647,297,who,rare
+Rockfall Vale,Doctor Who,1,TRUE,4.46,Rare,298,b782ea91-d31f-4862-8ec0-6e24ef40545c,298,who,rare
+Rogue's Passage,Doctor Who,1,TRUE,3.48,Uncommon,299,74f3b1cb-e436-40f9-904c-f5696aa6f383,299,who,uncommon
+Rootbound Crag,Doctor Who,1,TRUE,2.33,Rare,300,72232b23-d59b-4bf4-aa55-b8f5ab691504,300,who,rare
+Shadowblood Ridge,Doctor Who,1,TRUE,1.64,Rare,303,be9e7104-debd-474c-a602-3226dae5a553,303,who,rare
+Shipwreck Marsh,Doctor Who,1,TRUE,4.03,Rare,305,9d0dfc2d-5d13-4051-b24c-108b566b5e23,305,who,rare
+Smoldering Marsh,Doctor Who,1,TRUE,3.60,Rare,307,d1b65ecb-ace2-4247-a654-1e704d24319a,307,who,rare
+Temple of Abandon,Doctor Who,1,TRUE,0.32,Rare,313,b1511f21-d9ae-4949-859a-3246a01c1166,313,who,rare
+Temple of Deceit,Doctor Who,1,TRUE,0.55,Rare,314,cbbfbb9b-f2b8-42ed-89ba-c0d894e1e8d4,314,who,rare
+Temple of Malice,Doctor Who,1,TRUE,1.06,Rare,317,ee9fabb0-9f83-49a3-9da3-d2b1d89fdb61,317,who,rare
+Temple of Mystery,Doctor Who,1,TRUE,0.33,Rare,318,12f1a8ce-a7c2-4e74-a4f2-22c914e998c4,318,who,rare
+Temple of Plenty,Doctor Who,1,TRUE,0.37,Rare,319,9b6a47d5-e96b-4e90-8e63-a0e9376f2359,319,who,rare
+Temple of the False God,Doctor Who,1,TRUE,0.91,Uncommon,320,3ca70d08-1468-407d-80e6-a58c6655b4f0,320,who,uncommon
+Terramorphic Expanse,Doctor Who,1,TRUE,1.55,Common,322,fa85babf-6764-4cf7-9108-ec15cda6ada5,322,who,common
+Thriving Heath,Doctor Who,1,TRUE,0.25,Common,326,227d230b-43ac-4980-80b8-ae7b9aa63e6d,326,who,common
+Vineglimmer Snarl,Doctor Who,1,TRUE,0.25,Rare,329,ee44297b-fd89-4d95-a502-cdd98fd4fbc3,329,who,rare
+Clara Oswald (Extended Art),Doctor Who Variants,1,TRUE,4.12,Rare,332,,,,
+Barbara Wright (Extended Art),Doctor Who Variants,1,TRUE,0.52,Rare,335,,,,
+Crisis of Conscience (Extended Art),Doctor Who Variants,1,TRUE,0.37,Rare,337,,,,
+Everybody Lives! (Extended Art),Doctor Who Variants,1,FALSE,15.25,Rare,338,,,,
+Four Knocks (Extended Art),Doctor Who Variants,1,TRUE,0.60,Rare,340,,,,
+Ian Chesterton (Extended Art),Doctor Who Variants,1,TRUE,0.23,Rare,341,,,,
+Jo Grant (Extended Art),Doctor Who Variants,1,FALSE,0.28,Rare,342,,,,
+The Pandorica (Extended Art),Doctor Who Variants,1,TRUE,0.25,Rare,343,,,,
+Peri Brown (Extended Art),Doctor Who Variants,1,FALSE,0.50,Rare,344,,,,
+Sarah Jane Smith (Extended Art),Doctor Who Variants,1,FALSE,0.86,Rare,347,,,,
+Tegan Jovanka (Extended Art),Doctor Who Variants,1,FALSE,0.50,Rare,348,,,,
+Wilfred Mott (Extended Art),Doctor Who Variants,1,FALSE,0.47,Rare,350,,,,
+"Adric, Mathematical Genius (Extended Art)",Doctor Who Variants,1,FALSE,0.61,Rare,351,,,,
+"All of History, All at Once (Extended Art)",Doctor Who Variants,1,TRUE,0.27,Rare,352,,,,
+Auton Soldier (Extended Art),Doctor Who Variants,1,TRUE,10.74,Rare,353,,,,
+Become the Pilot (Extended Art),Doctor Who Variants,1,TRUE,0.22,Rare,354,,,,
+Five Hundred Year Diary (Extended Art),Doctor Who Variants,1,TRUE,2.09,Rare,357,,,,
+Flatline (Extended Art),Doctor Who Variants,1,TRUE,1.20,Rare,358,,,,
+Flesh Duplicate (Extended Art),Doctor Who Variants,1,TRUE,25.75,Rare,359,,,,
+The Flood of Mars (Extended Art),Doctor Who Variants,1,FALSE,1.52,Rare,360,,,,
+Nanogene Conversion (Extended Art),Doctor Who Variants,1,TRUE,6.04,Rare,364,,,,
+"Nardole, Resourceful Cyborg (Extended Art)",Doctor Who Variants,1,FALSE,0.40,Rare,365,,,,
+Nyssa of Traken (Extended Art),Doctor Who Variants,1,TRUE,0.24,Rare,366,,,,
+Quantum Misalignment (Extended Art),Doctor Who Variants,1,TRUE,6.35,Rare,368,,,,
+Dalek Drone (Extended Art),Doctor Who Variants,1,TRUE,1.14,Rare,371,,,,
+Doomsday Confluence (Extended Art),Doctor Who Variants,1,FALSE,0.58,Rare,372,,,,
+Time Reaper (Extended Art),Doctor Who Variants,1,FALSE,0.29,Rare,374,,,,
+The Toymaker's Trap (Extended Art),Doctor Who Variants,1,TRUE,0.27,Rare,375,,,,
+Vashta Nerada (Extended Art),Doctor Who Variants,1,TRUE,3.98,Rare,376,,,,
+Vislor Turlough (Extended Art),Doctor Who Variants,1,FALSE,0.50,Rare,377,,,,
+Amy Pond (Extended Art),Doctor Who Variants,1,TRUE,0.60,Rare,378,,,,
+Dan Lewis (Extended Art),Doctor Who Variants,1,TRUE,0.33,Rare,380,,,,
+Delete (Extended Art),Doctor Who Variants,1,FALSE,1.69,Rare,381,,,,
+Ensnared by the Mara (Extended Art),Doctor Who Variants,1,TRUE,2.80,Rare,384,,,,
+Return the Past (Extended Art),Doctor Who Variants,1,TRUE,1.25,Rare,388,,,,
+RMS Titanic (Extended Art),Doctor Who Variants,1,FALSE,3.24,Rare,389,,,,
+Ryan Sinclair (Extended Art),Doctor Who Variants,1,TRUE,0.37,Rare,390,,,,
+The Sound of Drums (Extended Art),Doctor Who Variants,1,TRUE,3.88,Rare,391,,,,
+"Ace, Fearless Rebel (Extended Art)",Doctor Who Variants,1,FALSE,0.30,Rare,393,,,,
+The Foretold Soldier (Extended Art),Doctor Who Variants,1,TRUE,0.33,Rare,395,,,,
+Graham O'Brien (Extended Art),Doctor Who Variants,1,TRUE,0.41,Rare,396,,,,
+"Leela, Sevateem Warrior (Extended Art)",Doctor Who Variants,1,TRUE,0.24,Rare,398,,,,
+Sisterhood of Karn (Extended Art),Doctor Who Variants,1,FALSE,0.35,Rare,399,,,,
+Susan Foreman (Extended Art),Doctor Who Variants,1,TRUE,0.28,Rare,400,,,,
+"Alistair, the Brigadier (Extended Art)",Doctor Who Variants,1,TRUE,0.31,Rare,401,,,,
+"Ashad, the Lone Cyberman (Extended Art)",Doctor Who Variants,1,FALSE,0.40,Rare,402,,,,
+"The Beast, Deathless Prince (Extended Art)",Doctor Who Variants,1,FALSE,0.63,Rare,403,,,,
+The Cyber-Controller (Extended Art),Doctor Who Variants,1,FALSE,1.43,Rare,405,,,,
+"Davros, Dalek Creator (Extended Art)",Doctor Who Variants,1,FALSE,0.64,Mythic Rare,407,,,,
+Dinosaurs on a Spaceship (Extended Art),Doctor Who Variants,1,TRUE,12.12,Rare,408,,,,
+The Eighth Doctor (Extended Art),Doctor Who Variants,1,TRUE,0.27,Rare,410,,,,
+The Eleventh Doctor (Extended Art),Doctor Who Variants,1,FALSE,1.48,Rare,411,,,,
+The Face of Boe (Extended Art),Doctor Who Variants,1,TRUE,0.18,Rare,412,,,,
+The Fifth Doctor (Extended Art),Doctor Who Variants,1,FALSE,0.40,Rare,413,,,,
+The First Doctor (Extended Art),Doctor Who Variants,1,TRUE,0.25,Rare,414,,,,
+Frost Fair Lure Fish (Extended Art),Doctor Who Variants,1,TRUE,0.18,Rare,416,,,,
+The Fugitive Doctor (Extended Art),Doctor Who Variants,1,TRUE,0.38,Rare,417,,,,
+Gallifrey Stands (Extended Art),Doctor Who Variants,1,FALSE,0.52,Rare,418,,,,
+"Idris, Soul of the TARDIS (Extended Art)",Doctor Who Variants,1,TRUE,0.16,Rare,419,,,,
+Jenny Flint (Extended Art),Doctor Who Variants,1,TRUE,0.30,Rare,420,,,,
+"Jenny, Generated Anomaly (Extended Art)",Doctor Who Variants,1,FALSE,0.37,Rare,421,,,,
+Madame Vastra (Extended Art),Doctor Who Variants,1,FALSE,0.35,Rare,425,,,,
+"The Master, Gallifrey's End (Extended Art)",Doctor Who Variants,1,TRUE,0.18,Rare,427,,,,
+"The Master, Mesmerist (Extended Art)",Doctor Who Variants,1,FALSE,0.30,Rare,428,,,,
+"Me, the Immortal (Extended Art)",Doctor Who Variants,1,FALSE,0.78,Rare,430,,,,
+Missy (Extended Art),Doctor Who Variants,1,TRUE,0.48,Rare,431,,,,
+The Ninth Doctor (Extended Art),Doctor Who Variants,1,TRUE,1.21,Rare,432,,,,
+The Rani (Extended Art),Doctor Who Variants,1,FALSE,0.35,Rare,433,,,,
+River Song (Extended Art),Doctor Who Variants,1,FALSE,0.70,Rare,436,,,,
+Sergeant John Benton (Extended Art),Doctor Who Variants,1,TRUE,0.69,Rare,441,,,,
+The Seventh Doctor (Extended Art),Doctor Who Variants,1,FALSE,0.39,Rare,442,,,,
+"Strax, Sontaran Nurse (Extended Art)",Doctor Who Variants,1,TRUE,0.22,Rare,444,,,,
+Sycorax Commander (Extended Art),Doctor Who Variants,1,TRUE,0.23,Rare,445,,,,
+The Third Doctor (Extended Art),Doctor Who Variants,1,TRUE,0.32,Rare,447,,,,
+The Twelfth Doctor (Extended Art),Doctor Who Variants,1,TRUE,1.07,Rare,449,,,,
+The Valeyard (Extended Art),Doctor Who Variants,1,FALSE,0.29,Rare,450,,,,
+"Vrestin, Menoptra Leader (Extended Art)",Doctor Who Variants,1,TRUE,0.43,Rare,451,,,,
+Ace's Baseball Bat (Extended Art),Doctor Who Variants,1,FALSE,0.35,Rare,454,,,,
+Cybermen Squadron (Extended Art),Doctor Who Variants,1,TRUE,13.77,Rare,457,,,,
+Cybership (Extended Art),Doctor Who Variants,1,FALSE,1.62,Rare,458,,,,
+Rotating Fireplace (Extended Art),Doctor Who Variants,1,TRUE,0.31,Rare,461,,,,
+Day of Destiny (Extended Art),Doctor Who Variants,1,FALSE,0.27,Rare,464,,,,
+Farewell (Extended Art),Doctor Who Variants,1,TRUE,6.79,Rare,465,,,,
+Grasp of Fate (Extended Art),Doctor Who Variants,1,TRUE,0.26,Rare,466,,,,
+Out of Time (Extended Art),Doctor Who Variants,1,TRUE,0.19,Rare,467,,,,
+Wedding Ring (Extended Art),Doctor Who Variants,1,TRUE,4.69,Mythic Rare,468,,,,
+As Foretold (Extended Art),Doctor Who Variants,1,FALSE,0.58,Rare,469,,,,
+Inspiring Refrain (Extended Art),Doctor Who Variants,1,FALSE,0.40,Rare,470,,,,
+Blasphemous Act (Extended Art),Doctor Who Variants,1,FALSE,4.05,Rare,472,,,,
+Chaos Warp (Extended Art),Doctor Who Variants,1,FALSE,1.29,Rare,473,,,,
+Fractured Identity (Extended Art),Doctor Who Variants,1,TRUE,0.27,Rare,477,,,,
+Heroes' Podium (Extended Art),Doctor Who Variants,1,TRUE,0.27,Rare,479,,,,
+Solemn Simulacrum (Extended Art),Doctor Who Variants,1,FALSE,0.93,Rare,480,,,,
+Canopy Vista (Extended Art),Doctor Who Variants,1,TRUE,2.65,Rare,481,,,,
+Canyon Slough (Extended Art),Doctor Who Variants,1,TRUE,0.28,Rare,482,,,,
+Celestial Colonnade (Extended Art),Doctor Who Variants,1,TRUE,0.29,Rare,483,,,,
+Choked Estuary (Extended Art),Doctor Who Variants,1,TRUE,0.52,Rare,484,,,,
+Cinder Glade (Extended Art),Doctor Who Variants,1,FALSE,2.00,Rare,485,,,,
+Creeping Tar Pit (Extended Art),Doctor Who Variants,1,TRUE,0.28,Rare,486,,,,
+Darkwater Catacombs (Extended Art),Doctor Who Variants,1,TRUE,0.31,Rare,487,,,,
+Deserted Beach (Extended Art),Doctor Who Variants,1,TRUE,3.34,Rare,488,,,,
+Desolate Lighthouse (Extended Art),Doctor Who Variants,1,TRUE,0.16,Rare,489,,,,
+Dragonskull Summit (Extended Art),Doctor Who Variants,1,TRUE,2.92,Rare,490,,,,
+Dreamroot Cascade (Extended Art),Doctor Who Variants,1,TRUE,3.70,Rare,491,,,,
+Drowned Catacomb (Extended Art),Doctor Who Variants,1,TRUE,3.87,Rare,492,,,,
+Exotic Orchard (Extended Art),Doctor Who Variants,1,TRUE,7.19,Rare,493,,,,
+Fiery Islet (Extended Art),Doctor Who Variants,1,TRUE,2.09,Rare,495,,,,
+Foreboding Ruins (Extended Art),Doctor Who Variants,1,TRUE,0.42,Rare,496,,,,
+Fortified Village (Extended Art),Doctor Who Variants,1,FALSE,0.94,Rare,497,,,,
+Frostboil Snarl (Extended Art),Doctor Who Variants,1,TRUE,0.30,Rare,498,,,,
+Game Trail (Extended Art),Doctor Who Variants,1,TRUE,0.91,Rare,500,,,,
+Glacial Fortress (Extended Art),Doctor Who Variants,1,FALSE,2.48,Rare,501,,,,
+Haunted Ridge (Extended Art),Doctor Who Variants,1,TRUE,5.39,Rare,502,,,,
+Horizon Canopy (Extended Art),Doctor Who Variants,1,TRUE,2.88,Rare,503,,,,
+Irrigated Farmland (Extended Art),Doctor Who Variants,1,TRUE,0.28,Rare,504,,,,
+Lavaclaw Reaches (Extended Art),Doctor Who Variants,1,TRUE,0.21,Rare,505,,,,
+Overgrown Farmland (Extended Art),Doctor Who Variants,1,FALSE,4.09,Rare,506,,,,
+Port Town (Extended Art),Doctor Who Variants,1,TRUE,1.50,Rare,507,,,,
+Prairie Stream (Extended Art),Doctor Who Variants,1,TRUE,0.90,Rare,508,,,,
+River of Tears (Extended Art),Doctor Who Variants,1,TRUE,0.50,Rare,509,,,,
+Rockfall Vale (Extended Art),Doctor Who Variants,1,TRUE,2.17,Rare,510,,,,
+Rootbound Crag (Extended Art),Doctor Who Variants,1,FALSE,2.75,Rare,511,,,,
+Scattered Groves (Extended Art),Doctor Who Variants,1,TRUE,0.32,Rare,512,,,,
+Shadowblood Ridge (Extended Art),Doctor Who Variants,1,TRUE,0.29,Rare,513,,,,
+Sheltered Thicket (Extended Art),Doctor Who Variants,1,TRUE,0.30,Rare,514,,,,
+Shipwreck Marsh (Extended Art),Doctor Who Variants,1,FALSE,4.13,Rare,515,,,,
+Skycloud Expanse (Extended Art),Doctor Who Variants,1,FALSE,0.47,Rare,516,,,,
+Smoldering Marsh (Extended Art),Doctor Who Variants,1,TRUE,1.33,Rare,517,,,,
+Stormcarved Coast (Extended Art),Doctor Who Variants,1,TRUE,3.61,Rare,518,,,,
+Sunbaked Canyon (Extended Art),Doctor Who Variants,1,TRUE,3.89,Rare,519,,,,
+Sundown Pass (Extended Art),Doctor Who Variants,1,TRUE,6.47,Rare,520,,,,
+Sungrass Prairie (Extended Art),Doctor Who Variants,1,TRUE,0.28,Rare,521,,,,
+Sunken Hollow (Extended Art),Doctor Who Variants,1,TRUE,1.73,Rare,522,,,,
+Temple of Abandon (Extended Art),Doctor Who Variants,1,TRUE,0.24,Rare,523,,,,
+Temple of Enlightenment (Extended Art),Doctor Who Variants,1,TRUE,0.35,Rare,525,,,,
+Temple of Epiphany (Extended Art),Doctor Who Variants,1,FALSE,0.50,Rare,526,,,,
+Temple of Malice (Extended Art),Doctor Who Variants,1,TRUE,0.36,Rare,527,,,,
+Temple of Mystery (Extended Art),Doctor Who Variants,1,FALSE,0.50,Rare,528,,,,
+Temple of Plenty (Extended Art),Doctor Who Variants,1,TRUE,0.36,Rare,529,,,,
+Temple of Triumph (Extended Art),Doctor Who Variants,1,TRUE,0.30,Rare,530,,,,
+Thespian's Stage (Extended Art),Doctor Who Variants,1,TRUE,3.15,Rare,531,,,,
+Vineglimmer Snarl (Extended Art),Doctor Who Variants,1,FALSE,0.66,Rare,532,,,,
+War Room (Extended Art),Doctor Who Variants,1,TRUE,2.97,Rare,533,,,,
+Waterlogged Grove (Extended Art),Doctor Who Variants,1,TRUE,1.89,Rare,534,,,,
+Rose Tyler (Showcase),Doctor Who Variants,1,TRUE,0.37,Rare,535,,,,
+Sarah Jane Smith (Showcase),Doctor Who Variants,1,TRUE,0.44,Rare,536,,,,
+"K-9, Mark I (Showcase)",Doctor Who Variants,1,TRUE,2.39,Rare,537,,,,
+Dalek Squadron (Showcase),Doctor Who Variants,1,TRUE,0.39,Uncommon,538,,,,
+Yasmin Khan (Showcase),Doctor Who Variants,1,TRUE,0.21,Rare,539,,,,
+"Davros, Dalek Creator (Showcase)",Doctor Who Variants,1,FALSE,0.45,Mythic Rare,540,,,,
+"The Master, Formed Anew (Showcase)",Doctor Who Variants,1,FALSE,0.35,Rare,542,,,,
+"The Master, Gallifrey's End (Showcase)",Doctor Who Variants,1,TRUE,0.19,Rare,543,,,,
+"The Master, Mesmerist (Showcase)",Doctor Who Variants,1,FALSE,0.35,Rare,544,,,,
+"The Master, Multiplied (Showcase)",Doctor Who Variants,1,FALSE,1.37,Rare,545,,,,
+Missy (Showcase),Doctor Who Variants,1,FALSE,0.43,Rare,546,,,,
+River Song (Showcase),Doctor Who Variants,1,TRUE,0.45,Rare,547,,,,
+The War Doctor (Showcase),Doctor Who Variants,1,FALSE,0.99,Rare,548,,,,
+Weeping Angel (Showcase),Doctor Who Variants,1,FALSE,0.56,Rare,549,,,,
+Cyberman Patrol (Showcase),Doctor Who Variants,1,TRUE,4.23,Uncommon,550,,,,
+TARDIS (Showcase),Doctor Who Variants,1,TRUE,2.17,Uncommon,551,,,,
+The First Doctor (Showcase),Doctor Who Variants,1,TRUE,0.52,Rare,552,,,,
+The Second Doctor (Showcase),Doctor Who Variants,1,TRUE,1.87,Rare,553,,,,
+The Third Doctor (Showcase),Doctor Who Variants,1,FALSE,0.47,Rare,554,,,,
+The Fourth Doctor (Showcase),Doctor Who Variants,1,TRUE,0.80,Mythic Rare,555,,,,
+The Fifth Doctor (Showcase),Doctor Who Variants,1,TRUE,0.40,Rare,556,,,,
+The Sixth Doctor (Showcase),Doctor Who Variants,1,FALSE,0.85,Rare,557,,,,
+The Seventh Doctor (Showcase),Doctor Who Variants,1,TRUE,0.41,Rare,558,,,,
+The Eighth Doctor (Showcase),Doctor Who Variants,1,TRUE,0.45,Rare,559,,,,
+The Ninth Doctor (Showcase),Doctor Who Variants,1,TRUE,1.48,Rare,560,,,,
+The Tenth Doctor (Showcase),Doctor Who Variants,1,TRUE,3.51,Mythic Rare,561,,,,
+The Eleventh Doctor (Showcase),Doctor Who Variants,1,TRUE,0.92,Rare,562,,,,
+The Twelfth Doctor (Showcase),Doctor Who Variants,1,TRUE,0.92,Rare,563,,,,
+The Thirteenth Doctor (Showcase),Doctor Who Variants,1,TRUE,1.57,Mythic Rare,564,,,,
+Amy's Home,Doctor Who,1,FALSE,0.93,Common,566,ac0615cc-860a-4fed-9e9c-4377ba8ed22a,566,who,common
+Antarctic Research Base,Doctor Who,1,FALSE,0.39,Common,567,3cc61f60-2f9d-4f67-8390-62873b4b8ddb,567,who,common
+Aplan Mortarium,Doctor Who,1,FALSE,0.47,Common,568,855978a6-c81c-4e5e-a34f-41a54fef0c10,568,who,common
+Bad Wolf Bay,Doctor Who,1,FALSE,1.15,Common,569,a068875e-9294-403d-a6db-15092b6c42d3,569,who,common
+Besieged Viking Village,Doctor Who,1,FALSE,0.59,Common,570,8bb62bd5-79e5-4af0-aafd-c1bd53765c67,570,who,common
+Bowie Base One,Doctor Who,1,FALSE,0.52,Common,571,22e3ec5a-4bd5-452f-873a-3801253754dd,571,who,common
+Caught in a Parallel Universe,Doctor Who,1,FALSE,0.37,Common,572,d8ddc6d0-50cc-4914-a6f2-00fb93d4402a,572,who,common
+The Cave of Skulls,Doctor Who,1,FALSE,0.39,Common,573,74560139-0870-4184-887b-72d67c57b6ed,573,who,common
+The Cheetah Planet,Doctor Who,1,FALSE,0.39,Common,574,4b6bd680-18c6-46d9-b747-825fb0fee6dd,574,who,common
+City of the Daleks,Doctor Who,1,FALSE,0.47,Common,575,4f82f5b7-b4b9-489a-bbd7-98faaa566515,575,who,common
+Coal Hill School,Doctor Who,1,FALSE,0.29,Common,576,82e09673-c7f0-4377-abbd-b1ea4922d4b3,576,who,common
+Dalek Intensive Care,Doctor Who,1,FALSE,0.52,Common,577,13dd9d2c-f1d3-4dbf-8101-e4fab9f42e40,577,who,common
+The Dining Car,Doctor Who,1,FALSE,0.40,Common,578,bf6193ea-4906-4097-8e30-431220f9e35c,578,who,common
+The Doctor's Childhood Barn,Doctor Who,1,FALSE,0.49,Common,579,f4c583ab-ad15-436b-9151-8b4d212cbeda,579,who,common
+The Doctor's Tomb,Doctor Who,1,FALSE,0.50,Common,580,2456bb33-6380-4b4d-bf23-7b071fc22be2,580,who,common
+"The Drum, Mining Facility",Doctor Who,1,FALSE,0.51,Common,581,9fdb7dca-017a-49a7-b8de-4a8ccf7ac679,581,who,common
+Fixed Point in Time,Doctor Who,1,FALSE,0.52,Common,582,a05478f9-3a9a-4887-a8e7-63550eaa6030,582,who,common
+Gardens of Tranquil Repose,Doctor Who,1,FALSE,0.39,Common,583,eb753c00-303d-49f3-ad98-b7772cc4a274,583,who,common
+Hotel of Fears,Doctor Who,1,FALSE,0.60,Common,584,8b164271-6438-4135-b7a9-8573c3921052,584,who,common
+Human-Time Lord Meta-Crisis,Doctor Who,1,FALSE,0.61,Common,585,f5def75a-f511-42e8-a652-7de4abfbd968,585,who,common
+Kerblam! Warehouse,Doctor Who,1,FALSE,0.50,Common,586,4c46b6c1-0c84-4bd3-b317-9b8191ad937e,586,who,common
+Lake Silencio,Doctor Who,1,FALSE,0.56,Common,587,45091d2b-d872-4beb-af87-7675aaf0c2c8,587,who,common
+The Lux Foundation Library,Doctor Who,1,FALSE,0.67,Common,588,c3cd9db0-b417-42e8-b3be-00fdc9330014,588,who,common
+The Matrix of Time,Doctor Who,1,FALSE,0.74,Common,589,c343b9dd-edce-46ee-bdd6-f240cf061d59,589,who,common
+Mondassian Colony Ship,Doctor Who,1,FALSE,0.63,Common,590,ba6728e1-12f0-40a7-90f9-520f3572b190,590,who,common
+The Moonbase,Doctor Who,1,FALSE,0.55,Common,591,b715df92-e504-4844-9d74-6f4965fd32ee,591,who,common
+New New York,Doctor Who,1,FALSE,0.66,Common,592,5185dfce-d3ad-4509-b356-f6750d7c6a09,592,who,common
+North Pole Research Base,Doctor Who,1,FALSE,0.48,Common,593,6489955c-1571-41dd-9419-5c071a8b3e30,593,who,common
+Ood Sphere,Doctor Who,1,FALSE,0.55,Common,594,642c9e68-4d5f-4e7f-894b-56dec4081fc7,594,who,common
+Pompeii,Doctor Who,1,FALSE,0.52,Common,595,a549ee7a-276b-45eb-a2c7-f74c85dc6a0d,595,who,common
+Prime Minister's Cabinet Room,Doctor Who,1,FALSE,0.57,Common,596,291478b8-a8f6-4449-8cd8-9d70484d3398,596,who,common
+The Pyramid of Mars,Doctor Who,1,FALSE,0.39,Common,597,8aec22c6-4986-45aa-9b6b-8517bbbaed4e,597,who,common
+Singing Towers of Darillium,Doctor Who,1,FALSE,0.41,Common,598,b30f88bd-426a-48fb-a921-c7c5831120bd,598,who,common
+Spectrox Mines,Doctor Who,1,FALSE,0.37,Common,599,84933e48-8b10-4ccf-a7e8-140fbb9c0c9b,599,who,common
+Stormcage Containment Facility,Doctor Who,1,FALSE,0.45,Common,600,5665c85f-f564-47fe-a123-4e5a70e179d9,600,who,common
+TARDIS Bay,Doctor Who,1,FALSE,0.40,Common,601,0e2d8456-6e3c-42ee-8bd4-215db5fbda98,601,who,common
+Temple of Atropos,Doctor Who,1,FALSE,0.50,Common,602,75481e04-ab27-4fdd-b789-4a53ffc92430,602,who,common
+Two Streams Facility,Doctor Who,1,FALSE,0.47,Common,603,40732207-291c-4cea-be87-dd4dbb8b6259,603,who,common
+UNIT Headquarters,Doctor Who,1,FALSE,0.39,Common,604,9f7ec46f-1499-4c75-8568-d9266a3d1e69,604,who,common
+Unleash the Flux,Doctor Who,1,FALSE,0.46,Common,605,8e3c04ad-a8b5-453a-aff4-dce743b1c693,605,who,common
+The Fourth Doctor (Surge Foil),Doctor Who Variants,1,TRUE,0.38,Mythic Rare,607,,,,
+The Tenth Doctor (Surge Foil),Doctor Who Variants,1,TRUE,1.82,Mythic Rare,608,,,,
+Yasmin Khan (Surge Foil),Doctor Who Variants,1,TRUE,0.39,Rare,612,,,,
+Barbara Wright (Surge Foil),Doctor Who Variants,1,TRUE,1.51,Rare,619,,,,
+Crack in Time (Surge Foil),Doctor Who Variants,1,TRUE,0.40,Rare,621,,,,
+Crisis of Conscience (Surge Foil),Doctor Who Variants,1,TRUE,0.73,Rare,622,,,,
+Tegan Jovanka (Surge Foil),Doctor Who Variants,1,TRUE,1.04,Rare,633,,,,
+Become the Pilot (Surge Foil),Doctor Who Variants,1,TRUE,0.29,Rare,642,,,,
+Nanogene Conversion (Surge Foil),Doctor Who Variants,1,TRUE,6.72,Rare,654,,,,
+"Nardole, Resourceful Cyborg (Surge Foil)",Doctor Who Variants,1,TRUE,0.58,Rare,655,,,,
+Star Whale (Surge Foil),Doctor Who Variants,1,TRUE,13.47,Uncommon,660,,,,
+"Wibbly-wobbly, Timey-wimey (Surge Foil)",Doctor Who Variants,1,TRUE,4.80,Common,667,,,,
+Zygon Infiltrator (Surge Foil),Doctor Who Variants,1,TRUE,3.24,Uncommon,668,,,,
+Dalek Drone (Surge Foil),Doctor Who Variants,1,TRUE,2.42,Rare,669,,,,
+Dalek Squadron (Surge Foil),Doctor Who Variants,1,TRUE,5.22,Uncommon,670,,,,
+Doomsday Confluence (Surge Foil),Doctor Who Variants,1,TRUE,1.34,Rare,672,,,,
+Exterminate! (Surge Foil),Doctor Who Variants,1,TRUE,6.98,Uncommon,673,,,,
+Genesis of the Daleks (Surge Foil),Doctor Who Variants,1,TRUE,9.93,Rare,674,,,,
+This Is How It Ends (Surge Foil),Doctor Who Variants,1,TRUE,1.36,Rare,675,,,,
+Vislor Turlough (Surge Foil),Doctor Who Variants,1,TRUE,0.75,Rare,679,,,,
+"Iraxxa, Empress of Mars (Surge Foil)",Doctor Who Variants,1,TRUE,9.12,Uncommon,694,,,,
+Sontaran General (Surge Foil),Doctor Who Variants,1,TRUE,3.23,Uncommon,701,,,,
+Jamie McCrimmon (Surge Foil),Doctor Who Variants,1,TRUE,0.32,Rare,710,,,,
+"Karvanista, Loyal Lupari // Lupari Shield (Surge Foil)",Doctor Who Variants,1,TRUE,4.25,Rare,711,,,,
+Sisterhood of Karn (Surge Foil),Doctor Who Variants,1,TRUE,0.53,Rare,714,,,,
+Thijarian Witness (Surge Foil),Doctor Who Variants,1,TRUE,0.53,Uncommon,716,,,,
+"Alistair, the Brigadier (Surge Foil)",Doctor Who Variants,1,TRUE,0.88,Rare,717,,,,
+"Ashad, the Lone Cyberman (Surge Foil)",Doctor Who Variants,1,TRUE,1.53,Rare,718,,,,
+Cult of Skaro (Surge Foil),Doctor Who Variants,1,TRUE,1.42,Rare,722,,,,
+The Curse of Fenric (Surge Foil),Doctor Who Variants,1,TRUE,1.73,Rare,723,,,,
+The Cyber-Controller (Surge Foil),Doctor Who Variants,1,TRUE,4.10,Rare,724,,,,
+The Day of the Doctor (Surge Foil),Doctor Who Variants,1,TRUE,6.62,Rare,726,,,,
+The Eighth Doctor (Surge Foil),Doctor Who Variants,1,TRUE,0.39,Rare,729,,,,
+The Eleventh Doctor (Surge Foil),Doctor Who Variants,1,TRUE,1.43,Rare,730,,,,
+The Fifth Doctor (Surge Foil),Doctor Who Variants,1,TRUE,0.22,Rare,732,,,,
+The Fugitive Doctor (Surge Foil),Doctor Who Variants,1,TRUE,0.76,Rare,735,,,,
+Gallifrey Falls // No More (Surge Foil),Doctor Who Variants,1,TRUE,7.36,Rare,736,,,,
+River Song (Surge Foil),Doctor Who Variants,1,TRUE,2.98,Rare,757,,,,
+Run for Your Life (Surge Foil),Doctor Who Variants,1,TRUE,1.02,Rare,759,,,,
+Sally Sparrow (Surge Foil),Doctor Who Variants,1,TRUE,0.50,Rare,760,,,,
+The Second Doctor (Surge Foil),Doctor Who Variants,1,TRUE,0.91,Rare,761,,,,
+The Sixth Doctor (Surge Foil),Doctor Who Variants,1,TRUE,0.39,Rare,764,,,,
+The Third Doctor (Surge Foil),Doctor Who Variants,1,TRUE,0.26,Rare,767,,,,
+The War Doctor (Surge Foil),Doctor Who Variants,1,TRUE,2.98,Rare,772,,,,
+Cybership (Surge Foil),Doctor Who Variants,1,TRUE,1.84,Rare,782,,,,
+Psychic Paper (Surge Foil),Doctor Who Variants,1,TRUE,5.26,Uncommon,786,,,,
+Sonic Screwdriver (Surge Foil),Doctor Who Variants,1,TRUE,8.11,Uncommon,791,,,,
+Gallifrey Council Chamber (Surge Foil),Doctor Who Variants,1,TRUE,1.18,Rare,793,,,,
+Grasp of Fate (Surge Foil),Doctor Who Variants,1,TRUE,1.09,Rare,799,,,,
+Out of Time (Surge Foil),Doctor Who Variants,1,TRUE,0.43,Rare,800,,,,
+Return to Dust (Surge Foil),Doctor Who Variants,1,TRUE,0.97,Uncommon,802,,,,
+Carpet of Flowers (Surge Foil),Doctor Who Variants,1,TRUE,7.21,Rare,820,,,,
+Growth Spiral (Surge Foil),Doctor Who Variants,1,TRUE,5.57,Common,828,,,,
+Time Wipe (Surge Foil),Doctor Who Variants,1,TRUE,0.72,Rare,829,,,,
+Commander's Sphere (Surge Foil),Doctor Who Variants,1,TRUE,5.10,Common,831,,,,
+Heroes' Podium (Surge Foil),Doctor Who Variants,1,TRUE,1.30,Rare,833,,,,
+Celestial Colonnade (Surge Foil),Doctor Who Variants,1,TRUE,0.64,Rare,851,,,,
+Command Tower (Surge Foil),Doctor Who Variants,1,TRUE,8.03,Common,856,,,,
+Desolate Lighthouse (Surge Foil),Doctor Who Variants,1,TRUE,0.54,Rare,862,,,,
+Dreamroot Cascade (Surge Foil),Doctor Who Variants,1,TRUE,4.03,Rare,864,,,,
+Furycalm Snarl (Surge Foil),Doctor Who Variants,1,TRUE,1.91,Rare,874,,,,
+Glacial Fortress (Surge Foil),Doctor Who Variants,1,TRUE,3.44,Rare,876,,,,
+Irrigated Farmland (Surge Foil),Doctor Who Variants,1,TRUE,1.17,Rare,879,,,,
+Path of Ancestry (Surge Foil),Doctor Who Variants,1,TRUE,2.10,Common,884,,,,
+Seaside Citadel (Surge Foil),Doctor Who Variants,1,TRUE,7.25,Uncommon,893,,,,
+Shadowblood Ridge (Surge Foil),Doctor Who Variants,1,TRUE,0.87,Rare,894,,,,
+Sheltered Thicket (Surge Foil),Doctor Who Variants,1,TRUE,1.03,Rare,895,,,,
+Sundown Pass (Surge Foil),Doctor Who Variants,1,TRUE,7.98,Rare,901,,,,
+Temple of Abandon (Surge Foil),Doctor Who Variants,1,TRUE,0.29,Rare,904,,,,
+Temple of Malice (Surge Foil),Doctor Who Variants,1,TRUE,0.63,Rare,908,,,,
+Temple of Mystery (Surge Foil),Doctor Who Variants,1,TRUE,0.57,Rare,909,,,,
+Terramorphic Expanse (Surge Foil),Doctor Who Variants,1,TRUE,5.17,Common,913,,,,
+Thriving Heath (Surge Foil),Doctor Who Variants,1,TRUE,2.10,Common,917,,,,
+Vineglimmer Snarl (Surge Foil),Doctor Who Variants,1,TRUE,0.60,Rare,920,,,,
+Clara Oswald (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,8.60,Rare,923,,,,
+Astrid Peth (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,4.20,Rare,925,,,,
+Barbara Wright (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.84,Rare,926,,,,
+Ian Chesterton (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.54,Rare,932,,,,
+Rose Tyler (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.51,Rare,937,,,,
+Sarah Jane Smith (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.98,Rare,938,,,,
+Tegan Jovanka (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.05,Rare,939,,,,
+The Wedding of River Song (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.84,Rare,940,,,,
+"All of History, All at Once (Extended Art Surge Foil)",Doctor Who Variants,1,TRUE,1.02,Rare,943,,,,
+Auton Soldier (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,17.26,Rare,944,,,,
+Become the Pilot (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.26,Rare,945,,,,
+Flesh Duplicate (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,34.97,Rare,950,,,,
+Nanogene Conversion (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,9.24,Rare,955,,,,
+Dalek Drone (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.96,Rare,962,,,,
+Doomsday Confluence (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.92,Rare,963,,,,
+This Is How It Ends (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.60,Rare,964,,,,
+Vashta Nerada (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,7.65,Rare,967,,,,
+Amy Pond (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,3.03,Rare,969,,,,
+Dan Lewis (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.43,Rare,971,,,,
+Delete (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,2.89,Rare,972,,,,
+Ensnared by the Mara (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,4.83,Rare,975,,,,
+Impending Flux (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.97,Rare,977,,,,
+Into the Time Vortex (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,2.51,Rare,978,,,,
+The Sound of Drums (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,4.63,Rare,982,,,,
+Yasmin Khan (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.41,Rare,983,,,,
+The Foretold Soldier (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.52,Rare,986,,,,
+Graham O'Brien (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.41,Rare,987,,,,
+"Leela, Sevateem Warrior (Extended Art Surge Foil)",Doctor Who Variants,1,TRUE,0.50,Rare,989,,,,
+The Cyber-Controller (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,4.02,Rare,996,,,,
+"Davros, Dalek Creator (Extended Art Surge Foil)",Doctor Who Variants,1,TRUE,1.58,Mythic Rare,998,,,,
+The Eighth Doctor (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,2.42,Rare,1001,,,,
+The Eleventh Doctor (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,4.10,Rare,1002,,,,
+The First Doctor (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.92,Rare,1005,,,,
+"Idris, Soul of the TARDIS (Extended Art Surge Foil)",Doctor Who Variants,1,TRUE,0.25,Rare,1010,,,,
+Last Night Together (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.17,Rare,1014,,,,
+Madame Vastra (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.88,Rare,1016,,,,
+"The Master, Gallifrey's End (Extended Art Surge Foil)",Doctor Who Variants,1,TRUE,0.46,Rare,1018,,,,
+"The Master, Mesmerist (Extended Art Surge Foil)",Doctor Who Variants,1,TRUE,0.35,Rare,1019,,,,
+"The Master, Multiplied (Extended Art Surge Foil)",Doctor Who Variants,1,TRUE,5.57,Rare,1020,,,,
+Missy (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.08,Rare,1022,,,,
+"Rassilon, the War President (Extended Art Surge Foil)",Doctor Who Variants,1,TRUE,0.41,Rare,1025,,,,
+Rory Williams (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.52,Rare,1028,,,,
+Run for Your Life (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.46,Rare,1029,,,,
+Sally Sparrow (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.14,Rare,1030,,,,
+The Second Doctor (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,3.61,Rare,1031,,,,
+The Seventh Doctor (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.95,Rare,1033,,,,
+The Sixth Doctor (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,2.52,Rare,1034,,,,
+The Valeyard (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.41,Rare,1041,,,,
+"Vrestin, Menoptra Leader (Extended Art Surge Foil)",Doctor Who Variants,1,TRUE,2.98,Rare,1042,,,,
+The War Doctor (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,3.03,Rare,1043,,,,
+"Bessie, the Doctor's Roadster (Extended Art Surge Foil)",Doctor Who Variants,1,TRUE,0.96,Rare,1046,,,,
+Confession Dial (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.60,Rare,1047,,,,
+Cybermen Squadron (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,16.37,Rare,1048,,,,
+Cybership (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,3.16,Rare,1049,,,,
+Rotating Fireplace (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.78,Rare,1052,,,,
+Gallifrey Council Chamber (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.49,Rare,1053,,,,
+Day of Destiny (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.39,Rare,1055,,,,
+Farewell (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,9.79,Rare,1056,,,,
+Grasp of Fate (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,2.30,Rare,1057,,,,
+Out of Time (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.42,Rare,1058,,,,
+Wound Reflection (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,4.38,Rare,1062,,,,
+Fractured Identity (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.37,Rare,1068,,,,
+Time Wipe (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.53,Rare,1069,,,,
+Choked Estuary (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.90,Rare,1075,,,,
+Cinder Glade (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,2.33,Rare,1076,,,,
+Creeping Tar Pit (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.24,Rare,1077,,,,
+Darkwater Catacombs (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.55,Rare,1078,,,,
+Deserted Beach (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,5.09,Rare,1079,,,,
+Desolate Lighthouse (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.44,Rare,1080,,,,
+Dragonskull Summit (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,3.19,Rare,1081,,,,
+Dreamroot Cascade (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,4.36,Rare,1082,,,,
+Exotic Orchard (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,11.37,Rare,1084,,,,
+Fetid Pools (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.14,Rare,1085,,,,
+Fiery Islet (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,3.37,Rare,1086,,,,
+Fortified Village (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.91,Rare,1088,,,,
+Frostboil Snarl (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.08,Rare,1089,,,,
+Game Trail (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.25,Rare,1091,,,,
+Glacial Fortress (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,2.92,Rare,1092,,,,
+Haunted Ridge (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,5.46,Rare,1093,,,,
+Horizon Canopy (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.91,Rare,1094,,,,
+Irrigated Farmland (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.22,Rare,1095,,,,
+Lavaclaw Reaches (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.36,Rare,1096,,,,
+Overgrown Farmland (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,3.76,Rare,1097,,,,
+Prairie Stream (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.04,Rare,1099,,,,
+River of Tears (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.58,Rare,1100,,,,
+Rockfall Vale (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,3.60,Rare,1101,,,,
+Rootbound Crag (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,2.58,Rare,1102,,,,
+Scattered Groves (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.14,Rare,1103,,,,
+Skycloud Expanse (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.16,Rare,1107,,,,
+Smoldering Marsh (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,3.34,Rare,1108,,,,
+Sunbaked Canyon (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,6.75,Rare,1110,,,,
+Sunken Hollow (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.96,Rare,1113,,,,
+Temple of Abandon (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.53,Rare,1114,,,,
+Temple of Deceit (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.81,Rare,1115,,,,
+Temple of Enlightenment (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.51,Rare,1116,,,,
+Temple of Malice (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.51,Rare,1118,,,,
+Temple of Mystery (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.06,Rare,1119,,,,
+Temple of Plenty (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,1.05,Rare,1120,,,,
+Temple of Triumph (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,0.47,Rare,1121,,,,
+Thespian's Stage (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,4.66,Rare,1122,,,,
+Waterlogged Grove (Extended Art Surge Foil),Doctor Who Variants,1,TRUE,4.28,Rare,1125,,,,
+The Fifth Doctor (Showcase Surge Foil),Doctor Who Variants,1,TRUE,5.07,Rare,1147,,,,
+The Eighth Doctor (Showcase Surge Foil),Doctor Who Variants,1,TRUE,6.03,Rare,1150,,,,
+The Eleventh Doctor (Showcase Surge Foil),Doctor Who Variants,1,TRUE,13.35,Rare,1153,,,,
+Plains (1156) (Surge Foil),Doctor Who Variants,1,TRUE,0.44,Basic Land,1156,,,,
+Island (1158) (Surge Foil),Doctor Who Variants,1,TRUE,0.79,Basic Land,1158,,,,
+Island (1159) (Surge Foil),Doctor Who Variants,1,TRUE,2.51,Basic Land,1159,,,,
+Mountain (1162) (Surge Foil),Doctor Who Variants,1,TRUE,1.49,Basic Land,1162,,,,
+Forest (1164) (Surge Foil),Doctor Who Variants,1,TRUE,0.50,Basic Land,1164,,,,
