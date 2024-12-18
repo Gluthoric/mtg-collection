@@ -5,10 +5,17 @@ import csv
 import os
 from datetime import datetime
 from functools import wraps
+from threading import Lock
+from cachetools import TTLCache
 
 app = Flask(__name__)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATABASE = os.path.join(BASE_DIR, 'collection.db')
+
+# Add connection pooling
+DB_POOL = {}
+DB_POOL_LOCK = Lock()
+STATS_CACHE = TTLCache(maxsize=1, ttl=5)  # Cache stats for 5 seconds
 
 def enable_cors(f):
     @wraps(f)
@@ -145,16 +152,19 @@ def init_db():
         return needs_card_import  # Return initial import check result
 
 def get_db():
-    """Get database connection"""
+    """Get database connection from pool or create new one"""
     try:
-        print(f"Attempting to connect to database at: {DATABASE}")
-        if not os.path.exists(DATABASE):
-            print(f"Database file not found at: {DATABASE}")
-            raise FileNotFoundError(f"Database file not found at: {DATABASE}")
-            
-        conn = sqlite3.connect(DATABASE)
-        conn.row_factory = sqlite3.Row
-        return conn
+        with DB_POOL_LOCK:
+            if 'conn' not in DB_POOL:
+                print(f"Creating new database connection at: {DATABASE}")
+                if not os.path.exists(DATABASE):
+                    print(f"Database file not found at: {DATABASE}")
+                    raise FileNotFoundError(f"Database file not found at: {DATABASE}")
+                
+                conn = sqlite3.connect(DATABASE, check_same_thread=False)
+                conn.row_factory = sqlite3.Row
+                DB_POOL['conn'] = conn
+            return DB_POOL['conn']
     except sqlite3.Error as e:
         print(f"Database connection error: {str(e)}")
         raise
@@ -172,11 +182,14 @@ def set_view(set_name):
 @app.route('/api/stats')
 @enable_cors
 def get_stats():
-    """Get overall collection statistics"""
+    """Get overall collection statistics with caching"""
     try:
-        print("Handling /api/stats request")
-        with get_db() as db:
-            print("Database connection established")
+        # Check cache first
+        if 'stats' in STATS_CACHE:
+            return jsonify(STATS_CACHE['stats'])
+
+        print("Cache miss - fetching fresh stats")
+        db = get_db()
             stats = {
                 'total_cards': db.execute(
                     'SELECT SUM(quantity + foil_quantity) FROM cards'
@@ -213,6 +226,8 @@ def get_stats():
                     'copies': row['total_copies']
                 }
         
+        # Cache the results
+        STATS_CACHE['stats'] = stats
         return jsonify(stats)
     except Exception as e:
         print(f"Error getting stats: {str(e)}")
