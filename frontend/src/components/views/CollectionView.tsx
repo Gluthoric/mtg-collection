@@ -13,30 +13,46 @@ export function CollectionView() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
+    let mounted = true;
+
     async function fetchData() {
       try {
         setLoading(true);
+        setError(null);
+        
         const [statsData, setsData] = await Promise.all([
           CollectionAPI.getStats(),
           CollectionAPI.getSets()
         ]);
         
-        setStats(statsData);
-        // For now, we'll just get cards from the first set
-        if (setsData.length > 0) {
-          const firstSetCards = await CollectionAPI.getSetCards(setsData[0].set_name);
-          setCards(firstSetCards);
+        // Only update state if component is still mounted
+        if (mounted) {
+          setStats(statsData);
+          // For now, we'll just get cards from the first set
+          if (setsData.length > 0) {
+            const firstSetCards = await CollectionAPI.getSetCards(setsData[0].set_name);
+            setCards(firstSetCards);
+          }
         }
       } catch (err) {
         console.error('Error fetching collection data:', err);
-        setError('Failed to load collection data');
+        if (mounted) {
+          setError('Failed to load collection data. Please check your connection and try again.');
+        }
       } finally {
-        setLoading(false);
+        if (mounted) {
+          setLoading(false);
+        }
       }
     }
 
     fetchData();
-  }, []);
+
+    // Cleanup function to prevent state updates after unmount
+    return () => {
+      mounted = false;
+    };
+  }, []); // Empty dependency array means this effect runs once on mount
 
   if (loading) {
     return <div className="p-4">Loading collection data...</div>;
