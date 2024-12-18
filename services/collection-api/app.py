@@ -17,6 +17,9 @@ DB_POOL = {}
 DB_POOL_LOCK = Lock()
 STATS_CACHE = TTLCache(maxsize=1, ttl=5)  # Cache stats for 5 seconds
 
+# CORS configuration
+ALLOWED_ORIGINS = ['http://localhost:5173', 'http://localhost:3000']
+
 def enable_cors(f):
     @wraps(f)
     def decorated_function(*args, **kwargs):
@@ -27,10 +30,12 @@ def enable_cors(f):
         
         # Log response headers for debugging
         print(f"Setting response headers for {request.path}:")
-        response.headers.add('Access-Control-Allow-Origin', '*')
-        print(f"- Added Access-Control-Allow-Origin: {response.headers['Access-Control-Allow-Origin']}")
+        origin = request.headers.get('Origin')
+        if origin in ALLOWED_ORIGINS:
+            response.headers.add('Access-Control-Allow-Origin', origin)
+            print(f"- Added Access-Control-Allow-Origin: {response.headers['Access-Control-Allow-Origin']}")
         
-        response.headers.add('Access-Control-Allow-Headers', '*')
+        response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization,Accept,Origin')
         print(f"- Added Access-Control-Allow-Headers: {response.headers['Access-Control-Allow-Headers']}")
         
         response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
@@ -53,10 +58,8 @@ def enable_cors(f):
 def handle_preflight():
     if request.method == "OPTIONS":
         response = make_response()
-        # Allow requests from development and production origins
-        allowed_origins = ['http://localhost:5173', 'http://localhost:3000']
         origin = request.headers.get('Origin')
-        if origin in allowed_origins:
+        if origin in ALLOWED_ORIGINS:
             response.headers.add('Access-Control-Allow-Origin', origin)
         response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization,Accept,Origin')
         response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
