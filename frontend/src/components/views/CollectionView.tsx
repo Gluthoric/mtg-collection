@@ -6,7 +6,7 @@ import { SetList } from '../sets/SetList';
 import { CollectionAPI } from '../../services/api';
 import type { MagicCard, CollectionStats as Stats } from '../../types/card';
 
-export function CollectionView() {
+export default function CollectionView() {
   const [selectedCard, setSelectedCard] = useState<MagicCard | null>(null);
   const [stats, setStats] = useState<Stats | null>(null);
   const [sets, setSets] = useState<any[]>([]);
