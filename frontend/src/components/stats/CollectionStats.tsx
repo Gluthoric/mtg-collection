@@ -6,7 +6,7 @@ interface CollectionStatsProps {
   stats: Stats;
 }
 
-export function CollectionStats({ stats }: CollectionStatsProps) {
+export default function CollectionStats({ stats }: CollectionStatsProps) {
   console.log('CollectionStats received stats:', stats);
   
   // Ensure stats is not undefined before using it
