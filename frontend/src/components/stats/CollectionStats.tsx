@@ -7,31 +7,37 @@ interface CollectionStatsProps {
 }
 
 export function CollectionStats({ stats }: CollectionStatsProps) {
+  console.log('CollectionStats received stats:', stats);
+  
+  // Ensure stats is not undefined before using it
+  if (!stats) {
+    console.warn('Stats object is undefined');
+    return <div>Loading stats...</div>;
+  }
+
   const statCards = [
     {
       icon: Library,
       label: 'Total Cards',
-      value: (stats?.totalCards ?? 0).toLocaleString(),
+      value: stats.total_cards.toLocaleString(),
     },
     {
       icon: Star,
       label: 'Unique Cards',
-      value: (stats?.uniqueCards ?? 0).toLocaleString(),
+      value: stats.unique_cards.toLocaleString(),
     },
     {
       icon: DollarSign,
       label: 'Total Value',
-      value: `$${(stats?.totalValue ?? 0).toLocaleString(undefined, {
+      value: `$${stats.total_value.toLocaleString(undefined, {
         minimumFractionDigits: 2,
         maximumFractionDigits: 2,
       })}`,
     },
     {
       icon: Palette,
-      label: 'Most Common Color',
-      value: stats?.cardsByColor 
-        ? Object.entries(stats.cardsByColor).sort((a, b) => b[1] - a[1])[0]?.[0] ?? 'None'
-        : 'None',
+      label: 'Collection Progress',
+      value: `${((stats.unique_cards / stats.total_possible) * 100).toFixed(1)}%`,
     },
   ];
 
