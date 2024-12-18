@@ -81,9 +81,9 @@ def needs_import(conn):
     """Check if database needs card import"""
     try:
         count = conn.execute('SELECT COUNT(*) FROM cards').fetchone()[0]
-        return count == 0
+        return False  # Never trigger full import to preserve quantities
     except sqlite3.OperationalError:
-        return True
+        return True  # Only import if table doesn't exist
 
 def init_db():
     """Initialize or upgrade database"""
@@ -459,9 +459,7 @@ if __name__ == '__main__':
     print("Initializing database...")
     needs_card_import = init_db()  # This will create or upgrade the database as needed
     if needs_card_import:
-        print("Database empty, importing cards...")
-        import_collection()
-        print("Import complete!")
+        print("Database structure created. Ready to receive collection data.")
     else:
         print("Database ready!")
     app.run(debug=True)
