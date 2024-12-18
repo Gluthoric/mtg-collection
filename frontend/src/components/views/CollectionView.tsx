@@ -14,6 +14,8 @@ export function CollectionView() {
   const [cards, setCards] = useState<MagicCard[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [sortBy, setSortBy] = useState('name');
+  const [filter, setFilter] = useState('all');
 
   useEffect(() => {
     let mounted = true;
@@ -79,7 +81,14 @@ export function CollectionView() {
     <div className="space-y-6">
       {stats && <CollectionStats stats={stats} />}
       {!selectedSet ? (
-        <SetList sets={sets} onSetClick={handleSetClick} />
+        <SetList 
+          sets={sets} 
+          onSetClick={handleSetClick}
+          onSortChange={setSortBy}
+          onFilterChange={setFilter}
+          currentSort={sortBy}
+          currentFilter={filter}
+        />
       ) : (
         <>
           <button

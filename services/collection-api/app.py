@@ -320,8 +320,9 @@ def get_set_stats(set_name):
 @enable_cors
 def get_sets():
     """Get list of sets in collection"""
-    sort = request.args.get('sort', 'name')  # name, completion, value
+    sort = request.args.get('sort', 'name')  # name, completion, value, cards
     order = request.args.get('order', 'asc')  # asc, desc
+    filter_type = request.args.get('filter', 'all')  # all, incomplete, complete, empty
     
     order_sql = 'ASC' if order == 'asc' else 'DESC'
     
@@ -333,6 +334,15 @@ def get_sets():
     }
     
     sort_sql = sort_clauses.get(sort, 'set_name')
+    
+    filter_clauses = {
+        'incomplete': 'HAVING owned_cards > 0 AND owned_cards < total_possible',
+        'complete': 'HAVING owned_cards = total_possible',
+        'empty': 'HAVING owned_cards = 0',
+        'all': ''
+    }
+    
+    filter_sql = filter_clauses.get(filter_type, '')
     
     with get_db() as db:
         sets = db.execute(f'''
@@ -347,6 +357,7 @@ def get_sets():
                 ) as total_value
             FROM cards 
             GROUP BY set_name
+            {filter_sql}
             ORDER BY {sort_sql} {order_sql}
         ''').fetchall()
         return jsonify([dict(s) for s in sets])

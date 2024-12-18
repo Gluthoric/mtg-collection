@@ -12,11 +12,44 @@ interface SetData {
 interface SetListProps {
   sets: SetData[];
   onSetClick: (setName: string) => void;
+  onSortChange: (sort: string) => void;
+  onFilterChange: (filter: string) => void;
+  currentSort: string;
+  currentFilter: string;
 }
 
-export function SetList({ sets, onSetClick }: SetListProps) {
+export function SetList({ sets, onSetClick, onSortChange, onFilterChange, currentSort, currentFilter }: SetListProps) {
   return (
-    <div className="grid gap-4 p-4">
+    <div className="space-y-4 p-4">
+      <div className="flex gap-4 bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
+        <div className="flex items-center gap-2">
+          <label className="text-sm font-medium">Sort by:</label>
+          <select 
+            value={currentSort}
+            onChange={(e) => onSortChange(e.target.value)}
+            className="rounded border dark:bg-gray-700 dark:border-gray-600 px-2 py-1"
+          >
+            <option value="name">Name</option>
+            <option value="completion">Completion</option>
+            <option value="value">Value</option>
+            <option value="cards">Cards</option>
+          </select>
+        </div>
+        <div className="flex items-center gap-2">
+          <label className="text-sm font-medium">Filter:</label>
+          <select
+            value={currentFilter}
+            onChange={(e) => onFilterChange(e.target.value)}
+            className="rounded border dark:bg-gray-700 dark:border-gray-600 px-2 py-1"
+          >
+            <option value="all">All Sets</option>
+            <option value="incomplete">Incomplete</option>
+            <option value="complete">Complete</option>
+            <option value="empty">Empty</option>
+          </select>
+        </div>
+      </div>
+      <div className="grid gap-4">
       {sets.map((set) => (
         <div
           key={set.set_name}
