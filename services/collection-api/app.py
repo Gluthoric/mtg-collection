@@ -220,22 +220,28 @@ def get_stats():
 
         print("Cache miss - fetching fresh stats")
         db = get_db()
+        # Ensure all numeric values are properly initialized
+        total_cards = db.execute(
+            'SELECT SUM(quantity + foil_quantity) FROM cards'
+        ).fetchone()[0]
+        unique_cards = db.execute(
+            'SELECT COUNT(*) FROM cards WHERE quantity > 0 OR foil_quantity > 0'
+        ).fetchone()[0]
+        total_possible = db.execute(
+            'SELECT COUNT(*) FROM cards'
+        ).fetchone()[0]
+        total_value = db.execute('''
+            SELECT SUM(
+                quantity * COALESCE(price, 0) + 
+                foil_quantity * COALESCE(foil_price, 0)
+            ) FROM cards
+        ''').fetchone()[0]
+
         stats = {
-            'total_cards': db.execute(
-                    'SELECT SUM(quantity + foil_quantity) FROM cards'
-                ).fetchone()[0] or 0,
-            'unique_cards': db.execute(
-                'SELECT COUNT(*) FROM cards WHERE quantity > 0 OR foil_quantity > 0'
-            ).fetchone()[0] or 0,
-            'total_possible': db.execute(
-                'SELECT COUNT(*) FROM cards'
-            ).fetchone()[0] or 0,
-            'total_value': db.execute('''
-                SELECT SUM(
-                    quantity * COALESCE(price, 0) + 
-                    foil_quantity * COALESCE(foil_price, 0)
-                ) FROM cards
-            ''').fetchone()[0] or 0,
+            'total_cards': int(total_cards if total_cards is not None else 0),
+            'unique_cards': int(unique_cards if unique_cards is not None else 0),
+            'total_possible': int(total_possible if total_possible is not None else 0),
+            'total_value': float(total_value if total_value is not None else 0),
             'by_rarity': {}
         }
         
