@@ -7,10 +7,13 @@ export class CollectionAPI {
     try {
       console.log('Fetching stats from:', `${API_BASE_URL}/api/stats`);
       const response = await fetch(`${API_BASE_URL}/api/stats`, {
+        method: 'GET',
         credentials: 'include',
         headers: {
-          'Content-Type': 'application/json'
-        }
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        },
+        mode: 'cors'
       });
       
       if (!response.ok) {
