@@ -1,0 +1,160 @@
+chunk-M324AGAM.js?v=b8871b21:21549 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+api.ts:26 Fetching fresh stats from: http://localhost:5000/api/stats
+react-router-dom.js?v=b8871b21:4372 ⚠️ React Router Future Flag Warning: React Router will begin wrapping state updates in `React.startTransition` in v7. You can use the `v7_startTransition` future flag to opt-in early. For more information, see https://reactrouter.com/v6/upgrading/future#v7_starttransition.
+warnOnce @ react-router-dom.js?v=b8871b21:4372
+logDeprecation @ react-router-dom.js?v=b8871b21:4375
+logV6DeprecationWarnings @ react-router-dom.js?v=b8871b21:4378
+(anonymous) @ react-router-dom.js?v=b8871b21:5250
+commitHookEffectListMount @ chunk-M324AGAM.js?v=b8871b21:16913
+commitPassiveMountOnFiber @ chunk-M324AGAM.js?v=b8871b21:18154
+commitPassiveMountEffects_complete @ chunk-M324AGAM.js?v=b8871b21:18127
+commitPassiveMountEffects_begin @ chunk-M324AGAM.js?v=b8871b21:18117
+commitPassiveMountEffects @ chunk-M324AGAM.js?v=b8871b21:18107
+flushPassiveEffectsImpl @ chunk-M324AGAM.js?v=b8871b21:19488
+flushPassiveEffects @ chunk-M324AGAM.js?v=b8871b21:19445
+(anonymous) @ chunk-M324AGAM.js?v=b8871b21:19326
+workLoop @ chunk-M324AGAM.js?v=b8871b21:195
+flushWork @ chunk-M324AGAM.js?v=b8871b21:174
+performWorkUntilDeadline @ chunk-M324AGAM.js?v=b8871b21:382
+react-router-dom.js?v=b8871b21:4372 ⚠️ React Router Future Flag Warning: Relative route resolution within Splat routes is changing in v7. You can use the `v7_relativeSplatPath` future flag to opt-in early. For more information, see https://reactrouter.com/v6/upgrading/future#v7_relativesplatpath.
+warnOnce @ react-router-dom.js?v=b8871b21:4372
+logDeprecation @ react-router-dom.js?v=b8871b21:4375
+logV6DeprecationWarnings @ react-router-dom.js?v=b8871b21:4381
+(anonymous) @ react-router-dom.js?v=b8871b21:5250
+commitHookEffectListMount @ chunk-M324AGAM.js?v=b8871b21:16913
+commitPassiveMountOnFiber @ chunk-M324AGAM.js?v=b8871b21:18154
+commitPassiveMountEffects_complete @ chunk-M324AGAM.js?v=b8871b21:18127
+commitPassiveMountEffects_begin @ chunk-M324AGAM.js?v=b8871b21:18117
+commitPassiveMountEffects @ chunk-M324AGAM.js?v=b8871b21:18107
+flushPassiveEffectsImpl @ chunk-M324AGAM.js?v=b8871b21:19488
+flushPassiveEffects @ chunk-M324AGAM.js?v=b8871b21:19445
+(anonymous) @ chunk-M324AGAM.js?v=b8871b21:19326
+workLoop @ chunk-M324AGAM.js?v=b8871b21:195
+flushWork @ chunk-M324AGAM.js?v=b8871b21:174
+performWorkUntilDeadline @ chunk-M324AGAM.js?v=b8871b21:382
+api.ts:26 Fetching fresh stats from: http://localhost:5000/api/stats
+api.ts:47 Received stats data: {by_rarity: {…}, total_cards: 0, total_possible: 94259, total_value: 0, unique_cards: 0}
+api.ts:47 Received stats data: {by_rarity: {…}, total_cards: 0, total_possible: 94259, total_value: 0, unique_cards: 0}
+localhost/:1 Access to fetch at 'http://localhost:5000/api/sets' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+api.ts:85 
+        
+        
+       GET http://localhost:5000/api/sets net::ERR_FAILED 200 (OK)
+getSets @ api.ts:85
+fetchData @ CollectionView.tsx:25
+(anonymous) @ CollectionView.tsx:49
+commitHookEffectListMount @ chunk-M324AGAM.js?v=b8871b21:16913
+commitPassiveMountOnFiber @ chunk-M324AGAM.js?v=b8871b21:18154
+commitPassiveMountEffects_complete @ chunk-M324AGAM.js?v=b8871b21:18127
+commitPassiveMountEffects_begin @ chunk-M324AGAM.js?v=b8871b21:18117
+commitPassiveMountEffects @ chunk-M324AGAM.js?v=b8871b21:18107
+flushPassiveEffectsImpl @ chunk-M324AGAM.js?v=b8871b21:19488
+flushPassiveEffects @ chunk-M324AGAM.js?v=b8871b21:19445
+(anonymous) @ chunk-M324AGAM.js?v=b8871b21:19326
+workLoop @ chunk-M324AGAM.js?v=b8871b21:195
+flushWork @ chunk-M324AGAM.js?v=b8871b21:174
+performWorkUntilDeadline @ chunk-M324AGAM.js?v=b8871b21:382
+api.ts:111 Error fetching sets: TypeError: Failed to fetch
+    at CollectionAPI.getSets (api.ts:85:30)
+    at fetchData (CollectionView.tsx:25:25)
+    at CollectionView.tsx:49:5
+    at commitHookEffectListMount (chunk-M324AGAM.js?v=b8871b21:16913:34)
+    at commitPassiveMountOnFiber (chunk-M324AGAM.js?v=b8871b21:18154:19)
+    at commitPassiveMountEffects_complete (chunk-M324AGAM.js?v=b8871b21:18127:17)
+    at commitPassiveMountEffects_begin (chunk-M324AGAM.js?v=b8871b21:18117:15)
+    at commitPassiveMountEffects (chunk-M324AGAM.js?v=b8871b21:18107:11)
+    at flushPassiveEffectsImpl (chunk-M324AGAM.js?v=b8871b21:19488:11)
+    at flushPassiveEffects (chunk-M324AGAM.js?v=b8871b21:19445:22)
+getSets @ api.ts:111
+await in getSets
+fetchData @ CollectionView.tsx:25
+(anonymous) @ CollectionView.tsx:49
+commitHookEffectListMount @ chunk-M324AGAM.js?v=b8871b21:16913
+commitPassiveMountOnFiber @ chunk-M324AGAM.js?v=b8871b21:18154
+commitPassiveMountEffects_complete @ chunk-M324AGAM.js?v=b8871b21:18127
+commitPassiveMountEffects_begin @ chunk-M324AGAM.js?v=b8871b21:18117
+commitPassiveMountEffects @ chunk-M324AGAM.js?v=b8871b21:18107
+flushPassiveEffectsImpl @ chunk-M324AGAM.js?v=b8871b21:19488
+flushPassiveEffects @ chunk-M324AGAM.js?v=b8871b21:19445
+(anonymous) @ chunk-M324AGAM.js?v=b8871b21:19326
+workLoop @ chunk-M324AGAM.js?v=b8871b21:195
+flushWork @ chunk-M324AGAM.js?v=b8871b21:174
+performWorkUntilDeadline @ chunk-M324AGAM.js?v=b8871b21:382
+CollectionView.tsx:38 Error fetching collection data: Error: Failed to fetch sets data. Please check your connection and try again.
+    at CollectionAPI.getSets (api.ts:112:13)
+    at async Promise.all (:5173/index 1)
+    at async fetchData (CollectionView.tsx:23:39)
+fetchData @ CollectionView.tsx:38
+await in fetchData
+(anonymous) @ CollectionView.tsx:49
+commitHookEffectListMount @ chunk-M324AGAM.js?v=b8871b21:16913
+commitPassiveMountOnFiber @ chunk-M324AGAM.js?v=b8871b21:18154
+commitPassiveMountEffects_complete @ chunk-M324AGAM.js?v=b8871b21:18127
+commitPassiveMountEffects_begin @ chunk-M324AGAM.js?v=b8871b21:18117
+commitPassiveMountEffects @ chunk-M324AGAM.js?v=b8871b21:18107
+flushPassiveEffectsImpl @ chunk-M324AGAM.js?v=b8871b21:19488
+flushPassiveEffects @ chunk-M324AGAM.js?v=b8871b21:19445
+(anonymous) @ chunk-M324AGAM.js?v=b8871b21:19326
+workLoop @ chunk-M324AGAM.js?v=b8871b21:195
+flushWork @ chunk-M324AGAM.js?v=b8871b21:174
+performWorkUntilDeadline @ chunk-M324AGAM.js?v=b8871b21:382
+localhost/:1 Access to fetch at 'http://localhost:5000/api/sets' from origin 'http://localhost:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
+api.ts:85 
+        
+        
+       GET http://localhost:5000/api/sets net::ERR_FAILED 200 (OK)
+getSets @ api.ts:85
+fetchData @ CollectionView.tsx:25
+(anonymous) @ CollectionView.tsx:49
+commitHookEffectListMount @ chunk-M324AGAM.js?v=b8871b21:16913
+invokePassiveEffectMountInDEV @ chunk-M324AGAM.js?v=b8871b21:18322
+invokeEffectsInDev @ chunk-M324AGAM.js?v=b8871b21:19699
+commitDoubleInvokeEffectsInDEV @ chunk-M324AGAM.js?v=b8871b21:19684
+flushPassiveEffectsImpl @ chunk-M324AGAM.js?v=b8871b21:19501
+flushPassiveEffects @ chunk-M324AGAM.js?v=b8871b21:19445
+(anonymous) @ chunk-M324AGAM.js?v=b8871b21:19326
+workLoop @ chunk-M324AGAM.js?v=b8871b21:195
+flushWork @ chunk-M324AGAM.js?v=b8871b21:174
+performWorkUntilDeadline @ chunk-M324AGAM.js?v=b8871b21:382
+api.ts:111 Error fetching sets: TypeError: Failed to fetch
+    at CollectionAPI.getSets (api.ts:85:30)
+    at fetchData (CollectionView.tsx:25:25)
+    at CollectionView.tsx:49:5
+    at commitHookEffectListMount (chunk-M324AGAM.js?v=b8871b21:16913:34)
+    at invokePassiveEffectMountInDEV (chunk-M324AGAM.js?v=b8871b21:18322:19)
+    at invokeEffectsInDev (chunk-M324AGAM.js?v=b8871b21:19699:19)
+    at commitDoubleInvokeEffectsInDEV (chunk-M324AGAM.js?v=b8871b21:19684:15)
+    at flushPassiveEffectsImpl (chunk-M324AGAM.js?v=b8871b21:19501:13)
+    at flushPassiveEffects (chunk-M324AGAM.js?v=b8871b21:19445:22)
+    at chunk-M324AGAM.js?v=b8871b21:19326:17
+getSets @ api.ts:111
+await in getSets
+fetchData @ CollectionView.tsx:25
+(anonymous) @ CollectionView.tsx:49
+commitHookEffectListMount @ chunk-M324AGAM.js?v=b8871b21:16913
+invokePassiveEffectMountInDEV @ chunk-M324AGAM.js?v=b8871b21:18322
+invokeEffectsInDev @ chunk-M324AGAM.js?v=b8871b21:19699
+commitDoubleInvokeEffectsInDEV @ chunk-M324AGAM.js?v=b8871b21:19684
+flushPassiveEffectsImpl @ chunk-M324AGAM.js?v=b8871b21:19501
+flushPassiveEffects @ chunk-M324AGAM.js?v=b8871b21:19445
+(anonymous) @ chunk-M324AGAM.js?v=b8871b21:19326
+workLoop @ chunk-M324AGAM.js?v=b8871b21:195
+flushWork @ chunk-M324AGAM.js?v=b8871b21:174
+performWorkUntilDeadline @ chunk-M324AGAM.js?v=b8871b21:382
+CollectionView.tsx:38 Error fetching collection data: Error: Failed to fetch sets data. Please check your connection and try again.
+    at CollectionAPI.getSets (api.ts:112:13)
+    at async Promise.all (:5173/index 1)
+    at async fetchData (CollectionView.tsx:23:39)
+fetchData @ CollectionView.tsx:38
+await in fetchData
+(anonymous) @ CollectionView.tsx:49
+commitHookEffectListMount @ chunk-M324AGAM.js?v=b8871b21:16913
+invokePassiveEffectMountInDEV @ chunk-M324AGAM.js?v=b8871b21:18322
+invokeEffectsInDev @ chunk-M324AGAM.js?v=b8871b21:19699
+commitDoubleInvokeEffectsInDEV @ chunk-M324AGAM.js?v=b8871b21:19684
+flushPassiveEffectsImpl @ chunk-M324AGAM.js?v=b8871b21:19501
+flushPassiveEffects @ chunk-M324AGAM.js?v=b8871b21:19445
+(anonymous) @ chunk-M324AGAM.js?v=b8871b21:19326
+workLoop @ chunk-M324AGAM.js?v=b8871b21:195
+flushWork @ chunk-M324AGAM.js?v=b8871b21:174
+performWorkUntilDeadline @ chunk-M324AGAM.js?v=b8871b21:382
