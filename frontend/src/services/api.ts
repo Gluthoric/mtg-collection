@@ -11,9 +11,11 @@ export class CollectionAPI {
         credentials: 'include',
         headers: {
           'Content-Type': 'application/json',
-          'Accept': 'application/json'
+          'Accept': 'application/json',
+          'Origin': 'http://localhost:5173'
         },
-        mode: 'cors'
+        mode: 'cors',
+        cache: 'no-cache'
       });
       
       if (!response.ok) {
