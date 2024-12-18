@@ -6,7 +6,12 @@ export class CollectionAPI {
   static async getStats() {
     try {
       console.log('Fetching stats from:', `${API_BASE_URL}/api/stats`);
-      const response = await fetch(`${API_BASE_URL}/api/stats`);
+      const response = await fetch(`${API_BASE_URL}/api/stats`, {
+        credentials: 'include',
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      });
       
       if (!response.ok) {
         const errorText = await response.text();
