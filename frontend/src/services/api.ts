@@ -84,14 +84,11 @@ export class CollectionAPI {
 
       const response = await fetch(`${API_BASE_URL}/api/sets`, {
         method: 'GET',
-        credentials: 'include',
         headers: {
           'Accept': 'application/json',
-          'Content-Type': 'application/json',
-          'Origin': window.location.origin
+          'Content-Type': 'application/json'
         },
-        cache: 'default',
-        mode: 'cors'
+        cache: 'default'
       });
       
       if (!response.ok) {
