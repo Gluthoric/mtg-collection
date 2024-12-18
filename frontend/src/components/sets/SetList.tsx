@@ -50,8 +50,8 @@ export function SetList({ sets, onSetClick, onSortChange, onFilterChange, curren
         </div>
       </div>
       <div className="grid gap-4">
-      {sets.map((set) => (
-        <div
+        {sets.map((set) => (
+          <div
           key={set.set_name}
           onClick={() => onSetClick(set.set_name)}
           className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 cursor-pointer 
@@ -88,5 +88,6 @@ export function SetList({ sets, onSetClick, onSortChange, onFilterChange, curren
         </div>
       ))}
     </div>
+  </div>
   );
 }
