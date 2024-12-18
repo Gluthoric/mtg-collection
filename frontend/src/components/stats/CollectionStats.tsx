@@ -11,17 +11,17 @@ export function CollectionStats({ stats }: CollectionStatsProps) {
     {
       icon: Library,
       label: 'Total Cards',
-      value: stats.totalCards.toLocaleString(),
+      value: (stats?.totalCards ?? 0).toLocaleString(),
     },
     {
       icon: Star,
       label: 'Unique Cards',
-      value: stats.uniqueCards.toLocaleString(),
+      value: (stats?.uniqueCards ?? 0).toLocaleString(),
     },
     {
       icon: DollarSign,
       label: 'Total Value',
-      value: `$${stats.totalValue.toLocaleString(undefined, {
+      value: `$${(stats?.totalValue ?? 0).toLocaleString(undefined, {
         minimumFractionDigits: 2,
         maximumFractionDigits: 2,
       })}`,
@@ -29,7 +29,9 @@ export function CollectionStats({ stats }: CollectionStatsProps) {
     {
       icon: Palette,
       label: 'Most Common Color',
-      value: Object.entries(stats.cardsByColor).sort((a, b) => b[1] - a[1])[0][0],
+      value: stats?.cardsByColor 
+        ? Object.entries(stats.cardsByColor).sort((a, b) => b[1] - a[1])[0]?.[0] ?? 'None'
+        : 'None',
     },
   ];
 
