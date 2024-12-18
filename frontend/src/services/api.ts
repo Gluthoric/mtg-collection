@@ -4,15 +4,29 @@ const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
 
 export class CollectionAPI {
   static async getStats() {
-    const response = await fetch(`${API_BASE_URL}/api/stats`);
-    if (!response.ok) throw new Error('Failed to fetch stats');
-    return response.json();
+    try {
+      const response = await fetch(`${API_BASE_URL}/api/stats`);
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    } catch (error) {
+      console.error('Error fetching stats:', error);
+      throw new Error('Failed to fetch collection stats. Please check your connection and try again.');
+    }
   }
 
   static async getSets() {
-    const response = await fetch(`${API_BASE_URL}/api/sets`);
-    if (!response.ok) throw new Error('Failed to fetch sets');
-    return response.json();
+    try {
+      const response = await fetch(`${API_BASE_URL}/api/sets`);
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    } catch (error) {
+      console.error('Error fetching sets:', error);
+      throw new Error('Failed to fetch sets data. Please check your connection and try again.');
+    }
   }
 
   static async getSetCards(setName: string) {

@@ -16,9 +16,20 @@ def enable_cors(f):
         response = make_response(f(*args, **kwargs))
         response.headers['Access-Control-Allow-Origin'] = '*'
         response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS'
-        response.headers['Access-Control-Allow-Headers'] = 'Content-Type'
+        response.headers['Access-Control-Allow-Headers'] = 'Content-Type, Authorization'
+        response.headers['Access-Control-Max-Age'] = '3600'
         return response
     return decorated_function
+
+@app.before_request
+def handle_preflight():
+    if request.method == "OPTIONS":
+        response = make_response()
+        response.headers['Access-Control-Allow-Origin'] = '*'
+        response.headers['Access-Control-Allow-Methods'] = 'GET, POST, PUT, DELETE, OPTIONS'
+        response.headers['Access-Control-Allow-Headers'] = 'Content-Type, Authorization'
+        response.headers['Access-Control-Max-Age'] = '3600'
+        return response
 SCHEMA_VERSION = 2  # Increment this when schema changes
 SCRYFALL_DATA = '../default-cards.json'  # Updated to use parent directory
 
@@ -150,6 +161,7 @@ def set_view(set_name):
     return render_template('set.html')
 
 @app.route('/api/stats')
+@enable_cors
 def get_stats():
     """Get overall collection statistics"""
     with get_db() as db:
