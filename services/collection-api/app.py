@@ -214,6 +214,9 @@ def get_stats():
                 }
         
         return jsonify(stats)
+    except Exception as e:
+        print(f"Error getting stats: {str(e)}")
+        return jsonify({'error': 'Failed to get collection stats'}), 500
 
 @app.route('/api/set/<set_name>/stats')
 def get_set_stats(set_name):
