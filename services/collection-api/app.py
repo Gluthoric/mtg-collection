@@ -27,7 +27,11 @@ def enable_cors(f):
         
         # Log response headers for debugging
         print(f"Setting response headers for {request.path}:")
-        response.headers.add('Access-Control-Allow-Origin', 'http://localhost:5173')
+        # Allow requests from development and production origins
+        allowed_origins = ['http://localhost:5173', 'http://localhost:3000']
+        origin = request.headers.get('Origin')
+        if origin in allowed_origins:
+            response.headers.add('Access-Control-Allow-Origin', origin)
         print(f"- Added Access-Control-Allow-Origin: {response.headers['Access-Control-Allow-Origin']}")
         
         response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization,Accept,Origin')
@@ -53,7 +57,11 @@ def enable_cors(f):
 def handle_preflight():
     if request.method == "OPTIONS":
         response = make_response()
-        response.headers.add('Access-Control-Allow-Origin', 'http://localhost:5173')
+        # Allow requests from development and production origins
+        allowed_origins = ['http://localhost:5173', 'http://localhost:3000']
+        origin = request.headers.get('Origin')
+        if origin in allowed_origins:
+            response.headers.add('Access-Control-Allow-Origin', origin)
         response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization,Accept,Origin')
         response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
         response.headers.add('Access-Control-Allow-Credentials', 'true')
