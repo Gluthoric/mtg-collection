@@ -311,6 +311,7 @@ def get_set_stats(set_name):
         return jsonify(stats)
 
 @app.route('/api/sets')
+@enable_cors
 def get_sets():
     """Get list of sets in collection"""
     sort = request.args.get('sort', 'name')  # name, completion, value
