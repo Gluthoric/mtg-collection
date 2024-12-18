@@ -2,12 +2,15 @@ import React, { useState, useEffect } from 'react';
 import { CardGrid } from '../cards/CardGrid';
 import { CardDetail } from '../cards/CardDetail';
 import CollectionStats from '../stats/CollectionStats';
+import { SetList } from '../sets/SetList';
 import { CollectionAPI } from '../../services/api';
 import type { MagicCard, CollectionStats as Stats } from '../../types/card';
 
 export function CollectionView() {
   const [selectedCard, setSelectedCard] = useState<MagicCard | null>(null);
   const [stats, setStats] = useState<Stats | null>(null);
+  const [sets, setSets] = useState<any[]>([]);
+  const [selectedSet, setSelectedSet] = useState<string | null>(null);
   const [cards, setCards] = useState<MagicCard[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -28,11 +31,7 @@ export function CollectionView() {
         // Only update state if component is still mounted
         if (mounted) {
           setStats(statsData);
-          // For now, we'll just get cards from the first set
-          if (setsData.length > 0) {
-            const firstSetCards = await CollectionAPI.getSetCards(setsData[0].set_name);
-            setCards(firstSetCards);
-          }
+          setSets(setsData);
         }
       } catch (err) {
         console.error('Error fetching collection data:', err);
@@ -62,12 +61,38 @@ export function CollectionView() {
     return <div className="p-4 text-red-600">{error}</div>;
   }
 
+  const handleSetClick = async (setName: string) => {
+    try {
+      setLoading(true);
+      setSelectedSet(setName);
+      const setCards = await CollectionAPI.getSetCards(setName);
+      setCards(setCards);
+    } catch (err) {
+      console.error('Error loading set cards:', err);
+      setError('Failed to load set cards. Please try again.');
+    } finally {
+      setLoading(false);
+    }
+  };
+
   return (
     <div className="space-y-6">
       {stats && <CollectionStats stats={stats} />}
-      <CardGrid cards={cards} onCardClick={setSelectedCard} />
-      {selectedCard && (
-        <CardDetail card={selectedCard} onClose={() => setSelectedCard(null)} />
+      {!selectedSet ? (
+        <SetList sets={sets} onSetClick={handleSetClick} />
+      ) : (
+        <>
+          <button
+            onClick={() => setSelectedSet(null)}
+            className="mb-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition-colors"
+          >
+            Back to Sets
+          </button>
+          <CardGrid cards={cards} onCardClick={setSelectedCard} />
+          {selectedCard && (
+            <CardDetail card={selectedCard} onClose={() => setSelectedCard(null)} />
+          )}
+        </>
       )}
     </div>
   );
