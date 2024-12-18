@@ -346,6 +346,7 @@ def get_sets():
         return jsonify([dict(s) for s in sets])
 
 @app.route('/api/set/<set_name>/cards')
+@enable_cors
 def get_set_cards(set_name):
     """Get cards for a specific set with filtering"""
     search = request.args.get('search', '')
