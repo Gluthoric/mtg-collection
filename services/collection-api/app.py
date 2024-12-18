@@ -146,9 +146,18 @@ def init_db():
 
 def get_db():
     """Get database connection"""
-    conn = sqlite3.connect(DATABASE)
-    conn.row_factory = sqlite3.Row
-    return conn
+    try:
+        print(f"Attempting to connect to database at: {DATABASE}")
+        if not os.path.exists(DATABASE):
+            print(f"Database file not found at: {DATABASE}")
+            raise FileNotFoundError(f"Database file not found at: {DATABASE}")
+            
+        conn = sqlite3.connect(DATABASE)
+        conn.row_factory = sqlite3.Row
+        return conn
+    except sqlite3.Error as e:
+        print(f"Database connection error: {str(e)}")
+        raise
 
 @app.route('/')
 def index():
@@ -164,11 +173,14 @@ def set_view(set_name):
 @enable_cors
 def get_stats():
     """Get overall collection statistics"""
-    with get_db() as db:
-        stats = {
-            'total_cards': db.execute(
-                'SELECT SUM(quantity + foil_quantity) FROM cards'
-            ).fetchone()[0] or 0,
+    try:
+        print("Handling /api/stats request")
+        with get_db() as db:
+            print("Database connection established")
+            stats = {
+                'total_cards': db.execute(
+                    'SELECT SUM(quantity + foil_quantity) FROM cards'
+                ).fetchone()[0] or 0,
             'unique_cards': db.execute(
                 'SELECT COUNT(*) FROM cards WHERE quantity > 0 OR foil_quantity > 0'
             ).fetchone()[0] or 0,

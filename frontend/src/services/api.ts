@@ -5,14 +5,24 @@ const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
 export class CollectionAPI {
   static async getStats() {
     try {
+      console.log('Fetching stats from:', `${API_BASE_URL}/api/stats`);
       const response = await fetch(`${API_BASE_URL}/api/stats`);
+      
       if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
+        const errorText = await response.text();
+        console.error('Server error response:', errorText);
+        throw new Error(`HTTP error! status: ${response.status}, message: ${errorText}`);
       }
-      return response.json();
+
+      const data = await response.json();
+      console.log('Received stats data:', data);
+      return data;
     } catch (error) {
       console.error('Error fetching stats:', error);
-      throw new Error('Failed to fetch collection stats. Please check your connection and try again.');
+      if (error instanceof TypeError && error.message.includes('Failed to fetch')) {
+        throw new Error('Unable to connect to the server. Please check if the backend is running.');
+      }
+      throw error;
     }
   }
 
