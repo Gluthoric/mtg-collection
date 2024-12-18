@@ -190,8 +190,8 @@ def get_stats():
 
         print("Cache miss - fetching fresh stats")
         db = get_db()
-            stats = {
-                'total_cards': db.execute(
+        stats = {
+            'total_cards': db.execute(
                     'SELECT SUM(quantity + foil_quantity) FROM cards'
                 ).fetchone()[0] or 0,
             'unique_cards': db.execute(
